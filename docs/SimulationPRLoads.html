@@ -1,0 +1,348 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Simulation of price-responsive buildings &mdash; FlexAnalytics 0.1 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+        <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Further work" href="development.html" />
+    <link rel="prev" title="Data sets" href="Datasets.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> FlexAnalytics
+          
+
+          
+            
+            <img src="_static/logo_OASYS.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="SmartGridSimulator.html">Smart Grid Simulator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="EVFleetKIO.html">EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Datasets.html">Data sets</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Simulation of price-responsive buildings</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#mathematical-model">Mathematical model</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#notation">Notation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#formulation">Formulation</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#main-results">Main results</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="development.html">Further work</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">FlexAnalytics</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>Simulation of price-responsive buildings</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/SimulationPRLoads.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="simulation-of-price-responsive-buildings">
+<span id="simulationprloads"></span><h1>Simulation of price-responsive buildings<a class="headerlink" href="#simulation-of-price-responsive-buildings" title="Permalink to this headline">¶</a></h1>
+<p>Smart buildings may respond to price signals by changing consumption patterns. We simulate the behavior of price-responsive households with a floor heating system connected to a ground source based heat pump. Other appliances such as HVAC systems, water heater systems, stove, refrigerator, dishwasher, etc may be taken into account. The goal of this simulation is to provide the consumption of a cluster of buildings that may respond against prices so that their comfort is within desired bounds given external disturbances.</p>
+<div class="section" id="mathematical-model">
+<h2>Mathematical model<a class="headerlink" href="#mathematical-model" title="Permalink to this headline">¶</a></h2>
+<p>The notation and the formulation are explained next.</p>
+<div class="section" id="notation">
+<h3>Notation<a class="headerlink" href="#notation" title="Permalink to this headline">¶</a></h3>
+<table border="1" class="docutils" id="id1">
+<caption><span class="caption-number">Table 1 </span><span class="caption-text">Sets</span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col width="38%" />
+<col width="63%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Sets</th>
+<th class="head">Description</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><span class="math notranslate nohighlight">\(T\)</span></td>
+<td>Set of time periods</td>
+</tr>
+</tbody>
+</table>
+<table border="1" class="docutils" id="id2">
+<caption><span class="caption-number">Table 2 </span><span class="caption-text">Indices</span><a class="headerlink" href="#id2" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col width="38%" />
+<col width="62%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Indices</th>
+<th class="head">Description</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><span class="math notranslate nohighlight">\(t\)</span></td>
+<td>Index of time periods</td>
+</tr>
+</tbody>
+</table>
+<table border="1" class="docutils" id="id3">
+<caption><span class="caption-number">Table 3 </span><span class="caption-text">Parameters</span><a class="headerlink" href="#id3" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col width="31%" />
+<col width="69%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Parameters</th>
+<th class="head">Description</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><span class="math notranslate nohighlight">\(\boldsymbol{A}\)</span></td>
+<td>Matrix of heat-transfer coefficients relating the previous and current states</td>
+</tr>
+<tr class="row-odd"><td><span class="math notranslate nohighlight">\(\boldsymbol{B}\)</span></td>
+<td>Matrix of coefficients relating the current state with the electricity consumption</td>
+</tr>
+<tr class="row-even"><td><span class="math notranslate nohighlight">\(\boldsymbol{E}\)</span></td>
+<td>Matrix of coefficients relating the current state with external disturbances</td>
+</tr>
+<tr class="row-odd"><td><span class="math notranslate nohighlight">\(\rho\)</span></td>
+<td>Penalty of slack variables</td>
+</tr>
+<tr class="row-even"><td><span class="math notranslate nohighlight">\(p_{t}\)</span></td>
+<td>Electricity price in period <span class="math notranslate nohighlight">\(t\)</span></td>
+</tr>
+<tr class="row-odd"><td><span class="math notranslate nohighlight">\(x^{max}\)</span></td>
+<td>Maximum electricity consumption</td>
+</tr>
+</tbody>
+</table>
+<table border="1" class="docutils" id="id4">
+<caption><span class="caption-number">Table 4 </span><span class="caption-text">Variables</span><a class="headerlink" href="#id4" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col width="36%" />
+<col width="64%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Variables</th>
+<th class="head">Description</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><span class="math notranslate nohighlight">\(v_{t}\)</span></td>
+<td>Slack variable</td>
+</tr>
+<tr class="row-odd"><td><span class="math notranslate nohighlight">\(x_{t}\)</span></td>
+<td>Electricity consumption</td>
+</tr>
+<tr class="row-even"><td><span class="math notranslate nohighlight">\(\boldsymbol{y}_t\)</span></td>
+<td>Vector of states</td>
+</tr>
+<tr class="row-odd"><td><span class="math notranslate nohighlight">\(\boldsymbol{z}_t\)</span></td>
+<td>Vector of external disturbances</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="formulation">
+<h3>Formulation<a class="headerlink" href="#formulation" title="Permalink to this headline">¶</a></h3>
+<p>The optimization problem for each building follows an Economic Model Predictive Control (EMPC) problem that minimizes the cost of its consumption plus a term for penalizing the discomfort:</p>
+<div class="math notranslate nohighlight">
+\[ \begin{align}\begin{aligned}\min \sum_{t \in T}{p_{t}x_{t} + \rho v_{t}}\\  \boldsymbol{y}_t = \boldsymbol{A}\boldsymbol{y}_{t-1}+\boldsymbol{B}x_{t-1}+\boldsymbol{E}\boldsymbol{z}_{t-1}, \forall t \in T\\0 \leq x_{t} \leq x^{max}, \forall t \in T\\y^{r}_{t,min} \leq y^{r}_{t} + v_{t}, \forall t \in T\\y^{r}_{t,max} \geq y^{r}_{t} - v_{t}, \forall t \in T\\v_{t} \geq 0, \forall t \in T\end{aligned}\end{align} \]</div>
+<p>wherein <span class="math notranslate nohighlight">\(\boldsymbol{y}_t\)</span> is the vector of states <span class="math notranslate nohighlight">\([y_t^r, y_t^f, y_t^w]\)</span>, <span class="math notranslate nohighlight">\(y_t^r\)</span> is the indoor air temperature, <span class="math notranslate nohighlight">\(y_t^f\)</span> is the floor temperature, <span class="math notranslate nohighlight">\(y_t^w\)</span> is the temperature of the water inside a tank connected to a heat pump, <span class="math notranslate nohighlight">\(\boldsymbol{A}, \boldsymbol{B}, \boldsymbol{E}\)</span> are the matrices of the coefficients defining the state-space model, <span class="math notranslate nohighlight">\(x_{t}\)</span> is the electricity consumption, and <span class="math notranslate nohighlight">\(\boldsymbol{z}_{t}\)</span> is the vector of external disturbances. The latter vector is made up to two components namely <span class="math notranslate nohighlight">\(z_t^a\)</span>, which is the outdoor temperature, and <span class="math notranslate nohighlight">\(z_t^s\)</span>, which is the solar irradiance.</p>
+</div>
+</div>
+<div class="section" id="main-results">
+<h2>Main results<a class="headerlink" href="#main-results" title="Permalink to this headline">¶</a></h2>
+<p>We compare the two cases analyzed in the <a class="reference external" href="http://ieeexplore.ieee.org/document/7859377/">Saez-Gallego’s paper</a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li><cite>flex</cite> case: the behavior of 100 buildings (during 2016 hours) is shown when considering comfort bands with two degrees apart from each other.</li>
+<li><cite>noflex</cite> case: the behavior of 100 buildings (during 2016 hours) is shown when considering comfort bands with two degrees apart from each other.</li>
+</ul>
+</div></blockquote>
+<p>To do that, 300 individual simulations were performed by randomly perturbing the heat-transfer coefficients of the matrix <span class="math notranslate nohighlight">\(\boldsymbol{A}\)</span> of the EMPC model. A uniform distribution centrered around zero with a variance equal to 1/50 the magnitude of the corresponding coefficient was used. 300 building were simulated and the 100 with the least discomfort were chosen in order to avoid unstable solutions.</p>
+<div class="figure align-center" id="id5">
+<span id="figure1"></span><a class="reference internal image-reference" href="_images/noflexcase_price_vs_load.png"><img alt="_images/noflexcase_price_vs_load.png" src="_images/noflexcase_price_vs_load.png" style="width: 100%;" /></a>
+<p class="caption"><span class="caption-number">Fig. 6 </span><span class="caption-text">Price and consumption for the <cite>noflex</cite> case</span></p>
+</div>
+<div class="figure align-center" id="id6">
+<span id="figure2"></span><a class="reference internal image-reference" href="_images/flexcase_price_vs_load.png"><img alt="_images/flexcase_price_vs_load.png" src="_images/flexcase_price_vs_load.png" style="width: 100%;" /></a>
+<p class="caption"><span class="caption-number">Fig. 7 </span><span class="caption-text">Price and consumption for the <cite>flex</cite> case</span></p>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="development.html" class="btn btn-neutral float-right" title="Further work" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="Datasets.html" class="btn btn-neutral float-left" title="Data sets" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, OASYS
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

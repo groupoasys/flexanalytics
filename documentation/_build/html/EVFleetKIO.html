@@ -1,0 +1,255 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization &mdash; FlexAnalytics 0.1 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+        <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Data sets" href="Datasets.html" />
+    <link rel="prev" title="Smart Grid Simulator" href="SmartGridSimulator.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> FlexAnalytics
+          
+
+          
+            
+            <img src="_static/logo_OASYS.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="SmartGridSimulator.html">Smart Grid Simulator</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#abstract">Abstract</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main-results">Main results</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="Datasets.html">Data sets</a></li>
+<li class="toctree-l1"><a class="reference internal" href="SimulationPRLoads.html">Simulation of price-responsive buildings</a></li>
+<li class="toctree-l1"><a class="reference internal" href="development.html">Further work</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">FlexAnalytics</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/EVFleetKIO.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="ev-fleet-power-forecasting-via-kernel-based-inverse-optimization">
+<span id="evfleetkio"></span><h1>EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization<a class="headerlink" href="#ev-fleet-power-forecasting-via-kernel-based-inverse-optimization" title="Permalink to this headline">¶</a></h1>
+<p>This is a summary of the work that can be found in <a class="reference external" href="https://arxiv.org/pdf/1908.00399.pdf">[1]</a>.</p>
+<div class="section" id="abstract">
+<h2>Abstract<a class="headerlink" href="#abstract" title="Permalink to this headline">¶</a></h2>
+<p>This work considers an aggregator of Electric Vehicles (EVs) who aims to forecast the aggregate power of her fleet. The forecasting approach is based on a data-driven inverse optimization (IO) method, which is highly nonlinear. To overcome such a caveat, we use a two-step estimation procedure which requires to solve two convex programs. Both programs depend on penalty parameters that can be adjusted by using grid search. In addition, we propose the use of kernel regression to account for the nonlinear relationship between the behaviour of the pool of EVs and the explanatory variables, i.e., the past electricity prices and EV fleet’s driving patterns. Unlike any other forecasting method, the proposed IO framework also allows the aggregator to derive a bidding curve, i.e. the tuple of price-quantity to be submitted to the electricity market, according to the market rules. We show the effective performance of the proposed method against state-of-the-art machine-learning techniques.</p>
+</div>
+<div class="section" id="main-results">
+<h2>Main results<a class="headerlink" href="#main-results" title="Permalink to this headline">¶</a></h2>
+<p>We assume a residential aggregator with 100 EVs and that the EVs do not enable their V2G capabilities. We compare the results for three cases:</p>
+<blockquote>
+<div><ul class="simple">
+<li><cite>naive-ch</cite> case: The EVs satisfy their energy needs by using a naive charging. In this case each EV will be charged to its required maximum energy as soon as it is available, thus neglecting the dependence of the charging power on the price.</li>
+<li><cite>sync</cite> case: The charging is highly synchronized.</li>
+<li><cite>non-sync</cite> case: The charging synchronization is avoided.</li>
+</ul>
+</div></blockquote>
+<p>Note that the cases <cite>sync</cite> and <cite>non-sync</cite> are driven by the cost minimization of the EV’s aggregator wherein the electricity prices are accounted for.</p>
+<p>The sizes of the training, validation, and test sets are 672 h, 168 h, and 168 h, in that order. <a class="reference internal" href="#fig-kio1"><span class="std std-numref">Fig. 2</span></a> represents the hourly electricity price versus the corresponding charging power for all periods of the training set for the cases mentioned above. As can be seen, the aggregate power of the <cite>non-sync</cite> case depends linearly on the price, unlike cases <cite>naive-ch</cite> and <cite>sync</cite>.</p>
+<div class="figure align-center" id="id2">
+<span id="fig-kio1"></span><a class="reference internal image-reference" href="_images/power_price_g2v_coloured.png"><img alt="_images/power_price_g2v_coloured.png" src="_images/power_price_g2v_coloured.png" style="width: 100%;" /></a>
+<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">Power versus price for cases (a) <cite>naive-ch</cite>, (b) <cite>sync</cite>, and (c) <cite>non-sync</cite></span></p>
+</div>
+<p>Apart from the improvement in terms of RMSE (root mean square error) and MAE (mean absolute error) of the proposed approach <cite>kio</cite> against the rest of the models to forecast the EV-fleet power, <cite>kio</cite> is able to provide a bidding curve, as imposed by rules in electricity markets. <a class="reference internal" href="#fig-kio2"><span class="std std-numref">Fig. 3</span></a>, <a class="reference internal" href="#fig-kio3"><span class="std std-numref">Fig. 4</span></a>, and <a class="reference internal" href="#fig-kio4"><span class="std std-numref">Fig. 5</span></a> show the results for cases <cite>naive-ch</cite>, <cite>sync</cite>, and <cite>non-sync</cite>, respectively. In the upper plots of <a class="reference internal" href="#fig-kio3"><span class="std std-numref">Fig. 4</span></a> and <a class="reference internal" href="#fig-kio4"><span class="std std-numref">Fig. 5</span></a>, we show the estimated marginal utility prices for the six blocks for each hour of the first day of the test set and for the cases <cite>sync</cite> and <cite>non-sync</cite>. Correspondingly, <a class="reference internal" href="#fig-kio2"><span class="std std-numref">Fig. 3</span></a> and the lower plots of <a class="reference internal" href="#fig-kio3"><span class="std std-numref">Fig. 4</span></a> and <a class="reference internal" href="#fig-kio4"><span class="std std-numref">Fig. 5</span></a> depict the estimated bounds as well as the forecast and observed EV-fleet power for such a day.</p>
+<p>In the <cite>naive-ch</cite> case, the <cite>kio</cite> provides coincident power bounds, as illustrated in <a class="reference internal" href="#fig-kio2"><span class="std std-numref">Fig. 3</span></a>, which means that the optimality problem (i.e. the marginal utility estimation problem, which captures the price effect) is useless and thus the aggregate charging power can be directly explained by estimating the bounds. In the upper plots of <a class="reference internal" href="#fig-kio3"><span class="std std-numref">Fig. 4</span></a> and <a class="reference internal" href="#fig-kio4"><span class="std std-numref">Fig. 5</span></a>, we can observe that the <cite>kio</cite> model identifies whether the EV-fleet power is price-responsive or not by assigning different values to the marginal utility for each block. On the one hand, in <a class="reference internal" href="#fig-kio3"><span class="std std-numref">Fig. 4</span></a>, the blockwise marginal utilities are almost identical at any time period, thus suggesting that the EV fleet is almost inelastic for the <cite>sync</cite> case. In this case, the power bounds are basically shaping the EV-fleet charging forecast. On the other hand, for the <cite>non-sync</cite> case, the bounds are generally wider than those obtained for the <cite>sync</cite> case (see <a class="reference internal" href="#fig-kio4"><span class="std std-numref">Fig. 5</span></a>). The marginal utility is thus shaping the aggregate power forecast since the <cite>kio</cite> model gives rise to a wider range of marginal utility values at any time period, as can be observed in <a class="reference internal" href="#fig-kio4"><span class="std std-numref">Fig. 5</span></a>. In short, unlike any other forecasting tool, we gain interpretability with the proposed inverse optimization approach <cite>kio</cite> due to two aspects: (i) the width of the bounds, which sheds light on the price-responsiveness of the EV fleet; and (ii) the derivation of a bidding curve when there exists a dependence of the EV-fleet power on the price.</p>
+<div class="figure align-center" id="id3">
+<span id="fig-kio2"></span><a class="reference internal image-reference" href="_images/case_g2v_naive_coloured.png"><img alt="_images/case_g2v_naive_coloured.png" src="_images/case_g2v_naive_coloured.png" style="width: 100%;" /></a>
+<p class="caption"><span class="caption-number">Fig. 3 </span><span class="caption-text">Estimated power bounds as well as forecast and observed power for case <cite>naive-ch</cite></span></p>
+</div>
+<div class="figure align-center" id="id4">
+<span id="fig-kio3"></span><a class="reference internal image-reference" href="_images/case_g2v_a0_coloured.png"><img alt="_images/case_g2v_a0_coloured.png" src="_images/case_g2v_a0_coloured.png" style="width: 100%;" /></a>
+<p class="caption"><span class="caption-number">Fig. 4 </span><span class="caption-text">Results for case <cite>sync</cite>: (a) Estimated marginal utility price per block and electricity price, and (b) estimated power bounds as well as forecast and observed power. Note that the inset plot represents the bid price function and the corresponding electricity price of hour 5</span></p>
+</div>
+<div class="figure align-center" id="id5">
+<span id="fig-kio4"></span><a class="reference internal image-reference" href="_images/case_g2v_anot0_coloured.png"><img alt="_images/case_g2v_anot0_coloured.png" src="_images/case_g2v_anot0_coloured.png" style="width: 100%;" /></a>
+<p class="caption"><span class="caption-number">Fig. 5 </span><span class="caption-text">Results for case <cite>non-sync</cite>: (a) Estimated marginal utility price per block and electricity price, and (b) estimated power bounds as well as forecast and observed power. Note that the inset plot represents the bid price function and the corresponding electricity price of hour 5</span></p>
+</div>
+<p>If you would like to know more about this work, you can read it in <a class="reference external" href="https://arxiv.org/pdf/1908.00399.pdf">[1]</a>.</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="Datasets.html" class="btn btn-neutral float-right" title="Data sets" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="SmartGridSimulator.html" class="btn btn-neutral float-left" title="Smart Grid Simulator" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, OASYS
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
