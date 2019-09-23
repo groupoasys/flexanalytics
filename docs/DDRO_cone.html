@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Smart Grid Simulator &mdash; FlexAnalytics 0.1 documentation</title>
+  <title>Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints &mdash; FlexAnalytics 0.1 documentation</title>
   
 
   
@@ -25,7 +25,6 @@
         <script type="text/javascript" src="_static/underscore.js"></script>
         <script type="text/javascript" src="_static/doctools.js"></script>
         <script type="text/javascript" src="_static/language_data.js"></script>
-        <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
     
     <script type="text/javascript" src="_static/js/theme.js"></script>
 
@@ -36,7 +35,7 @@
   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization" href="EVFleetKIO.html" />
+    <link rel="next" title="Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty" href="SEST2019.html" />
     <link rel="prev" title="Flexanalytics" href="index.html" /> 
 </head>
 
@@ -89,11 +88,14 @@
             
             
               <ul class="current">
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Smart Grid Simulator</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#abstract">Abstract</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main-results">Main results</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="SEST2019.html">Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty</a></li>
 <li class="toctree-l1"><a class="reference internal" href="EVFleetKIO.html">EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Datasets.html">Data sets</a></li>
-<li class="toctree-l1"><a class="reference internal" href="SimulationPRLoads.html">Simulation of price-responsive buildings</a></li>
-<li class="toctree-l1"><a class="reference internal" href="development.html">Further work</a></li>
+<li class="toctree-l1"><a class="reference internal" href="collaboration.html">Collaboration with other groups</a></li>
 </ul>
 
             
@@ -139,13 +141,13 @@
     
       <li><a href="index.html">Docs</a> &raquo;</li>
         
-      <li>Smart Grid Simulator</li>
+      <li>Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
             
-            <a href="_sources/SmartGridSimulator.rst.txt" rel="nofollow"> View page source</a>
+            <a href="_sources/DDRO_cone.rst.txt" rel="nofollow"> View page source</a>
           
         
       </li>
@@ -158,26 +160,17 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="sidebar" id="smartgridsimulator">
-<p class="first sidebar-title"><strong>SAND</strong>’s modules</p>
-<ul class="last simple">
-<li><strong>Module 1</strong> Simulator of price-responsive consumers.</li>
-<li><strong>Module 2</strong> Simulator of price-responsive producers.</li>
-<li><strong>Module 3</strong>: Simulator of energy storage systems.</li>
-<li><strong>Module 4</strong>: Simulator of operation of smart distribution grids.</li>
-</ul>
+  <div class="section" id="data-driven-distributionally-robust-optimization-via-optimal-transport-with-order-cone-constraints">
+<span id="ddro-cone"></span><h1>Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints<a class="headerlink" href="#data-driven-distributionally-robust-optimization-via-optimal-transport-with-order-cone-constraints" title="Permalink to this headline">¶</a></h1>
+<p>This is a summary of the work that can be found in <a class="reference external" href="https://arxiv.org/pdf/1903.01769.pdf">[1]</a>.</p>
+<div class="section" id="abstract">
+<h2>Abstract<a class="headerlink" href="#abstract" title="Permalink to this headline">¶</a></h2>
+<p>We tackle stochastic programs affected by ambiguity about the
+probability law that governs their uncertain parameters. Using Optimal Transport Theory, we construct an ambiguity set that exploits the knowledge about the distribution of the uncertain parameters that is provided by: i) sample data and ii) <cite>a-priori</cite> information on the order among the probabilities that the true data-generating distribution assigns to some regions of its support set.  Such an order is enforced by means of order cone constraints and can encode a wide range of information on the shape of the probability distribution of the uncertain parameters such as that related to monotonicity or multi-modality. We seek decisions that  are distributionally robust. In a number of practical cases, the resulting distributionally robust optimization (DRO) problem can be  reformulated as a finite convex problem  where the <cite>a-priori</cite> information  translates into linear constraints. Furthermore, our method inherits the finite-sample performance guarantees of the Wasserstein-metric-based DRO approach proposed in Mohajerin Esfahani and Kuhn (2018), while generalizing this and other popular DRO approaches. Finally, numerical experiments are designed to provide insight into the performance of our approach for the Newsvendor problem.</p>
 </div>
-<div class="section" id="smart-grid-simulator">
-<h1>Smart Grid Simulator<a class="headerlink" href="#smart-grid-simulator" title="Permalink to this headline">¶</a></h1>
-<p>One of the main goals of <cite>Flexanalytics</cite> is to build a smart grid simulator (as shown in <a class="reference internal" href="#figsimulator"><span class="std std-numref">Fig. 1</span></a>) for distribution grids including the following features:</p>
-<ul class="simple">
-<li>A real-life data portfolio</li>
-<li>A battery of test cases for the distribution system of the future</li>
-<li>A plethora of data-driven power system operations for the distribution grid</li>
-</ul>
-<div class="figure align-center" id="id1">
-<span id="figsimulator"></span><a class="reference internal image-reference" href="_images/SmartGridSimulator5.png"><img alt="_images/SmartGridSimulator5.png" src="_images/SmartGridSimulator5.png" style="width: 100%;" /></a>
-<p class="caption"><span class="caption-number">Fig. 1 </span><span class="caption-text">Structure of the Smart Grid Simulator SAND</span></p>
+<div class="section" id="main-results">
+<h2>Main results<a class="headerlink" href="#main-results" title="Permalink to this headline">¶</a></h2>
+<p>Under construction</p>
 </div>
 </div>
 
@@ -189,7 +182,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="EVFleetKIO.html" class="btn btn-neutral float-right" title="EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="SEST2019.html" class="btn btn-neutral float-right" title="Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="index.html" class="btn btn-neutral float-left" title="Flexanalytics" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
