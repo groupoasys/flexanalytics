@@ -17,7 +17,8 @@ This project aims to provide data-driven methodologies to paradigmatic problems 
    :align: center
 
 
-.. note::  This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
+
+
 
 Preamble
 --------
