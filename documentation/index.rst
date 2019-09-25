@@ -5,11 +5,17 @@
 
  ..module:: flexanalytics
 
-Flexanalytics
-=============
-:Organization: `OASYS group`_, `University of Malaga`_
-:Version: |version|
-:Date: |today|
+Welcome to Flexanalytics project webpage!
+==========================================
+Flexanalytics is a ERC Starting Grant project developed by `OASYS group`_.
+
+This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
+
+.. _fig_erc_logo:
+.. figure:: _static/erc_logo.png
+   :width: 50%
+   :align: center
+
 
 .. note::  This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
 
