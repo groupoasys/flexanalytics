@@ -36,9 +36,11 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   conference_papers
    journal_papers
+   conference_papers
+   working_papers
    
+
 
 Publications
 ------------
