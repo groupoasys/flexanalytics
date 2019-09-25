@@ -30,6 +30,15 @@ Preamble
 
 If you would like to know more about this project, please have a look at this site. All the works related with the project are summarized below.
 
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   conference_papers
+   journal_papers
+   
 
 Publications
 ------------
