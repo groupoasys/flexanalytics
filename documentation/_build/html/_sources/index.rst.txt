@@ -22,12 +22,12 @@ Publications
 
 The following papers have been submitted to international journals or reputed international conferences: 
 
-* S. Pineda and J. M. Morales, `Solving Linear Bilevel Problems Using Big-Ms: Not All That Glitters Is Gold`, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 2469--2471, May 2019.	
+* S. Pineda and J. M. Morales, :ref:`Solving Linear Bilevel Problems Using Big-Ms: Not All That Glitters Is Gold <BIGM_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 2469--2471, May 2019.	
 * S. Pineda, R. Fernandez-Blanco, and J. M. Morales, :ref:`Time-Adaptive Unit Commitment <TAUC_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 34, no. 5, pp. 3869--3878, Sep. 2019.
 * A. Esteban-Perez and J. M. Morales, :ref:`Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints`, submitted to `Applied Mathematics and Optimization`, 2019.
-* R. Fernandez-Blanco, J. M. Morales, and S. Pineda, `How Can Smart Buildings Be Price-Responsive?`, 13th IEEE PowerTech 2019, Milano, Italy, Jun. 2019.
+* R. Fernandez-Blanco, J. M. Morales, and S. Pineda, :ref:`How Can Smart Buildings Be Price-Responsive? <POWERTECH2019>`, 13th IEEE PowerTech 2019, Milano, Italy, Jun. 2019.
 * A. Porras, R. Fernandez-Blanco, J. M. Morales, and S. Pineda, :ref:`Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty <SEST2019>`, 2nd International Conference on Smart Energy Systems and Technologies, Porto, Portugal, Sep. 2019.
-* R. Fernandez-Blanco, J. M. Morales, S. Pineda, and A. Porras, :ref:`EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization`, submitted to `IEEE Transactions on Power Systems`, 2019.
+* R. Fernandez-Blanco, J. M. Morales, S. Pineda, and A. Porras, `EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization`, submitted to `IEEE Transactions on Power Systems`, 2019.
 * M. A. Munoz, J. M. Morales, and S. Pineda, `Feature-driven Improvement of Renewable Energy Forecasting and Trading`, submitted to `IEEE Transactions on Power Systems`, 2019.	
 * S. Pineda, J. M. Morales, and A. Jimenez-Cordero, `Data-driven Network Reduction for Transmission-Constrained Unit Commitment`, submitted to `IEEE Transactions on Power Systems`, 2019.
 
@@ -37,6 +37,7 @@ Contents
 .. toctree::
    :maxdepth: 1
 
+   BIGM_TPWRS
    TAUC_TPWRS
    POWERTECH2019
    SEST2019

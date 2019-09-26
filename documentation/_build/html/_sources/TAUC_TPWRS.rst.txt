@@ -16,6 +16,28 @@ Main results
 
 Under construction
 
+Citation
+--------
+
+If you would like to cite this work, please use the following citation: 
+
+	S. Pineda, R. Fernandez-Blanco, and J. M. Morales, `Time-Adaptive Unit Commitment`, `IEEE Transactions on Power Systems`, vol. 34, no. 5, pp. 3869--3878, Sep. 2019.
+
+You can use this bibtex entry: 
+
+.. code-block:: latex
+
+   @article{pineda2019_tauc,
+     title={Time-adaptive unit commitment},
+     author={Pineda, Salvador and Fern{\'a}ndez-Blanco, Ricardo and Morales, Juan Miguel},
+     journal={IEEE Transactions on Power Systems},
+     volume={34},
+     number={5},
+     pages={3869--3878},
+     year={2019},
+     publisher={IEEE}
+   }
+
 
 .. _[1]: https://arxiv.org/pdf/1810.00206.pdf
 
