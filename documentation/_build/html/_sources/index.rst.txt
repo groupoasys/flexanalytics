@@ -39,6 +39,7 @@ Contents
    journal_papers
    conference_papers
    working_papers
+   contributions_in_conferences
    
 .. ..   
 
