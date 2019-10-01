@@ -40,6 +40,25 @@ Contents
    conference_papers
    working_papers
    contributions_in_conferences
+   collaboration
+
+
+Contact
+-------
+If you want to know more about this project or about the `OASYS group`_, do not hesitate to contact us here:
+::
+
+    The  `OASYS group`_, University of Málaga (link)
+
+    C/ Arquitecto Francisco Peñalosa, 18 (how to get there)
+
+    29071, Málaga (Spain)
+
+    Phone: +34 951952942, +34 951952925
+
+
+
+
    
 .. ..   
 
@@ -83,4 +102,5 @@ Contents
 
 .. _OASYS group: https://sites.google.com/view/groupoasys/home
 .. _University of Malaga: https://www.uma.es/?set_language=en
+
 
