@@ -7,7 +7,7 @@
 
 Welcome to Flexanalytics project webpage!
 ==========================================
-Flexanalytics is a ERC Starting Grant project developed by `OASYS group`_.
+`Flexanalytics` is a ERC Starting Grant project developed by `OASYS group`_.
 
 This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
 
@@ -46,16 +46,27 @@ Contents
 Contact
 -------
 If you want to know more about this project or about the `OASYS group`_, do not hesitate to contact us here:
-::
 
-    The  `OASYS group`_, University of Málaga (link)
++-----------------------------------------------------------------+
+|    The  `Ada Byron Research Building`_, `University of Malaga`_ |
+|                                                                 |
+|    C/ Arquitecto Francisco Peñalosa, 18                         |
+|                                                                 |
+|    29071, Málaga (Spain)                                        |
+|                                                                 |
+|    Phone: +34 951952942, +34 951952925                          |
+|                                                                 |
+|    Email: groupoasys@gmail.com                                  |
++-----------------------------------------------------------------+
+or to visit or social networks and personal sites:
 
-    C/ Arquitecto Francisco Peñalosa, 18 (how to get there)
+.. image:: _static/github_logo.png
+   :target: https://github.com/groupoasys
+   :width: 15%
 
-    29071, Málaga (Spain)
-
-    Phone: +34 951952942, +34 951952925
-
+.. image:: _static/website_logo.png
+   :target: https://sites.google.com/view/groupoasys/home
+   :width: 12%
 
 
 
@@ -102,5 +113,6 @@ If you want to know more about this project or about the `OASYS group`_, do not 
 
 .. _OASYS group: https://sites.google.com/view/groupoasys/home
 .. _University of Malaga: https://www.uma.es/?set_language=en
+.. _Ada Byron Research Building: https://www.google.es/maps/place/Edificio+de+Investigaci%C3%B3n+Ada+Byron/@36.7134684,-4.4955763,15z/data=!4m5!3m4!1s0x0:0x1032cecb86235596!8m2!3d36.7167245!4d-4.4998428
 
 
