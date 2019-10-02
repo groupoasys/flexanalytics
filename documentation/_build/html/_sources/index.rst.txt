@@ -36,8 +36,8 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   journal_papers
-   conference_papers
+   journal_papers/index
+   conference_papers/index
    working_papers
    contributions_in_conferences
    collaboration

@@ -1,0 +1,258 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Time-Adaptive Unit Commitment &mdash; FlexAnalytics 0.1 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../_static/jquery.js"></script>
+        <script type="text/javascript" src="../_static/underscore.js"></script>
+        <script type="text/javascript" src="../_static/doctools.js"></script>
+        <script type="text/javascript" src="../_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Conference papers" href="../conference_papers/index.html" />
+    <link rel="prev" title="Solving Linear Bilevel Problems Using Big-Ms: Not All That Glitters Is Gold" href="BIGM_TPWRS.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> FlexAnalytics
+          
+
+          
+            
+            <img src="../_static/logo_OASYS.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">Journal papers</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="index.html#contents">Contents</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="BIGM_TPWRS.html">Solving Linear Bilevel Problems Using Big-Ms: Not All That Glitters Is Gold</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Time-Adaptive Unit Commitment</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#abstract">Abstract</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#main-results">Main results</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#citation">Citation</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../conference_papers/index.html">Conference papers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../working_papers.html">Working papers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributions_in_conferences.html">Contributions in Conferences</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../collaboration.html">Collaboration with Other Groups</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">FlexAnalytics</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+          <li><a href="index.html">Journal papers</a> &raquo;</li>
+        
+      <li>Time-Adaptive Unit Commitment</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/journal_papers/TAUC_TPWRS.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="time-adaptive-unit-commitment">
+<span id="tauc-tpwrs"></span><h1>Time-Adaptive Unit Commitment<a class="headerlink" href="#time-adaptive-unit-commitment" title="Permalink to this headline">¶</a></h1>
+<p>This is a summary of the work that can be found in <a class="reference external" href="https://arxiv.org/pdf/1810.00206.pdf">[1]</a>.</p>
+<div class="section" id="abstract">
+<h2>Abstract<a class="headerlink" href="#abstract" title="Permalink to this headline">¶</a></h2>
+<p>The short-term  operation  of a power  system  is  usually planned  by  solving  a  day-ahead  unit  commitment  problem. Due to historical reasons, the commitment of the power generating units is decided over a time horizon typically consisting of the 24 hourly periods of a day. In this paper, we show that, as a result of the increasing  penetration of intermittent renewable generation, this somewhat arbitrary and artificial division of time may prove to be significantly suboptimal and counterproductive. Instead, we propose a time-adaptive day-ahead unit commitment formulation that better captures the net-demand variability throughout the day. The proposed formulation provides the commitment and dispatch of thermal generating units over a set of 24 time periods too, but with different duration. To do that, we use a clustering procedure  to  select  the duration of those adaptive time periods  taking into account the renewable generation and demand forecasts. Numerical results show that, without increasing the computational burden, the proposed time-adaptive unit  commitment  allows  for  a  more  efficient  use  of  the  system flexibility,  which  translates  into  a  lower  operating  cost  and  a higher penetration of renewable production than those achieved by  a  conventional  hourly  unit  commitment  problem.</p>
+</div>
+<div class="section" id="main-results">
+<h2>Main results<a class="headerlink" href="#main-results" title="Permalink to this headline">¶</a></h2>
+<p>Under construction</p>
+</div>
+<div class="section" id="citation">
+<h2>Citation<a class="headerlink" href="#citation" title="Permalink to this headline">¶</a></h2>
+<p>If you would like to cite this work, please use the following citation:</p>
+<blockquote>
+<div><ol class="upperalpha simple" start="19">
+<li>Pineda, R. Fernandez-Blanco, and J. M. Morales, <cite>Time-Adaptive Unit Commitment</cite>, <cite>IEEE Transactions on Power Systems</cite>, vol. 34, no. 5, pp. 3869–3878, Sep. 2019.</li>
+</ol>
+</div></blockquote>
+<p>You can use this bibtex entry:</p>
+<div class="highlight-latex notranslate"><div class="highlight"><pre><span></span>@article<span class="nb">{</span>pineda2019<span class="nb">_</span>tauc,
+  title=<span class="nb">{</span>Time-adaptive unit commitment<span class="nb">}</span>,
+  author=<span class="nb">{</span>Pineda, Salvador and Fern<span class="nb">{</span><span class="k">\&#39;</span>a<span class="nb">}</span>ndez-Blanco, Ricardo and Morales, Juan Miguel<span class="nb">}</span>,
+  journal=<span class="nb">{</span>IEEE Transactions on Power Systems<span class="nb">}</span>,
+  volume=<span class="nb">{</span>34<span class="nb">}</span>,
+  number=<span class="nb">{</span>5<span class="nb">}</span>,
+  pages=<span class="nb">{</span>3869--3878<span class="nb">}</span>,
+  year=<span class="nb">{</span>2019<span class="nb">}</span>,
+  publisher=<span class="nb">{</span>IEEE<span class="nb">}</span>
+<span class="nb">}</span>
+</pre></div>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../conference_papers/index.html" class="btn btn-neutral float-right" title="Conference papers" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="BIGM_TPWRS.html" class="btn btn-neutral float-left" title="Solving Linear Bilevel Problems Using Big-Ms: Not All That Glitters Is Gold" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, OASYS
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

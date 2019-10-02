@@ -1,0 +1,212 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints &mdash; FlexAnalytics 0.1 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../_static/jquery.js"></script>
+        <script type="text/javascript" src="../_static/underscore.js"></script>
+        <script type="text/javascript" src="../_static/doctools.js"></script>
+        <script type="text/javascript" src="../_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> FlexAnalytics
+          
+
+          
+            
+            <img src="../_static/logo_OASYS.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                0.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../journal_papers/index.html">Journal papers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../conference_papers/index.html">Conference papers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../working_papers.html">Working papers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributions_in_conferences.html">Contributions in Conferences</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../collaboration.html">Collaboration with Other Groups</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">FlexAnalytics</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+      <li>Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/working_papers/DDRO_cone.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="data-driven-distributionally-robust-optimization-via-optimal-transport-with-order-cone-constraints">
+<span id="ddro-cone"></span><h1>Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints<a class="headerlink" href="#data-driven-distributionally-robust-optimization-via-optimal-transport-with-order-cone-constraints" title="Permalink to this headline">¶</a></h1>
+<p>This is a summary of the work that can be found in <a class="reference external" href="https://arxiv.org/pdf/1903.01769.pdf">[1]</a>.</p>
+<div class="section" id="abstract">
+<h2>Abstract<a class="headerlink" href="#abstract" title="Permalink to this headline">¶</a></h2>
+<p>We tackle stochastic programs affected by ambiguity about the
+probability law that governs their uncertain parameters. Using Optimal Transport Theory, we construct an ambiguity set that exploits the knowledge about the distribution of the uncertain parameters that is provided by: i) sample data and ii) <cite>a-priori</cite> information on the order among the probabilities that the true data-generating distribution assigns to some regions of its support set.  Such an order is enforced by means of order cone constraints and can encode a wide range of information on the shape of the probability distribution of the uncertain parameters such as that related to monotonicity or multi-modality. We seek decisions that  are distributionally robust. In a number of practical cases, the resulting distributionally robust optimization (DRO) problem can be  reformulated as a finite convex problem  where the <cite>a-priori</cite> information  translates into linear constraints. Furthermore, our method inherits the finite-sample performance guarantees of the Wasserstein-metric-based DRO approach proposed in Mohajerin Esfahani and Kuhn (2018), while generalizing this and other popular DRO approaches. Finally, numerical experiments are designed to provide insight into the performance of our approach for the Newsvendor problem.</p>
+</div>
+<div class="section" id="main-results">
+<h2>Main results<a class="headerlink" href="#main-results" title="Permalink to this headline">¶</a></h2>
+<p>Under construction</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2018, OASYS
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
