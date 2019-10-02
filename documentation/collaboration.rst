@@ -1,6 +1,6 @@
 .. _collaboration:
 
-Collaboration with other groups
+Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` have also led to the following research results due to the collaboration with other international research groups:  
 
