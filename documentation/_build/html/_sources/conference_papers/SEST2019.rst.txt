@@ -21,7 +21,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	A. Porras, R. Fernández-Blanco, J. M. Morales, and S. Pineda, `Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty`, 2nd International Conference on Smart Energy Systems and Technologies, Porto, Portugal, Sep. 2019.
+   Á. Porras, R. Fernández-Blanco, J. M. Morales, and S. Pineda, `Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty`, 2nd International Conference on Smart Energy Systems and Technologies, Porto, Portugal, Sep. 2019.
 
 You can use this bibtex entry: 
 

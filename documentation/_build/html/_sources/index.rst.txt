@@ -58,6 +58,7 @@ If you want to know more about this project or about the `OASYS group`_, do not 
 |                                                                 |
 |    Email: groupoasys@gmail.com                                  |
 +-----------------------------------------------------------------+
+
 or to visit our social networks and personal sites:
 
 .. image:: _static/github_logo.png

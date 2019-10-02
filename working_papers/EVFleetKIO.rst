@@ -24,7 +24,7 @@ Note that the cases `sync` and `non-sync` are driven by the cost minimization of
 The sizes of the training, validation, and test sets are 672 h, 168 h, and 168 h, in that order. :numref:`fig_kio1` represents the hourly electricity price versus the corresponding charging power for all periods of the training set for the cases mentioned above. As can be seen, the aggregate power of the `non-sync` case depends linearly on the price, unlike cases `naive-ch` and `sync`.
 
 .. _fig_kio1:
-.. figure:: _static/power_price_g2v_coloured.png
+.. figure:: img/power_price_g2v_coloured.png
    :width: 100%
    :align: center
 
@@ -36,21 +36,21 @@ In the `naive-ch` case, the `kio` provides coincident power bounds, as illustrat
 
 
 .. _fig_kio2:
-.. figure:: _static/case_g2v_naive_coloured.png
+.. figure:: img/case_g2v_naive_coloured.png
    :width: 100%
    :align: center
 
    Estimated power bounds as well as forecast and observed power for case `naive-ch`
 
 .. _fig_kio3:
-.. figure:: _static/case_g2v_a0_coloured.png
+.. figure:: img/case_g2v_a0_coloured.png
    :width: 100%
    :align: center
 
    Results for case `sync`: (a) Estimated marginal utility price per block and electricity price, and (b) estimated power bounds as well as forecast and observed power. Note that the inset plot represents the bid price function and the corresponding electricity price of hour 5
 
 .. _fig_kio4:
-.. figure:: _static/case_g2v_anot0_coloured.png
+.. figure:: img/case_g2v_anot0_coloured.png
    :width: 100%
    :align: center
 

@@ -21,7 +21,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	S. Pineda, R. Fernandez-Blanco, and J. M. Morales, `Time-Adaptive Unit Commitment`, `IEEE Transactions on Power Systems`, vol. 34, no. 5, pp. 3869--3878, Sep. 2019.
+	S. Pineda, R. Fernández-Blanco, and J. M. Morales, `Time-Adaptive Unit Commitment`, `IEEE Transactions on Power Systems`, vol. 34, no. 5, pp. 3869--3878, Sep. 2019.
 
 You can use this bibtex entry: 
 

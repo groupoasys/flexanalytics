@@ -21,7 +21,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	R. Fernandez-Blanco, J. M. Morales, and S. Pineda, `How Can Smart Buildings Be Price-Responsive?`, 13th IEEE PowerTech 2019, Milano, Italy, Jun. 2019.
+	R. Fernández-Blanco, J. M. Morales, and S. Pineda, `How Can Smart Buildings Be Price-Responsive?`, 13th IEEE PowerTech 2019, Milano, Italy, Jun. 2019.
 
 You can use this bibtex entry: 
 
