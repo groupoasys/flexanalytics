@@ -68,10 +68,19 @@ or to visit our social networks and personal sites:
 .. image:: _static/website_logo.png
    :target: https://sites.google.com/view/groupoasys/home
    :width: 12%
+   
+Developers
+----------
+
+If you would like to suggest any changes to the webpage, contact to the main developers: 
+
+* `Asunción Jiménez-Cordero`_
+* `Ricardo Fernández-Blanco`_ 
 
 
 .. _OASYS group: https://sites.google.com/view/groupoasys/home
 .. _University of Malaga: https://www.uma.es/?set_language=en
 .. _Ada Byron Research Building: https://www.google.es/maps/place/Edificio+de+Investigaci%C3%B3n+Ada+Byron/@36.7134684,-4.4955763,15z/data=!4m5!3m4!1s0x0:0x1032cecb86235596!8m2!3d36.7167245!4d-4.4998428
-
+.. _Ricardo Fernández-Blanco: https://scholar.google.es/citations?user=lPz_uUkAAAAJ&hl=es
+.. _Asunción Jiménez-Cordero: https://scholar.google.es/citations?user=JegcEYwAAAAJ&hl=es&oi=ao
 
