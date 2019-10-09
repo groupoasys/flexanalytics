@@ -14,7 +14,47 @@ The prospective participation of smart buildings in the electricity system is st
 Main results
 ------------
 
-Under construction
+First of all, we use economic model predictive control to model the heat dynamics of a single-zone smart building as the minimization of its electricity costs plus the penalty cost due to discomfort subject to 1) the state-space model of the building heat dynamics, 2) the user-defined comfort constraints, and 3) the technical constraints. The single-zone household is characterized by the state-space model, which is based on three states if we use a water-based floor heater, or based on one state only if we resort to an HVAC. In addition, we model comfort constraints on the indoor air temperature.  
+
+Let us assume that the comfort bounds can be set as:
+
+.. math::
+	\underline{\boldsymbol{x}}^{r} = \boldsymbol{x}^{r,set} - \alpha \boldsymbol{y}
+
+    \overline{\boldsymbol{x}}^{r} = \boldsymbol{x}^{r,set} + \alpha \boldsymbol{y}
+      
+wherein :math:`\underline{\boldsymbol{x}}^{r}` and :math:`\overline{\boldsymbol{x}}^{r}` are the minimum and maximum bounds on the indoor air temperature, :math:`\boldsymbol{x}^{r,set}` is the setpoint indoor air temperature, :math:`\alpha` is the maximum temperature difference with respect to :math:`\boldsymbol{x}^{r,set}` that the user is able to withstand, and :math:`\boldsymbol{y}` is a vector of continuous parameters varying between 0 and 1.
+
+Based on those definitions, we can set up the comfort bounds as follows: 
+
+* Price-independent comfort bounds (PI-CB): :math:`\boldsymbol{y}` is a vector of ones.
+* Price-dependent comfort bounds (PD-CB): :math:`\boldsymbol{y}` is a vector of normalized prices over a given day.
+
+The figures below show examples of how the comfort bounds are under both strategies. 
+
+.. _figure1:
+.. figure:: img/price_independent_case.png
+   :width: 100%
+   :align: center
+
+   Example of the comfort bounds under a price-independent strategy
+   
+.. _figure2:
+.. figure:: img/price_dependent_case.png
+   :width: 100%
+   :align: center
+
+   Example of the comfort bounds under a price-dependent strategy
+   
+In addition, the parameter :math:`\alpha` allows us to define the flexibility of the occupants. 
+
+In this work, we analyze the effect of the comfort settings and the structural parameters for different space heaters (water-based floor heater and HVAC), different degrees of flexibility of the users, and both strategies for the comfort bounds. As a consequence, the main results can be summarized as: 
+
+* Substantial cost savings can be achieved when increasing the comfort bounds
+* The more-price responsive the household is, the higher discomfort the occupants experience 
+* Price-dependent comfort bounds may help reduce the occupants' discomfort 
+
+If you want to find out more details about this work, please take a look at `[1]`_!
 
 Citation
 --------
