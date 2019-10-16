@@ -1,0 +1,87 @@
+.. _POWERTECH2019:
+
+How Can Smart Buildings Be Price-Responsive?
+============================================
+.. sectionauthor:: Ricardo Fern\'andez-Blanco <Ricardo.FCarramolino@uma.es>
+
+This is a summary of the work that can be found in `[1]`_.
+
+Abstract
+--------
+
+The prospective participation of smart buildings in the electricity system is strongly related to the increasing active role of demand-side resources in the electrical grid. In addition, the growing penetration of smart meters and recent advances on home automation technologies will spur the development of new mathematical tools to help optimize the local resources of these buildings. Within this context, this paper first provides a comprehensive model to determine the electrical consumption of a single-zone household based on economic model predictive control. The goal of this problem is to minimize the electricity consumption cost while accounting for the heating dynamics of the building, smart home appliances, and comfort constraints. This paper then identifies and analyzes the key parameters responsible for the price-responsive behaviour of smart households.
+
+Main results
+------------
+
+First of all, we use economic model predictive control to model the heat dynamics of a single-zone smart building as the minimization of its electricity costs plus the penalty cost due to discomfort subject to 1) the state-space model of the building heat dynamics, 2) the user-defined comfort constraints, and 3) the technical constraints. The single-zone household is characterized by the state-space model, which is based on three states if we use a water-based floor heater, or based on one state only if we resort to an HVAC. In addition, we model comfort constraints on the indoor air temperature.  
+
+Let us assume that the comfort bounds can be set as:
+
+.. math::
+	\underline{\boldsymbol{x}}^{r} = \boldsymbol{x}^{r,set} - \alpha \boldsymbol{y}
+
+    \overline{\boldsymbol{x}}^{r} = \boldsymbol{x}^{r,set} + \alpha \boldsymbol{y}
+      
+wherein :math:`\underline{\boldsymbol{x}}^{r}` and :math:`\overline{\boldsymbol{x}}^{r}` are the minimum and maximum bounds on the indoor air temperature, :math:`\boldsymbol{x}^{r,set}` is the setpoint indoor air temperature, :math:`\alpha` is the maximum temperature difference with respect to :math:`\boldsymbol{x}^{r,set}` that the user is able to withstand, and :math:`\boldsymbol{y}` is a vector of continuous parameters varying between 0 and 1.
+
+Based on those definitions, we can set up the comfort bounds as follows: 
+
+* Price-independent comfort bounds (PI-CB): :math:`\boldsymbol{y}` is a vector of ones.
+* Price-dependent comfort bounds (PD-CB): :math:`\boldsymbol{y}` is a vector of normalized prices over a given day.
+
+The figures below show examples of how the comfort bounds are under both strategies. 
+
+.. _figure1:
+.. figure:: img/price_independent_case.png
+   :width: 100%
+   :align: center
+
+   Example of the comfort bounds under a price-independent strategy
+   
+.. _figure2:
+.. figure:: img/price_dependent_case.png
+   :width: 100%
+   :align: center
+
+   Example of the comfort bounds under a price-dependent strategy
+   
+In addition, the parameter :math:`\alpha` allows us to define the flexibility of the occupants. 
+
+In this work, we analyze the effect of the comfort settings and the structural parameters for different space heaters (water-based floor heater and HVAC), different degrees of flexibility of the users, and both strategies for the comfort bounds. As a consequence, the main results can be summarized as: 
+
+* Substantial cost savings can be achieved when increasing the comfort bounds
+* The more-price responsive the household is, the higher discomfort the occupants experience 
+* Price-dependent comfort bounds may help reduce the occupants' discomfort 
+
+If you want to find out more details about this work, please take a look at `[1]`_!
+
+Citation
+--------
+
+If you would like to cite this work, please use the following citation: 
+
+	R. Fernández-Blanco, J. M. Morales, and S. Pineda, `How Can Smart Buildings Be Price-Responsive?`, 13th IEEE PowerTech 2019, Milano, Italy, Jun. 2019.
+
+You can use this bibtex entry: 
+
+.. code-block:: latex
+
+   @inproceedings{fernandez2019can,
+     title={How Can Smart Buildings Be Price-Responsive?},
+     author={Fern{\'a}ndez-Blanco, Ricardo and Morales, Juan Miguel and Pineda, Salvador},
+     booktitle={2019 IEEE Milan PowerTech},
+     pages={1--6},
+     year={2019},
+     organization={IEEE}
+   }
+
+
+.. _[1]: https://arxiv.org/pdf/1908.00481.pdf
+
+
+
+
+
+
+
