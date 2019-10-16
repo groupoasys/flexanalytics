@@ -39,7 +39,7 @@ You can use this bibtex entry:
    }
 
 
-.. _[1]: https://arxiv.org/pdf/1810.00206.pdf
+.. _[1]: https://ieeexplore.ieee.org/document/8662619
 
 
 

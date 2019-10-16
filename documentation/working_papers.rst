@@ -11,6 +11,6 @@ We never rest! `FlexAnalytics` continues its research with the following working
 #. | A. Esteban-Pérez and J. M. Morales, `Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints`_, submitted to `Applied Mathematics and Optimization`, 2019.
 
 .. _EV-Fleet Power Forecasting via Kernel-Based Inverse Optimization: https://arxiv.org/pdf/1908.00399.pdf
-.. _Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints: https://arxiv.org/pdf/1903.01769.pdf
+.. _Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints: https://www.researchgate.net/publication/331544125_Data-Driven_Distributionally_Robust_Optimization_via_Optimal_Transport_with_Order_Cone_Constraints
 .. _Feature-driven Improvement of Renewable Energy Forecasting and Trading: https://arxiv.org/pdf/1907.07580.pdf
-.. _Data-driven Network Reduction for Transmission-Constrained Unit Commitment: https://arxiv.org/pdf/1907.04694.pdf
+.. _Data-driven Network Reduction for Transmission-Constrained Unit Commitment: https://www.researchgate.net/publication/334390057_Data-driven_Network_Reduction_for_Transmission-Constrained_Unit_Commitment
