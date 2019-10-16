@@ -1,0 +1,75 @@
+# sphinx build folder
+_build
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Editor backup files #
+#######################
+*~
+
+*.pyc
+*.egg
+*.so
+*.swp
+
+.dir-locals.el
+.cache/
+.idea
+.mypy_cache/
+.pytest_cache/
+.ropeproject/
+TAGS
+.tags
+.tox/
+.tx/
+.venv/
+.coverage
+htmlcov
+.DS_Store
+sphinx/pycode/Grammar*pickle
+distribute-*
+
+env/
+build/
+dist/
+Sphinx.egg-info/
+doc/_build/
+doc/locale/
+tests/.coverage
+tests/build/
+utils/regression_test.js
+
+node_modules/
