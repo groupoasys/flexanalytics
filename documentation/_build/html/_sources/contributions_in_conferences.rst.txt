@@ -22,5 +22,5 @@ The works developed by `Flexanalytics` have been presented in renowned national 
 #. | A. Esteban-Pérez and J. M. Morales, `Data-driven Distributionally Robust Optimization with Wasserstein Metric, Moment Conditions and Robust Constraints`, 29th European Conference on Operational Research (EURO), Valencia, Spain, 8-11th Jul., 2018.
 
 
-.. _Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty: https://arxiv.org/pdf/1908.00787.pdf
-.. _How Can Smart Buildings Be Price-Responsive?: https://arxiv.org/pdf/1908.00481.pdf
+.. _Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty: https://ieeexplore.ieee.org/document/8848991
+.. _How Can Smart Buildings Be Price-Responsive?: https://ieeexplore.ieee.org/document/8810715

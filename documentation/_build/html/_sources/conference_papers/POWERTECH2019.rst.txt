@@ -77,7 +77,7 @@ You can use this bibtex entry:
    }
 
 
-.. _[1]: https://arxiv.org/pdf/1908.00481.pdf
+.. _[1]: https://ieeexplore.ieee.org/document/8810715
 
 
 
