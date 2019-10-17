@@ -38,7 +38,7 @@ You can use this bibtex entry:
      publisher={IEEE}
    }
 
-.. _[1]: https://arxiv.org/pdf/1809.10448.pdf
+.. _[1]: https://ieeexplore.ieee.org/document/8610245
 
 
 
