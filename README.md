@@ -1,7 +1,7 @@
 # FlexAnalytics
 
 Do you want to know more about the ERC Starting Grant project FlexAnalytics of the [OASYS group](https://sites.google.com/view/groupoasys/home)? Then, you are in the right
-place 👏🎉 Please, continue reading this repo 📖 and have a look 🔍 at the webpage https://flexanalytics.readthedocs.io/en/latest/#
+place 👏🎉 Please, continue reading this repo 📖 and have a look 🔍 at the webpage https://groupoasysflexanalytics.readthedocs.io/en/latest/
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoH4zee0bSD33FwAkv_eDnsjACEYI4OGZp2yi1pz_P4wXl2vdm&s" height="200" width="300"/>
 
