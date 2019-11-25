@@ -17,7 +17,7 @@ The works developed by `Flexanalytics` have been presented in renowned national 
 
 #. | A. Esteban-Pérez and J. M. Morales, `Data-Driven Distributionally Robust Optimization Via Optimal Transport With Order Cone Constraints`, The XV International Conference on Stochastic Programming (ICSP XV), Trondheim, Norway, 29th Jul.-2nd Aug., 2019.
 
-#. | R. Fernández-Blanco, J. M. Morales, and S. Pineda, `How Can Smart Buildings Be Price-Responsive?`_, 13th IEEE PowerTech 2019, Milano, Italy, Jun., 2019.__Best paper award.__
+#. | R. Fernández-Blanco, J. M. Morales, and S. Pineda, `How Can Smart Buildings Be Price-Responsive?`_, 13th IEEE PowerTech 2019, Milano, Italy, Jun., 2019.`Best paper award`.
 
 #. | S. Pineda and J. M. Morales, `Efficiently Solving Linear Bilevel Programming Problems using Off-the-Shelf Optimization Software`, 30th European Conference on Operational Research (EURO), Dublin, Ireland, 23-26th Jun., 2019.
 
