@@ -20,7 +20,7 @@ The optimal offer :math:`{E}^{D}` that a (price-taker) risk-neutral renewable en
    :nowrap:
 
    \begin{align*}
-       \min_{E^D \in [0, \overline{E}]} \enskip  \mathbb{E}\left[\psi^{-}(E^D - E)^{+} + \psi^{+}(E - E^D)^{+}\right]
+       \min_{E^D \in [0, \overline{E}]}   \mathbb{E}\left[\psi^{-}(E^D - E)^{+} + \psi^{+}(E - E^D)^{+}\right]
    \end{align*}
 
 where :math:`(x)^{+}:= \max(x,0)`, :math:`E^{D}`, :math:`E`, :math:`\psi^{-}` and :math:`\psi^{+}` represent the day-ahead renewable energy bid, the eventual renewable energy production, the marginal opportunity costs for under- and overproduction, respectively. We propose to work with the enriched dataset :math:`\{(E_t, \psi_t^{-}, \psi_t^{+}, {x}_t), \forall t \in \boldsymbol{T} \}`, where :math:`x` represents a vector of available auxiliary information and the subscript :math:`t` represents that the sample was observed at time t. We take advantage of the available auxiliary information introducing in the model the following linear decision rule:
@@ -40,7 +40,7 @@ We developed a general optimization framework to improve renewable energy foreca
 
    \begin{align*}
        &\min_{\mathbf{q}} \frac{1}{|\mathcal{T}|} \sum_{t\in\mathcal{T}} \psi_t^{-}\left(\sum_{j=1}^p q^j x^j_t - E_t\right)^{+}\! +\! \psi_t^{+}\left(E_t - \sum_{j=1}^p q^j x^j_t\right)^{+}\\
-       & \text{s. t.} \enskip 0 \leq \sum_{j=1}^p q^j x^j_t \leq \overline{E}, \enskip \forall t\in\mathcal{T}
+       & \text{s. t.}  0 \leq \sum_{j=1}^p q^j x^j_t \leq \overline{E},  \forall t\in\mathcal{T}
    \end{align*}
 
 
@@ -51,10 +51,10 @@ To recast the previous framework as a linear program tailored to forecasting, we
 
    \begin{align*}
        &\min_{\mathbf{q}, \mathbf{u}, \mathbf{o}} \quad \frac{1}{|\mathcal{T}|} \sum_{t\in\mathcal{T}} u_t + o_t\\
-       &\text{s. t.} \enskip u_t \geq \sum_{j=1}^p q^j x^j_t - E_t, \enskip \forall t\in\mathcal{T}\\
-       & \phantom{s. t.} \enskip o_t \geq E_t - \sum_{j=1}^p q^j x^j_t, \enskip \forall t\in\mathcal{T}\\
-       & \phantom{s. t.} \enskip 0 \leq \sum_{j=1}^p q^j x_t^j \leq \overline{E}, \enskip \forall t\in\mathcal{T}\\
-       & \phantom{s. t.} \enskip u_t, o_t \geq 0, \enskip \forall t\in\mathcal{T} 
+       &\text{s. t.}  u_t \geq \sum_{j=1}^p q^j x^j_t - E_t,  \forall t\in\mathcal{T}\\
+       & \phantom{s. t.}  o_t \geq E_t - \sum_{j=1}^p q^j x^j_t,  \forall t\in\mathcal{T}\\
+       & \phantom{s. t.}  0 \leq \sum_{j=1}^p q^j x_t^j \leq \overline{E},  \forall t\in\mathcal{T}\\
+       & \phantom{s. t.}  u_t, o_t \geq 0,  \forall t\in\mathcal{T} 
    \end{align*}
 
 
@@ -65,9 +65,9 @@ The second optimization problem is a single feature model, where, :math:`\hat{w}
 
    \begin{align*}
        &\min_{a, \mathbf{u}, \mathbf{o}} \quad \frac{1}{|\mathcal{T}|} \sum_{t\in\mathcal{T}} \psi_t^{-}u_t + \psi_t^{+}o_t\\
-       &\text{s. t.} \enskip u_t \geq a \hat{w}_t - E_t, \enskip \forall t \in \mathcal{T}\\
-       & \phantom{s. t.} \enskip o_t \geq E_t - a \hat{w}_t, \enskip \forall t \in \mathcal{T}\\
-       & \phantom{s. t.} \enskip u_t, o_t \geq 0, \enskip \forall t \in \mathcal{T}
+       &\text{s. t.}  u_t \geq a \hat{w}_t - E_t,  \forall t \in \mathcal{T}\\
+       & \phantom{s. t.}  o_t \geq E_t - a \hat{w}_t,  \forall t \in \mathcal{T}\\
+       & \phantom{s. t.}  u_t, o_t \geq 0,  \forall t \in \mathcal{T}
    \end{align*}
 
 We elaborate several realistic models with actual TSO data from 01/08/2015 to 04/22/2019, freely accesible at the ENTSO-e Tranparency Platform that we train following a realistic rolling window procedure. As a result, we are able to improve the DK1 onshore wind power forecast delivered by the danish TSO, both for forecasting and trading. Following this procedure, we report an average 8.53% MAE improvement and 2.13% opportunity cost reduction over the test period.
