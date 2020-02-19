@@ -5,6 +5,10 @@ Working papers
 
 We never rest! `FlexAnalytics` continues its research with the following working papers:
 
+<<<<<<< Updated upstream
+=======
+#. | R. Fernández-Blanco, J. M. Morales, S. Pineda, and Á. Porras, `Kernel-Based Inverse Optimization: Application to the Power Forecasting and Bidding of a Fleet of Electric Vehicles <https://arxiv.org/pdf/1908.00399v2.pdf>`_, submitted to `European Journal of Operational Research`, 2019.
+>>>>>>> Stashed changes
 #. | S. Pineda, J. M. Morales, and A. Jiménez-Cordero, `Data-driven Screening of Network Constraints`_, submitted to `IEEE Transactions on Power Systems`, 2019.
 #. | A. Esteban-Pérez and J. M. Morales, `Data-Driven Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints`_, submitted to `Applied Mathematics and Optimization`, 2019.
 #. | R. Fernández-Blanco, J. M. Morales, S. Pineda, and Á. Porras, `Kernel-Based Inverse Optimization: Application to the Power Forecasting and Bidding of a Fleet of Electric Vehicles <https://arxiv.org/pdf/1908.00399.pdf>`_, submitted to `Computers \& Operations Research`, 2020.
