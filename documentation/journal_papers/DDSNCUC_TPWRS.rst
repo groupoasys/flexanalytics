@@ -27,14 +27,12 @@ You can use this bibtex entry:
 .. code-block:: latex
 
    @article{pineda2020data,
-  author = {Pineda, Salvador and Morales, Juan Miguel and Jim\'enez-Cordero, Asunci\'on},
-  title = {Data-Driven Network Screening of Network Constraints for Unit Commentment},
-  journal = {IEEE Transactions on Power Systems},
-  year = {2020},
-  doi = {10.1109/TPWRS.2020.2980212}
-}
-
-
+     title={Data-Driven Network Screening of Network Constraints for Unit Commentment},
+     author={Pineda, Salvador and Morales, Juan Miguel and Jim\'enez-Cordero, Asunci\'on},
+     journal={IEEE Transactions on Power Systems},
+     year={2020},
+     doi={10.1109/TPWRS.2020.2980212}, 
+   }
 
 .. _[1]: https://ieeexplore.ieee.org/document/9034123
 
