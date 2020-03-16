@@ -13,7 +13,10 @@ The transmission-constrained unit commitment (TC-UC) problem is one of the most 
 
 Main results
 ------------
-Under construction.
+Reducing the computational burden of the TC-UC problem is a very relevant research topic within the PES community. One approach to address this issue consists in disregarding the capacity constraints of those transmission lines that will not become active during operation. Although there are some existing works in this direction, most of them focus on removing redundant network constraints in order not to alter the original feasible region of the TC-UC problem.
+
+In this paper, we propose a data-driven approach that takes advantage of historical information to disregard both redundant and inactive network constraints. In doing so, we remove a larger number of network constraints than existing methods and achieve higher computational savings, which range from 70% to 98% depending on the congestion level of the power system and its size. As a counterpart, the proposed approach yields commitment decisions that may be slightly different from those obtained by the original TC-UC problem. If required, such small inaccuracies can be completely eliminated by running a post-processing step based on a constraint generation procedure to recover the solution to the original TC-UC problem.
+
 
 Citation
 --------
