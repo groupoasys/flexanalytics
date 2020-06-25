@@ -3,7 +3,7 @@
 Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` have also led to the following research results due to the collaboration with other international research groups:  
-#. |this is an example
+
 #. | G. De Zotti, S. A. Pourmousavi, **J. M. Morales**, H. Madsen and N. K. Poulsen,  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_. Upcoming in `IEEE Transactions on Power Systems`.
 
 #. | N. Mazzi, A. Trivella, and **J. M. Morales**, `Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1980--1990, May 2019.
