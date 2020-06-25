@@ -7,10 +7,7 @@ The works developed by `Flexanalytics` have been presented in renowned national 
 
 #. | A. Jiménez-Cordero, J. M. Morales, and S. Pineda, `A min-max approach to feature selection for nonlinear SVM classification`, V Congreso de Jóvenes Investigadores RSME, Castellón, Spain, 27th-31st Jan., 2020.
 
-<<<<<<< Updated upstream
 #. | A. Esteban-Pérez and J. M. Morales,  `Data-Driven Distributionally Robust Optimization Via Optimal Transport With Order Cone Constraints`, Jornada científica IMUS-UMA, Sevilla, Spain, 29th Nov., 2019.
-=======
->>>>>>> Stashed changes
 
 #. | R. Fernández-Blanco, Á. Porras, S. Pineda, and J. M. Morales, `A Data-driven Forecasting Model for an Aggregator of Electric Vehicles Via Inverse Optimization`, INFORMS Annual Meeting 2019, Seattle, USA, 20th-23rd Oct., 2019.
 
