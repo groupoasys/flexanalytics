@@ -3,7 +3,7 @@ Journal papers
 
 The project `FlexAnalytics` has given rise to several research works published in high-impact journals:
 
-#. | Á. Porras, R. Fernández-Blanco, J. M. Morales and S. Pineda, :ref:`An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Electric Vehicles,<AERADOAEV_TOSG>`, `IEEE Transactions on Smart Grid`, doi: 10.1109/TSG.2020.3004268, June 2020.
+#. | Á. Porras, R. Fernández-Blanco, J. M. Morales and S. Pineda, :ref:`An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Electric Vehicles,<AERADOAEV_TOSG>` `IEEE Transactions on Smart Grid`, doi: 10.1109/TSG.2020.3004268, June 2020.
 
 #. | S. Pineda, J. M. Morales and A. Jiménez-Cordero, :ref:`Data-Driven Screening of Network Constraints for Unit Commitment<DDSNCUC_TPWRS>`, `IEEE Transactions on Power Systems`, doi:10.1109/TPWRS.2020.2980212, March 2020.
 #. | M. A. Muñoz, J. M. Morales, and S. Pineda, :ref:`Feature-driven Improvement of Renewable Energy Forecasting and Trading<NVWIND_TPWRS>`, `IEEE Transactions on Power Systems`, vol. n/a, no. n/a, pp. n/a, n/a 2020.

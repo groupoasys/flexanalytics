@@ -1,6 +1,6 @@
 .. _AERADOAEV_TOSG:
 
-"An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Electric Vehicles"
+An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Electric Vehicles
 =================================================================
 .. sectionauthor:: Álvaro Porras Cabrera<alvaroporras19@gmail.com>
 
