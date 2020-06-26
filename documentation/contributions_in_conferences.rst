@@ -3,6 +3,7 @@
 Contributions in Conferences
 ============================
 
+
 The works developed by `Flexanalytics` have been presented in renowned national and international conferences:
 
 #. | A. Jiménez-Cordero, J. M. Morales, and S. Pineda, `A min-max approach to feature selection for nonlinear SVM classification`, V Congreso de Jóvenes Investigadores RSME, Castellón, Spain, 27th-31st Jan., 2020.
