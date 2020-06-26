@@ -2,10 +2,11 @@
 
 Collaboration with Other Groups
 ===============================
-The project `Flexanalytics` have also led to the following research results due to the collaboration with other international research groups:  
+The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
+#. | D. Guericke, I. Blanco, **J. M. Morales** and H. Madsen , `A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants`, `OR Spectrum`, DOI: 10.1007/s00291-020-00593-x, June 2020.
 
-#. | G. De Zotti, S. A. Pourmousavi, **J. M. Morales**, H. Madsen and N. K. Poulsen,  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_. Upcoming in `IEEE Transactions on Power Systems`.
+#. | G. De Zotti, S. A. Pourmousavi, **J. M. Morales**, H. Madsen and N. K. Poulsen,  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` vol. 35, no. 3, pp. 1868--1880, May 2020.
 
 #. | N. Mazzi, A. Trivella, and **J. M. Morales**, `Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1980--1990, May 2019.
 
