@@ -17,7 +17,7 @@ The project `Flexanalytics` has also produced the following research results in 
 #. | C. Ordoudis, P. Pinson, and **J. M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, Jan. 2019.
 
 
-.._A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants:https://rdcu.be/b482o
+.. _A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants: https://rdcu.be/b482o
 .. _Consumers' Flexibility Estimation at the TSO Level for Balancing Services: https://ieeexplore.ieee.org/document/8570785
 .. _Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch: https://ieeexplore.ieee.org/document/8515058
 .. _An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers: https://www.sciencedirect.com/science/article/pii/S037722171830571X
