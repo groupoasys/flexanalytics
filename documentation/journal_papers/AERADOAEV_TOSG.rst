@@ -4,7 +4,7 @@ An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Elec
 =================================================================
 .. sectionauthor:: Álvaro Porras Cabrera<alvaroporras19@gmail.com>
 
-This is a summary of the work that can be found in `[1]`_.
+This is a summary of the work that can be found in `[1]`_ PDF available at `[2]`_.
 
 Abstract
 --------
@@ -35,5 +35,6 @@ You can use this bibtex entry:
    }
 
 .. _[1]: https://ieeexplore.ieee.org/document/9122589
+.. _[2]: https://drive.google.com/file/d/10gZD94bV59Kz7uGIh_hJuD4UmCZibhT2/view?usp=sharing
 
 
