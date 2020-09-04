@@ -75,6 +75,8 @@ Developers
 
 If you would like to suggest any changes to the webpage, contact to the main developers: 
 
+
+* `Lisa Huckfield`_- lisa@uma.es
 * `Asunción Jiménez-Cordero`_- asuncionjc@uma.es
 * `Ricardo Fernández-Blanco`_ - ricardo.fcarramolino@gmail.com
 
