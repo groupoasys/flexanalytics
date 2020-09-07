@@ -13,12 +13,12 @@ This project aims to provide data-driven methodologies to paradigmatic problems 
 
 .. _fig_erc_logo:
 .. figure:: _static/erc_logo.png
-   :width: 50%
+   :width: 25%
    :align: center
 
 .. _fig_erc_logo:
 .. figure:: _static/erc_logo.png
-   :width: 50%
+   :width: 25%
    :align: center
 
 
