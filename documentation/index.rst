@@ -7,9 +7,14 @@
 
 Welcome to Flexanalytics project webpage!
 ==========================================
-`FlexAnalytics` is an ERC Starting Grant project developed by `OASYS group`_.
+`FlexAnalytics` is an ERC Starting Grant project developed by `OASYS group`_. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 755705).
 
 This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
+
+.. _fig_erc_logo:
+.. figure:: _static/erc_logo.png
+   :width: 50%
+   :align: center
 
 .. _fig_erc_logo:
 .. figure:: _static/erc_logo.png
@@ -28,7 +33,7 @@ Preamble
  
  On a fundamental level, `FlexAnalytics` will produce a novel mathematical framework for data-driven decision making. On a practical level, `FlexAnalytics` will show that this framework can facilitate the best use of a large amount and a wide variety of data to efficiently operate the sustainable energy systems of the future. 
 
-If you would like to know more about this project, please have a look at this site. All the works related with the project are summarized below.
+If you would like to know more about this project, please have a look at this site. All work related to the project is summarized below.
 
 Contents
 --------
@@ -73,7 +78,7 @@ or to visit our social networks and personal sites:
 Developers
 ----------
 
-If you would like to suggest any changes to the webpage, contact to the main developers: 
+If you would like to suggest any changes to the webpage, please contact the main developers: 
 
 
 * `Lisa Huckfield`_- lisa@uma.es
