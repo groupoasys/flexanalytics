@@ -7,7 +7,7 @@
 
 Welcome to Flexanalytics project webpage!
 ==========================================
-`FlexAnalytics` is an ERC Starting Grant project developed by `OASYS group`_. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 755705).
+`FlexAnalytics` FlexAnalytics is an ERC Starting Grant project led by `Juan M. Morales`_, and developed by his research group `OASYS`_. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 755705).
 
 This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
 
@@ -65,26 +65,28 @@ or to visit our social networks and personal sites:
 
 .. image:: _static/github_logo.png
    :target: https://github.com/groupoasys
-   :width: 15%
+   :width: 18%
 
 .. image:: _static/website_logo.png
    :target: https://sites.google.com/view/groupoasys/home
-   :width: 12%
+   :width: 15%
+.. image:: _static/twitter_logo.png
+   :target: https://twitter.com/GroupOasys
+   :width: 15%
    
 Developers
 ----------
 
-If you would like to suggest any changes to the webpage, please contact the main developers: 
+If you would like to suggest any changes to the webpage, please contact : 
 
 
 * `Lisa Huckfield`_- lisa@uma.es
-* `Asunción Jiménez-Cordero`_- asuncionjc@uma.es
-* `Ricardo Fernández-Blanco`_ - ricardo.fcarramolino@gmail.com
+* `Juan M. Morales`_- juan.morales@uma.es
 
 
+.. _OASYS: https://sites.google.com/view/groupoasys/home
 .. _OASYS group: https://sites.google.com/view/groupoasys/home
 .. _University of Malaga: https://www.uma.es/?set_language=en
 .. _Ada Byron Research Building: https://www.google.es/maps/place/Edificio+de+Investigaci%C3%B3n+Ada+Byron/@36.7134684,-4.4955763,15z/data=!4m5!3m4!1s0x0:0x1032cecb86235596!8m2!3d36.7167245!4d-4.4998428
-.. _Ricardo Fernández-Blanco: https://scholar.google.es/citations?user=lPz_uUkAAAAJ&hl=es
-.. _Asunción Jiménez-Cordero: https://www.researchgate.net/profile/Asuncion_Jimenez-Cordero
+.. _Juan M. Morales: https://sites.google.com/site/jnmmgo/
 .. _Lisa Huckfield: https://sites.google.com/view/groupoasys/members?authuser=0 
