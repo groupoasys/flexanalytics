@@ -21,10 +21,6 @@ This project aims to provide data-driven methodologies to paradigmatic problems 
    :width: 30%
    :align: right
 
-
-
-
-
 Preamble
 --------
  Activating the demand response, although a major challenge, may also bring tremendous benefits to society, with potential cost savings in the billions of euros. This project will exploit methods of inverse problems, multi-level programming and machine learning to develop a pioneering system that enables the active participation of a group of price-responsive consumers of electricity in the wholesale electricity markets. Through this, they will be able to make the most out of their flexible consumption. 
