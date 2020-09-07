@@ -11,19 +11,15 @@ Welcome to Flexanalytics project webpage!
 
 This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
 
-.. _fig_erc_logo:
-.. figure:: _static/erc_logo.png
-   :width: 50%
-   :align: center
 
-.. _fig_erc_logo:
-.. figure:: _static/erc_logo.png
-   :width: 50%
-   :align: center
+.. image:: _static/erc_logo.png
+   :width: 30%
+  
 
 
-
-
+.. image:: _static/eu_logo.png
+   :width: 30%
+   
 
 Preamble
 --------
