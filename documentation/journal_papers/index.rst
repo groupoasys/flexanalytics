@@ -2,7 +2,7 @@
 Journal papers
 ===============
 
-The project `FlexAnalytics` has given rise to several research works published in high-impact journals:
+The project `FlexAnalytics` has produced several research papers published in high-impact journals:
 
 #. | S. Pineda, J. M. Morales and A. Jiménez-Cordero, :ref:`Data-Driven Screening of Network Constraints for Unit Commitment<DDSNCUC_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 35, no. 5, pp. 3695--3705, September 2020.
 #. | M. A. Muñoz, J. M. Morales, and S. Pineda, :ref:`Feature-driven Improvement of Renewable Energy Forecasting and Trading<NVWIND_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 35, no. 5, pp. 3753--3763, September 2020.
