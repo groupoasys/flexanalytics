@@ -4,7 +4,7 @@ Data-Driven Screening of Network Constraints for Unit Commitment
 =================================================================
 .. sectionauthor:: Asunción Jiménez-Cordero <asuncionjc@uma.es>
 
-This is a summary of the work that can be found in `[1]`_.
+This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_
 
 Abstract
 --------
@@ -23,20 +23,21 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	S. Pineda, J. M. Morales, and A. Jiménez-Codero, `Data-Driven Screening of Network Constraints for Unit Commitment`, `IEEE Transactions on Power Systems`, doi:10.1109/TPWRS.2020.2980212, 2020.
+	S. Pineda, J. M. Morales and A. Jiménez-Cordero, "Data-Driven Screening of Network Constraints for Unit Commitment," in IEEE Transactions on Power Systems, vol. 35, no. 5, pp. 3695-3705, Sept. 2020.
 
 You can use this bibtex entry: 
 
 .. code-block:: latex
 
-   @article{pineda2020data,
-     title={Data-Driven Network Screening of Network Constraints for Unit Commentment},
-     author={Pineda, Salvador and Morales, Juan Miguel and Jim\'enez-Cordero, Asunci\'on},
-     journal={IEEE Transactions on Power Systems},
-     year={2020},
-     doi={10.1109/TPWRS.2020.2980212}, 
-   }
+  @ARTICLE{9034123,
+  author={S. {Pineda} and J. M. {Morales} and A. {Jiménez-Cordero}},
+  journal={IEEE Transactions on Power Systems}, 
+  title={Data-Driven Screening of Network Constraints for Unit Commitment}, 
+  year={2020},
+  volume={35},
+  number={5},
+  pages={3695-3705},}
 
 .. _[1]: https://ieeexplore.ieee.org/document/9034123
-
+.. _[2]: https://drive.google.com/file/d/1VehrTy1EGHBFxEwCHkSBQo---c7tGIM5/view?usp=sharing
 
