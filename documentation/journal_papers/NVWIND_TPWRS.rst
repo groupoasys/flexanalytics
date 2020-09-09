@@ -4,7 +4,7 @@ Feature-driven Improvement of Renewable Energy Forecasting and Trading
 ======================================================================
 .. sectionauthor:: Miguel Angel Muñoz <miguelangeljmd@uma.es>
 
-This is a summary of the work that can be found in `[1]`_.
+This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_
 
 Abstract
 --------
@@ -99,6 +99,7 @@ You can use this bibtex entry:
 
 
 .. _[1]: https://www.doi.org/10.1109/TPWRS.2020.2975246
+.. _[2]: https://drive.google.com/file/d/10fnLcyWm0dAu82dyem9ITJT4ZOxSiJ0P/view?usp=sharing 
 
 .. This is a comment: https://ieeexplore.ieee.org/document/10.1109/TPWRS.2020.2975246
 
