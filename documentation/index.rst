@@ -74,7 +74,7 @@ or to visit our social networks and personal sites:
    :target: https://twitter.com/GroupOasys
    :width: 15%
    
-Developers
+
 ----------
 
 If you would like to suggest any changes to the webpage, please contact : 
