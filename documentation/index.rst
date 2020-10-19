@@ -7,7 +7,7 @@
 
 Welcome to Flexanalytics project webpage!
 ==========================================
-`FlexAnalytics` FlexAnalytics is an ERC Starting Grant project led by `Juan M. Morales`_, and developed by his research group `OASYS`_. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 755705).
+`FlexAnalytics`  is an ERC Starting Grant project led by `Juan M. Morales`_, and developed by his research group `OASYS`_. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 755705).
 
 This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
 
@@ -72,6 +72,9 @@ or to visit our social networks and personal sites:
    :width: 15%
 .. image:: _static/twitter_logo.png
    :target: https://twitter.com/GroupOasys
+   :width: 15%
+.. image:: _static/LinkedIn_logo.png
+   :target: https://www.linkedin.com/company/oasys-research-group
    :width: 15%
    
 
