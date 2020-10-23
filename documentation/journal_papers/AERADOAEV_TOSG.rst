@@ -26,13 +26,15 @@ You can use this bibtex entry:
 
 .. code-block:: latex
 
-  @ARTICLE{9122589,  
-  title={An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Electric Vehicles},
+  @ARTICLE{9122589,
   author={Á. {Porras} and R. {Fernández-Blanco} and J. M. {Morales} and S. {Pineda}},  
   journal={IEEE Transactions on Smart Grid},   
-  year={2020}, 
-  DOI={10.1109/TSG.2020.3004268},
-   }
+  title={An Efficient Robust Approach to the Day-Ahead Operation of an Aggregator of Electric Vehicles},  
+  year={2020},  
+  volume={11},  
+  number={6},  
+  pages={4960-4970},  
+  doi={10.1109/TSG.2020.3004268}}
 
 .. _[1]: https://ieeexplore.ieee.org/document/9122589
 .. _[2]: https://drive.google.com/file/d/10gZD94bV59Kz7uGIh_hJuD4UmCZibhT2/view?usp=sharing
