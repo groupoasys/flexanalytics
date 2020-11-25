@@ -1,7 +1,7 @@
 .. _AERADOAEV_TOSG:
 
 An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Electric Vehicles
-=================================================================
+=============================================================================================
 .. sectionauthor:: Álvaro Porras Cabrera<alvaroporras19@gmail.com>
 
 This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_.

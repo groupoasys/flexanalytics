@@ -39,5 +39,4 @@ You can use this bibtex entry:
   pages={3695-3705},}
 
 .. _[1]: https://ieeexplore.ieee.org/document/9034123
-.. _[2]: https://drive.google.com/file/d/1VehrTy1EGHBFxEwCHkSBQo---c7tGIM5/view?usp=sharing
-
+.. _[2]: https://drive.google.com/uc?export=download&id=1bGRBjGhDPbVEK0QSqaVtd-LCS4x43rhc
