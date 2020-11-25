@@ -40,7 +40,7 @@ You can use this bibtex entry:
 
 
 .. _[1]: https://ieeexplore.ieee.org/document/8662619
-.. _[2]: https://drive.google.com/file/d/1GI4sGLzI6ji7A1NTJvqvnNoDbVVuh73u/view?usp=sharing
+.. _[2]: https://drive.google.com/uc?export=download&id=1GI4sGLzI6ji7A1NTJvqvnNoDbVVuh73u
 
 
 

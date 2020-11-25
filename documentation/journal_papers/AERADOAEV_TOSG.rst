@@ -37,6 +37,6 @@ You can use this bibtex entry:
   doi={10.1109/TSG.2020.3004268}}
 
 .. _[1]: https://ieeexplore.ieee.org/document/9122589
-.. _[2]: https://drive.google.com/file/d/10gZD94bV59Kz7uGIh_hJuD4UmCZibhT2/view?usp=sharing
+.. _[2]: https://drive.google.com/uc?export=download&id=10gZD94bV59Kz7uGIh_hJuD4UmCZibhT2
 
 

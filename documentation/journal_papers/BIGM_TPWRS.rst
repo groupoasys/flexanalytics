@@ -39,7 +39,7 @@ You can use this bibtex entry:
    }
 
 .. _[1]: https://ieeexplore.ieee.org/document/8610245
-.. _[2]: https://drive.google.com/file/d/1lWkW-ukmI8WYhCPQ9a9qhP2Nbsyqtpy_/view?usp=sharing
+.. _[2]: https://drive.google.com/uc?export=download&id=1lWkW-ukmI8WYhCPQ9a9qhP2Nbsyqtpy_
 
 
 
