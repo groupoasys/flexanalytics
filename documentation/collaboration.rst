@@ -4,7 +4,7 @@ Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
-#. | D. Guericke, I. Blanco, **J. M. Morales** and H. Madsen , `A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants`_, `OR Spectrum`, DOI: 10.1007/s00291-020-00593-x, June 2020.
+#. | D. Guericke, I. Blanco, **J. M. Morales** and H. Madsen , `A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants`_, `OR Spectrum`, vol. 42, no. 4, pp. 863--900, Dec. 2020.
 
 #. | G. De Zotti, S. A. Pourmousavi, **J. M. Morales**, H. Madsen and N. K. Poulsen,  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` vol. 35, no. 3, pp. 1868--1880, May 2020.
 
