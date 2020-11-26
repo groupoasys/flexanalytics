@@ -1,6 +1,6 @@
-.. _Contributions_in_Conferences:
+.. _Contributions_to_Conferences:
 
-Contributions in Conferences
+Contributions to Conferences
 ============================
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
