@@ -1,4 +1,4 @@
-.. _Research Seminars:
+.. _seminars:
 
 Research Seminars
 =================

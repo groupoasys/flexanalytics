@@ -41,9 +41,8 @@ Contents
    conference_papers/index
    working_papers
    contributions_in_conferences
+   seminars
    collaboration
-   seminars 
-
 
 Contact
 -------
