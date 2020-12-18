@@ -5,7 +5,6 @@ Working papers
 
 We never rest! `FlexAnalytics` continues its research with the following working papers and preprints:
 
-#. | A. Jiménez-Cordero, J. M. Morales and S. Pineda, `A novel embedded min-max approach for feature selection in nonlinear Support Vector Machine classification <https://drive.google.com/uc?export=download&id=1SYS3M3FwYpRZZLpdZ8GVzdzPEek2Eyob>`_, preprint, 2020
 #. | A. Esteban-Pérez and J. M. Morales, `Distributionally Robust Stochastic Programs with Side Information Based on Trimmings <https://arxiv.org/pdf/1908.00399.pdf>`_, submitted, Sep. 2020
 #. | M. A. Muñoz, S. Pineda, and J. M. Morales, `A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information <https://arxiv.org/pdf/2008.01500.pdf>`_, submitted, Aug. 2020
 #. | R. Fernández-Blanco, J. M. Morales and S. Pineda `Forecasting the Price-response of a Pool of Buildings via Homothetic Inverse Optimization <https://arxiv.org/pdf/2004.09819.pdf>`_, submitted Apr. 2020
