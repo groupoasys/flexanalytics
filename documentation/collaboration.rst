@@ -20,6 +20,8 @@ The project `Flexanalytics` has also produced the following research results in 
 #. | C. Ordoudis, P. Pinson, and **J. M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, January 2019.
 
 
+.. _Electricity cost-sharing in energy communities under dynamic pricing and uncertainty:
+https://ieeexplore.ieee.org/document/9354638
 .. _A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants: https://rdcu.be/b482o
 .. _Consumers' Flexibility Estimation at the TSO Level for Balancing Services: https://ieeexplore.ieee.org/document/8570785
 .. _Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch: https://ieeexplore.ieee.org/document/8515058
