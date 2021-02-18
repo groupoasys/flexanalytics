@@ -4,7 +4,10 @@ Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
-#. | D. Guericke, I. Blanco, **J. M. Morales** and H. Madsen , `A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants`_, `OR Spectrum`, vol. 42, no. 4, pp. 863--900, Dec. 2020.
+#. | M. Gržanić, **J. M. Morales**, **S. Pineda** and T. Capuder, `Electricity cost-sharing in energy communities under dynamic pricing and uncertainty`_, in `IEEE Access`, February 2021
+
+
+#. | D. Guericke, I. Blanco, **J. M. Morales** and H. Madsen , `A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants`_, `OR Spectrum`, vol. 42, no. 4, pp. 863--900, December 2020.
 
 #. | G. De Zotti, S. A. Pourmousavi, **J. M. Morales**, H. Madsen and N. K. Poulsen,  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` vol. 35, no. 3, pp. 1868--1880, May 2020.
 
@@ -12,11 +15,13 @@ The project `Flexanalytics` has also produced the following research results in 
 
 #. | G. De Zotti, S. A. Pourmousavi, **J. M. Morales**, H. Madsen, and N. K. Poulsen, `Consumers' Flexibility Estimation at the TSO Level for Balancing Services`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1918--1930, May 2019.
 
-#. | V. Dvorkin, S. Delikaraoglou and **J. M. Morales**, `Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch`_, `IEEE Transactions on Power Systems`, vol. 34, no. 2, pp. 1524--1536, Mar. 2019.
+#. | V. Dvorkin, S. Delikaraoglou and **J. M. Morales**, `Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch`_, `IEEE Transactions on Power Systems`, vol. 34, no. 2, pp. 1524--1536, March 2019.
 
-#. | C. Ordoudis, P. Pinson, and **J. M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, Jan. 2019.
+#. | C. Ordoudis, P. Pinson, and **J. M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, January 2019.
 
 
+.. _Electricity cost-sharing in energy communities under dynamic pricing and uncertainty:
+https://ieeexplore.ieee.org/document/9354638
 .. _A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants: https://rdcu.be/b482o
 .. _Consumers' Flexibility Estimation at the TSO Level for Balancing Services: https://ieeexplore.ieee.org/document/8570785
 .. _Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch: https://ieeexplore.ieee.org/document/8515058
