@@ -25,7 +25,7 @@ The project `Flexanalytics` has also produced the following research results in 
 .. _An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers: https://www.sciencedirect.com/science/article/pii/S037722171830571X
 .. _Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets: https://ieeexplore.ieee.org/abstract/document/8584080
 .. _A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users: https://www.researchgate.net/publication/337023193_A_Control-based_Method_to_Meet_TSO_and_DSO_Ancillary_Services_Needs_by_Flexible_End-Users
-.. _Electricity cost-sharing in energy communities under dynamic pricing and uncertainty:
-https://ieeexplore.ieee.org/document/9354638
+.. _Electricity cost-sharing in energy communities under dynamic pricing and uncertainty: https://ieeexplore.ieee.org/document/9354638
+
 
 
