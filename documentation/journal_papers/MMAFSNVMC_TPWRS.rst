@@ -31,11 +31,11 @@ You can use this bibtex entry:
   author={A. {Jiménez-Cordero}, J. M. {Morales} and S. {Pineda}},
   journal={European Journal of Operational Research}, 
   title={A novel embedded min-max approach for feature selection in nonlinear support vector machine classification}, 
-  year={2020},
+  year={2021},
   issn={0377-2217}	
-  volume={--},
-  number={--},
-  pages={--},}
+  volume={293},
+  number={1},
+  pages={24-35},}
 
 .. _[1]: https://www.sciencedirect.com/science/article/pii/S0377221720310195
-.. _[2]: https://drive.google.com/uc?export=download&id=1n5ZmhRl7kuZuDS3c4qcdHYItitaPOuDm
+.. _[2]: https://drive.google.com/uc?export=download&id=1eyxpppsvDzL7hiXxEerBhTnL3c31L864
