@@ -21,7 +21,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	Asunción Jiménez-Cordero and Juan Miguel Morales and Salvador Pineda, "A novel embedded min-max approach for feature selection in nonlinear support vector machine classification" in European Journal of Operational Research, DOI:10.1016/j.ejor.2020.12.009, Dec. 2020.
+	Asunción Jiménez-Cordero and Juan Miguel Morales and Salvador Pineda, "A novel embedded min-max approach for feature selection in nonlinear support vector machine classification" in European Journal of Operational Research, vol. 293, no. 1, pp. 24-35, Aug. 2021
 
 You can use this bibtex entry: 
 
