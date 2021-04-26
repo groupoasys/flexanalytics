@@ -4,6 +4,8 @@ Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
+#. | **J. M. Morales**, **S. Pineda** and Yury Dvorkin, `Learning-based Coordination of Transmission and Distribution Operations <https://arxiv.org/abs/2104.06100>`_, submitted, Apr. 2021.
+
 #. | M. Gržanić, **J. M. Morales**, **S. Pineda** and T. Capuder, `Electricity cost-sharing in energy communities under dynamic pricing and uncertainty`_, `IEEE Access`, vol. 9, pp. 30225--30241, February 2021
 
 #. | D. Guericke, I. Blanco, **J. M. Morales** and H. Madsen , `A two-phase stochastic programming approach to biomass supply planning for combined heat and power plants`_, `OR Spectrum`, vol. 42, no. 4, pp. 863--900, December 2020.
