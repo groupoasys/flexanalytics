@@ -5,7 +5,7 @@ Working papers
 
 We never rest! `FlexAnalytics` continues its research with the following working papers and preprints:
 
-#. | Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero, `Offline Constraint Screening for Online Mixed-integer Optimization <https://www.researchgate.net/publication/351108538_Cost-driven_Screening_of_Network_Constraints_for_the_Unit_Commitment_Problem>`_, submitted, Apr. 2021.
+#. | Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero, `Cost-driven Screening of Network Constraints for the Unit Commitment Problem <https://www.researchgate.net/publication/351108538_Cost-driven_Screening_of_Network_Constraints_for_the_Unit_Commitment_Problem>`_, submitted, Apr. 2021.
 #. | A. Jiménez-Cordero, J. M. Morales and S. Pineda, `Offline Constraint Screening for Online Mixed-integer Optimization <https://www.researchgate.net/publication/350371853_Offline_constraint_screening_for_online_mixed-integer_optimization>`_, submitted, Mar. 2021.
 #. | A. Esteban-Pérez and J. M. Morales, `Distributionally Robust Stochastic Programs with Side Information Based on Trimmings <https://arxiv.org/pdf/1908.00399.pdf>`_, submitted, Sep. 2020
 #. | M. A. Muñoz, S. Pineda, and J. M. Morales, `A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information <https://arxiv.org/pdf/2008.01500.pdf>`_, submitted, Aug. 2020
