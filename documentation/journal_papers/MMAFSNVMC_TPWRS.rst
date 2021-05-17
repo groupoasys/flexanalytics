@@ -1,7 +1,7 @@
 .. _MMAFSNVMC_TPWRS:
 
 A Novel Embedded Min-Max Approach for Feature Selection in Nonlinear Support Vector Machine Classification
-=================================================================
+==========================================================================================================
 .. sectionauthor:: Asunción Jiménez-Cordero <asuncionjc@uma.es>
 
 This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_
