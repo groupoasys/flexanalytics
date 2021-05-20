@@ -11,10 +11,6 @@ Abstract
 
 The most common procedure to solve a linear bilevel problem in the PES community is, by far, to transform it into an equivalent  single-level problem by replacing the lower level with its KKT optimality conditions. Then, the complementarity conditions are reformulated using additional binary variables and large enough constants (big-Ms) to cast the single-level problemas a mixed-integer linear program that can be solved using optimization  software. In most cases, such large constants are tuned by  trial and error. We show, through a counterexample, that this  widely used trial-and-error approach may lead to highly suboptimal solutions. Then, further research is required to properly select big-M values to solve linear bilevel problems.
 
-Main results
-------------
-
-Under construction
 
 Citation
 --------
