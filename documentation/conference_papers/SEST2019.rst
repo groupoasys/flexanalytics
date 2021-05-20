@@ -11,10 +11,6 @@ Abstract
 
 We assume an aggregator of electric vehicles (EVs) aiming to buy energy in the day-ahead electricity market while accounting for the technical aspects of each individual EV. We pose the aggregator's problem as a bilevel model, where the upper level minimizes the total operation costs of the fleet of EVs, while each lower level minimizes the energy available to each vehicle for transportation given a certain charging plan. Thanks to the totally unimodular character of the constraint matrix in the lower-level problems, the model can be mathematically recast as a computationally efficient mixed-integer program that delivers charging schedules that are robust against the uncertain availability of the EVs. Finally, we use synthetic data from the National Household Travel Survey 2017 to analyze the behavior of the EV aggregator from both economic and technical viewpoints and compare it with the results from a deterministic approach.
 
-Main results
-------------
-
-Under construction
 
 Citation
 --------
