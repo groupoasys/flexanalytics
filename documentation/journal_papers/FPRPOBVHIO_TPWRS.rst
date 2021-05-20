@@ -1,7 +1,7 @@
 .. _FPRPOBVHIO_TPWRS:
 
 Forecasting the Price-response of a Pool of Buildings via Homothetic Inverse Optimization
-=================================================================
+=========================================================================================
 .. sectionauthor:: Asunción Jiménez-Cordero <asuncionjc@uma.es>
 
 This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_
