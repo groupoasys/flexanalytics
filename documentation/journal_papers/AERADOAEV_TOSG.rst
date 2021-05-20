@@ -11,9 +11,6 @@ Abstract
 
 The growing use of electric vehicles (EVs) may hinder their integration into the electricity system as well as their efficient operation due to the intrinsic stochasticity associated with their driving patterns. In this work, we assume a profit-maximizer EV-aggregator who participates in the day-ahead electricity market. The aggregator accounts for the technical aspects of each individual EV and the uncertainty in its driving patterns. We propose a hierarchical optimization approach to represent the decision-making of this aggregator. The upper level models the profit-maximizer aggregator’s decisions on the EV-fleet operation, while a series of lower-level problems computes the worst-case EV availability profiles in terms of battery draining and energy exchange with the market. Then, this problem can be equivalently transformed into a mixed-integer linear single-level equivalent given the totally unimodular character of the constraint matrices of the lower-level problems and their convexity. Finally, we thoroughly analyze the benefits of the hierarchical model compared to the results from stochastic and deterministic models. 
 
-Main results
-------------
-Under construction
 
 Citation
 --------

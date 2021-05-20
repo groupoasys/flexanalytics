@@ -11,10 +11,7 @@ Abstract
 In recent years, feature selection has become a challenging problem in several machine learning fields, such as classification problems. Support Vector Machine (SVM) is a well-known technique applied in classification tasks. Various methodologies have been proposed in the literature to select the most relevant features in SVM. Unfortunately, all of them either deal with the feature selection problem in the linear classification setting or propose ad-hoc approaches that are difficult to implement in practice. 
 In contrast, we propose an embedded feature selection method based on a min-max optimization problem, where a trade-off between model complexity and classification accuracy is sought. By leveraging duality theory, we equivalently reformulate the min-max problem and solve it without further ado using off-the-shelf software for nonlinear optimization. The efficiency and usefulness of our approach are tested on several benchmark data sets in terms of accuracy, number of selected features and interpretability
 
-Main results
-------------
 
-Under construction
 
 Citation
 --------
