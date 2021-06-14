@@ -4,6 +4,8 @@ Journal papers
 
 The project `FlexAnalytics` has produced several research papers, which have been published in high-impact journals:
 
+#. | A. Esteban-Pérez and J. M. Morales, :ref:`Partition-based distributionally robust optimization via optimal transport with order cone constraints<PBDROOTOCC_TPWRS>`, `4OR A Quarterly Journal of Operations Research`, June 2021.
+#. | R. Fernández-Blanco, J. M. Morales,  S. Pineda and Á. Porras, :ref:`Inverse Optimization with Kernel Regression: Application to The Power Forecasting and Bidding Of A Fleet Of Electric Vehicles<IOKRAPFBFEV_TPWRS>`, `Computer and Operations Research`, vol. 134, pp. 105405, October 2021.
 #. | R. Fernández-Blanco, J. M. Morales and S. Pineda, :ref:`Forecasting the Price-response of a Pool of Buildings via Homothetic Inverse Optimization<FPRPOBVHIO_TPWRS>`, `Applied Energy` vol. 290, pp.116791, May 2021.
 #. | A. Jiménez-Cordero, J. M. Morales and S. Pineda, :ref:`A Novel Embedded Min-Max Approach for Feature Selection in Nonlinear Support Vector Machine Classification<MMAFSNVMC_TPWRS>`, `European Journal of Operations Research`, vol. 293, no. 1, pp. 24--35, August 2021.
 #. | S. Pineda, J. M. Morales and A. Jiménez-Cordero, :ref:`Data-Driven Screening of Network Constraints for Unit Commitment<DDSNCUC_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 35, no. 5, pp. 3695--3705, September 2020.
