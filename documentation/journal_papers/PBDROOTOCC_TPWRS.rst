@@ -32,7 +32,7 @@ You can use this bibtex entry:
      pages={},
      year={2021},
      publisher={Springer}
-   }
+   
 
 .. _[1]: https://link.springer.com/article/10.1007%2Fs10288-021-00484-z
 .. _[2]: https://drive.google.com/uc?export=download&id=1beV5xagcmnoFa1AqZoc1KTsoHJj9BvIi
