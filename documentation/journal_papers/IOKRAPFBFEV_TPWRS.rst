@@ -1,7 +1,7 @@
 .. _IOKRAPFBFEV_TPWRS:
 
 Inverse Optimization with Kernel Regression: Application to The Power Forecasting and Bidding Of A Fleet Of Electric Vehicles
-===========================================================================================================
+====================================================================================================================================
 .. sectionauthor:: Lisa Huckfield <tradrev12@gmail.com>
 
 This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_.
@@ -32,7 +32,7 @@ You can use this bibtex entry:
      pages={105405},
      year={2021},
      publisher={Elsevier}
-   }
+   
 
 .. _[1]: https://www.sciencedirect.com/science/article/pii/S0305054821001696?via%3Dihub
 .. _[2]: https://drive.google.com/uc?export=download&id=1UwSKDimDY0To_2s0SwAEyTWLhMbMLFQ1
