@@ -1,6 +1,6 @@
 .. _PBDROOTOCC_TPWRS:
 
-Partition-based distributionally robust optimization via optimal transport with order cone constraints
+Partition-based Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints
 ======================================================================================================
 .. sectionauthor:: Lisa Huckfield <tradrev12@gmail.com>
 
