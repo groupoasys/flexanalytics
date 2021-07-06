@@ -5,7 +5,7 @@ Working papers
 
 We never rest! `FlexAnalytics` continues its research with the following working papers and preprints:
 
-#. | A. Elías, J. M. Morales and S. Pineda, `Depth-based Outlier Detection for Grouped Smart Meters: a Functional Data Analysis Toolbox <https://arxiv.org/abs/2107.01144>`_, submitted, July 2021.
+#. | A. Elías, J. M. Morales and S. Pineda, `Depth-based Outlier Detection for Grouped Smart Meters: a Functional Data Analysis Toolbox <https://arxiv.org/abs/2107.01144>`_, find `code <https://github.com/groupoasys/smartOASYS>`_, submitted, July 2021.
 #. | S. Pineda and J. M. Morales, `Is Learning for the Unit Commitment Problem a Low-hanging Fruit? <https://arxiv.org/abs/2106.11687>`_, submitted, June 2021.
 #. | A. Elías, R. Jiménez and H. Shang, `On Projection Methods for Functional Time Series Forecasting <https://arxiv.org/abs/2105.04399>`_, submitted, May 2021.
 #. | Á. Porras, S. Pineda, J. M. Morales and A. Jiménez-Cordero, `Cost-driven Screening of Network Constraints for the Unit Commitment Problem <https://www.researchgate.net/publication/351108538_Cost-driven_Screening_of_Network_Constraints_for_the_Unit_Commitment_Problem>`_, submitted, Apr. 2021.
