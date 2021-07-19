@@ -5,6 +5,26 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
+#. | J.M. Morales, `Data-driven power systems (operations)`, Plenary Speaker Session, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
+
+#. | A. Esteban-Pérez and J.M Morales, `Distributionally robust optimization with side information based on probability trimmings and optimal transport`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
+
+#. | S. Pineda, J. M. Morales and Y. Dvorkin, `Learning-based coordination of transmission and distribution operations`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
+
+#. | M.A.Muñoz, J.M.Morales and S.Pineda, "A bilevel framework for decision-making under uncertainty with contextual information`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
+
+#. | Á.Porras, J.M. Morales, S.Pineda and A. Jiménez-Cordero, `Cost-aware constraint screening for the unit commitment problem`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
+
+#. | A. Jiménez-Cordero, J. M. Morales and S. Pineda, `On improving MILP performance via machine learning tools`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
+
+#. | S. Pineda, J.M. Morales and A. Jiménez-Cordero, `Data-driven screening of network constraints for unit commitment`, PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021.
+
+#. | Á.Porras, R.Fernández-Blanco, J.M.Morales and S.Pineda, `An efficient robust approach to the  day-ahead operation of an aggregator of electric vehicles`, PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021.
+
+#. | M.A.Muñoz, J.M.Morales and S.Pineda, `Data-driven strategies for trading renewable energy production`, PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021.
+
+#. | A. Jiménez-Cordero, J. M. Morales, and S. Pineda, `A novel embedded min-max approach for feature selection in nonlinear support vector machine classification`, Jornadas SEIO 2021, June 2021.
+
 #. | A. Jiménez-Cordero, J. M. Morales, and S. Pineda, `A min-max approach to feature selection for nonlinear SVM classification`, V Congreso de Jóvenes Investigadores RSME, Castellón, Spain, 27th-31st January 2020.
 
 #. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `A novel min-max approach to select features in nonlinear SVM classification`, elevator pitch -- Autumn School on Bilevel Optimization, Trier University, Germany - virtual conference, 12-14 October 2020.
