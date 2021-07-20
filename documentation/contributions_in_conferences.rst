@@ -11,7 +11,7 @@ The work developed by `Flexanalytics` has been presented in renowned national an
 
 #. | S. Pineda, J. M. Morales and Y. Dvorkin, `Learning-based coordination of transmission and distribution operations`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
 
-#. | M.A.Muñoz, J.M.Morales and S.Pineda, `A bilevel framework for decision-making under uncertainty with contextual information`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
+#. | M.A.Muñoz, J.M.Morales and S.Pineda, ´A bilevel framework for decision-making under uncertainty with contextual information`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
 
 #. | Á.Porras, J.M. Morales, S.Pineda and A. Jiménez-Cordero, `Cost-aware constraint screening for the unit commitment problem`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
 
