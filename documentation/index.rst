@@ -9,7 +9,7 @@ Welcome to Flexanalytics project webpage!
 ==========================================
 `FlexAnalytics`  is an ERC Starting Grant project led by `Juan M. Morales`_, and developed by his research group `OASYS`_. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 755705).
 
-This project aims to provide data-driven methodologies to paradigmatic problems in power systems operations in the context of smart grids. 
+This project aims to provide data-driven methodologies for paradigmatic problems in power systems operations in the context of smart grids. 
 
 
 .. image:: _static/erc_logo.png
@@ -25,7 +25,7 @@ Preamble
 --------
  Activating the demand response, although a major challenge, may also bring tremendous benefits to society, with potential cost savings in the billions of euros. This project will exploit methods of inverse problems, multi-level programming and machine learning to develop a pioneering system that enables the active participation of a group of price-responsive consumers of electricity in the wholesale electricity markets. Through this, they will be able to make the most out of their flexible consumption. 
  
- `FlexAnalytics` proposes a generalized scheme for so-called inverse optimization that materializes into a novel data-driven approach to the market bidding problem that, unlike existing approaches, combines the tasks of forecasting, model formulation and estimation, and decision-making in an original unified theoretical framework. The project will also address big-data challenges, as the proposed system will leverage weather, market, and demand information to capture the many factors that may affect the price-response of a pool of flexible consumers.
+ `FlexAnalytics` proposes a generalized scheme for so-called inverse optimization that materializes into a novel data-driven approach to the market bidding problem that, unlike existing approaches, combines the tasks of forecasting, model formulation and estimation, and decision-making in an original unified theoretical framework. The project will also address big-data challenges, as the proposed system will leverage weather, market, and demand information to capture the many factors that can affect the price-response of a pool of flexible consumers.
  
  On a fundamental level, `FlexAnalytics` will produce a novel mathematical framework for data-driven decision making. On a practical level, `FlexAnalytics` will show that this framework can facilitate the best use of a large amount and a wide variety of data to efficiently operate the sustainable energy systems of the future. 
 
