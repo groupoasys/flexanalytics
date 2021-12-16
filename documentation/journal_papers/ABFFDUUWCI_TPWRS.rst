@@ -1,7 +1,7 @@
 .. _ABFFDUUWCI_TPWRS:
 
 A Bilevel Framework For Decision-making Under Uncertainty With Contextual Information
-=================================================================================
+=====================================================================================
 .. sectionauthor:: Lisa Huckfield <tradrev12@gmail.com>
 
 This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_.
