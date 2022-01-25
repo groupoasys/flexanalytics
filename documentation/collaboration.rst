@@ -33,5 +33,6 @@ The project `Flexanalytics` has also produced the following research results in 
 .. _A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users: https://www.researchgate.net/publication/337023193_A_Control-based_Method_to_Meet_TSO_and_DSO_Ancillary_Services_Needs_by_Flexible_End-Users
 .. _Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty: https://ieeexplore.ieee.org/document/9354638
 .. _An Exact Dynamic Programming Approach to Segmented Isotonic Regression: https://www.sciencedirect.com/science/article/pii/S0305048321001250
+.. _On Projection Methods for Functional Time Series Forecasting: https://www.sciencedirect.com/science/article/pii/S0047259X21001688
 
 
