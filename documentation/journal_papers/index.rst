@@ -5,7 +5,7 @@ Journal papers
 The project `FlexAnalytics` has produced several research papers, which have been published in high-impact journals:
 
 #. | M. A. Muñoz, S. Pineda and J. M. Morales, :ref:`A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information<ABFFDUUWCI_TPWRS>`, `Omega`, vol. 108, pp. 102575, April, 2022.
-#. | A. Esteban-Pérez and J. M. Morales, :ref:`Distributionally Robust Stochastic Programs with Side Information Based on Trimmings -- Extended Version<DRSPWSIBOT_TPRWS>`, `Mathematical Programming`, November, 2021.
+#. | A. Esteban-Pérez and J. M. Morales, :ref:`Distributionally Robust Stochastic Programs with Side Information Based on Trimmings -- Extended Version<DRSPWSIBOT_TPWRS>`, `Mathematical Programming`, November, 2021.
 #. | R. Fernández-Blanco, J. M. Morales,  S. Pineda and Á. Porras, :ref:`Inverse Optimization with Kernel Regression: Application to The Power Forecasting and Bidding Of A Fleet Of Electric Vehicles<IOKRAPFBFEV_TPWRS>`, `Computer and Operations Research`, vol. 134, pp. 105405, October 2021.
 #. | A. Jiménez-Cordero, J. M. Morales and S. Pineda, :ref:`A Novel Embedded Min-Max Approach for Feature Selection in Nonlinear Support Vector Machine Classification<MMAFSNVMC_TPWRS>`, `European Journal of Operations Research`, vol. 293, no. 1, pp. 24--35, August 2021.
 #. | A. Esteban-Pérez and J. M. Morales, :ref:`Partition-based Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints<PBDROOTOCC_TPWRS>`, `4OR A Quarterly Journal of Operations Research`, June 2021.
