@@ -4,11 +4,13 @@ Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
+#. | **A. Elías**,  R. Jiménez and H. Shang, `On Projection Methods for Functional Time Series Forecasting`_, `Journal of Multivariate Analysis` pp. 104890, November, 2021.
+
 #. | V. Bucarey, M. Labbé **J. M. Morales** and **S. Pineda**, `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, vol. 105, pp. 102516, July 2021.
 
-#. | **J. M. Morales**, **S. Pineda** and Yury Dvorkin, `Learning-based Coordination of Transmission and Distribution Operations <https://arxiv.org/abs/2104.06100>`_, submitted, Apr. 2021.
+#. | **J. M. Morales**, **S. Pineda** and Yury Dvorkin, `Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination <https://arxiv.org/abs/2104.06100>`_, latest version, Sep. 2021.
 
-#. | M. Gržanić, **J. M. Morales**, **S. Pineda** and T. Capuder, `Electricity cost-sharing in energy communities under dynamic pricing and uncertainty`_, `IEEE Access`, vol. 9, pp. 30225--30241, February 2021.
+#. | M. Gržanić, **J. M. Morales**, **S. Pineda** and T. Capuder, `Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty`_, `IEEE Access`, vol. 9, pp. 30225--30241, February 2021.
 
 #. | D. Guericke, I. Blanco, **J. M. Morales** and H. Madsen , `A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants`_, `OR Spectrum`, vol. 42, no. 4, pp. 863--900, December 2020.
 
@@ -29,7 +31,7 @@ The project `Flexanalytics` has also produced the following research results in 
 .. _An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers: https://www.sciencedirect.com/science/article/pii/S037722171830571X
 .. _Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets: https://ieeexplore.ieee.org/abstract/document/8584080
 .. _A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users: https://www.researchgate.net/publication/337023193_A_Control-based_Method_to_Meet_TSO_and_DSO_Ancillary_Services_Needs_by_Flexible_End-Users
-.. _Electricity cost-sharing in energy communities under dynamic pricing and uncertainty: https://ieeexplore.ieee.org/document/9354638
+.. _Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty: https://ieeexplore.ieee.org/document/9354638
 .. _An Exact Dynamic Programming Approach to Segmented Isotonic Regression: https://www.sciencedirect.com/science/article/pii/S0305048321001250
 
 
