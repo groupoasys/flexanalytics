@@ -19,8 +19,8 @@ The project `FlexAnalytics` has produced several research papers, which have bee
 .. toctree::
    :hidden:
    
-   DRSPWSIBOT_TPWRS
    ABFFDUUWCI_TPWRS
+   DRSPWSIBOT_TPWRS
    IOKRAPFBFEV_TPWRS
    MMAFSNVMC_TPWRS
    PBDROOTOCC_TPWRS
