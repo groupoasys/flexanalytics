@@ -4,8 +4,9 @@ Research Seminars
 =================
 
 Sharing knowledge is cool! This is why `FlexAnalytics` has funded or taken part in the following seminars:
-
-#. | Invited guest speaker Concepción Domínguez Sánchez, `The Rank Pricing Problem: a mixed-integer linear optimization approach`, seminar, Ada Byron Research Centre, July 2021.
+ 
+#. | C. Domínguez Sánchez, Invited guest speaker, `The Rank Pricing Problem: a mixed-integer linear optimization approach`, seminar, Ada Byron Research Centre, July 2021.
+#. | *A. Jiménez-Cordero*, J. M. Morales and S. Pineda, `A novel embedded min-max approach for feature selection in nonlinear support vector machine classification" Session candidates for the Ramiro Melendreras prize. Jornadas SEIO 2021, 9 -11 June, 2021
 #. | J. M. Morales, S. Pineda, M. A. Muñoz, and A. Esteban-Pérez, `Contextual decision-making under uncertainty`, NeEDS Machine Learning NeEDS Mathematical Optimization online seminars, March 2021. Watch the seminar `here <https://youtu.be/nrjwfLleGlg>`_.
 #. | S. Pineda, M. A. Muñoz and J.M. Morales "A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information", IUMA Day on Mathematical Optimization for Data Science, University of Zaragoza, 19 March, 2021. The slides of the presentation can be downloaded `here <https://drive.google.com/uc?export=download&id=1X4rUtgyjVnStlnh9D5Hjt25Ficq2xn2v>`_.
 #. | A. Jiménez-Cordero, J. M. Morales, and S. Pineda, `Feature selection in nonlinear SVM using a novel min-max approach`, NeEDS Machine Learning NeEDS Mathematical Optimization online seminars, February 2021. Watch the seminar `here <https://youtu.be/IlZPrleWjmY?t=1221>`_.
