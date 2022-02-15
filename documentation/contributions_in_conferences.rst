@@ -5,9 +5,9 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
-#. | A. Elías, J.M. Morales and S. Pineda, `Depth-based outlier detection for grouped smart meters: a functional data analysis toolbox`_, 14th International Conference of the ERCIM WG on Computational and Methodological Studies (CMStatistics 2021), London, UK 18 - 20 December, 2021.
+#. | A. Elías, J.M. Morales and S. Pineda, `Depth-based outlier detection for grouped smart meters: a functional data analysis toolbox`, 14th International Conference of the ERCIM WG on Computational and Methodological Studies (CMStatistics 2021), London, UK 18 - 20 December, 2021.
 
-#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `An offline-online strategy to improve MILP performance via machine learning tolos`_, New Bridges between Mathematics and Data Science. The Mathematical Strategic Network (Red Estratégica de Matemáticas (REM)), Valladolid, Spain, 8 - 11 November, 2021.
+#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `An offline-online strategy to improve MILP performance via machine learning tolos`, New Bridges between Mathematics and Data Science. The Mathematical Strategic Network (Red Estratégica de Matemáticas (REM)), Valladolid, Spain, 8 - 11 November, 2021.
 
 #. | J.M. Morales, `Data-driven power systems (operations)`, Plenary Speaker Session, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
 
