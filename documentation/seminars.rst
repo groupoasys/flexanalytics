@@ -5,7 +5,7 @@ Research Seminars
 
 Sharing knowledge is cool! This is why `FlexAnalytics` has funded or taken part in the following seminars:
  
-#. | *A. Esteban-Pérez* and J.M. Morales, `Distributionally robust optimal power flow with contextual information`_, College of Management of Technology (CMD) Seminar, Ecole Polythechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, 30 November, 2021. 
+#. | *A. Esteban-Pérez* and J.M. Morales, `Distributionally robust optimal power flow with contextual information`, College of Management of Technology (CMD) Seminar, Ecole Polythechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, 30 November, 2021. 
 #. | C. Domínguez Sánchez, Invited guest speaker, `The Rank Pricing Problem: a mixed-integer linear optimization approach`, seminar, Ada Byron Research Centre, July 2021.
 #. | *A. Jiménez-Cordero*, J. M. Morales and S. Pineda, `A novel embedded min-max approach for feature selection in nonlinear support vector machine classification" Session candidates for the Ramiro Melendreras prize. Jornadas SEIO 2021, 9 -11 June, 2021.
 #. | *A. Elías*, R. Jiménez, A.M. Paganoni and L.M. Sangalli `Integrated depths for partially observed functional data", Session candidates for the Ramiro Melendreras prize. Jornadas SEIO 2021, 9 -11 June, 2021.

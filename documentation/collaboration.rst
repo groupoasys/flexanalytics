@@ -4,7 +4,7 @@ Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
-#. | **C. Domínguez**, M. Labbé and A. Marín `Mixed-integer Formulations for the Capacitated Rank Pricing Problem With Envy`_, `Computers & Operations Research vol. 140, pp. 105664, April 2022.
+#. | **C. Domínguez**, M. Labbé and A. Marín `Mixed-integer Formulations for the Capacitated Rank Pricing Problem With Envy`_, `Computers & Operations Research` vol. 140, pp. 105664, April 2022.
 
 #. | **A. Elías**,  R. Jiménez and H. Shang, `On Projection Methods for Functional Time Series Forecasting`_, `Journal of Multivariate Analysis` pp. 104890, November, 2021.
 
@@ -36,5 +36,5 @@ The project `Flexanalytics` has also produced the following research results in 
 .. _Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty: https://ieeexplore.ieee.org/document/9354638
 .. _An Exact Dynamic Programming Approach to Segmented Isotonic Regression: https://www.sciencedirect.com/science/article/pii/S0305048321001250
 .. _On Projection Methods for Functional Time Series Forecasting: https://www.sciencedirect.com/science/article/pii/S0047259X21001688
-
+.. _Mixed-integer Formulations for the Capacitated Rank Pricing Problem With Envy: https://www.sciencedirect.com/science/article/pii/S0305054821003658
 
