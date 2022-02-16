@@ -15,7 +15,7 @@ conference papers, and contributions to conferences.
 ## Do you want to contribute? 🙋‍♂️🙋‍♀️
  
  Please, do so 😋 Any & all feedback is welcome 🤗 so feel free to ask about or comment on anything you wish to via a Pull Request in this repo.
- You can contact the developers below.
+ You can also contact the developers below.
  
  ## Contributors 🌬☀
  
