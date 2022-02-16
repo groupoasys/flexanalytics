@@ -5,6 +5,7 @@ Working papers
 
 We never rest! `FlexAnalytics` continues its research with the following working papers and preprints:
 
+#. | A. Esteban-Pérez, J.M. Morales, `Distributionally Robust Optimal Power Flow with Contextual Information <https://arxiv.org/abs/2109.07896>`_, submitted Sep. 2021.
 #. | J. M. Morales, Miguel Á. Muñoz and S. Pineda, `Prescribing Net Demand for Electricity Market Clearing <https://arxiv.org/abs/2108.01003>`_, submitted Aug. 2021.
 #. | A. Elías, J. M. Morales and S. Pineda, `Depth-based Outlier Detection for Grouped Smart Meters: a Functional Data Analysis Toolbox <https://arxiv.org/abs/2107.01144>`_, find `code <https://github.com/groupoasys/smartOASYS>`_, latest version, July 2021.
 #. | S. Pineda and J. M. Morales, `Is Learning for the Unit Commitment Problem a Low-hanging Fruit <https://arxiv.org/abs/2106.11687>`_, latest version, June 2021.
