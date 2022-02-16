@@ -14,7 +14,7 @@ conference papers, and contributions to conferences.
 
 ## Do you want to contribute? 🙋‍♂️🙋‍♀️
  
- Please, do it 😋 Any feedback is welcome 🤗 so feel free to ask or comment anything you want via a Pull Request in this repo.
+ Please, do so 😋 Any feedback is welcome 🤗 so feel free to ask or comment anything you want via a Pull Request in this repo.
  If you need extra help, you can ask Ricardo Fernández-Blanco (ricardo.fcarramolino@gmail.com) or Asunción Jiménez-Cordero(asuncionjc@uma.es).
  
  ## Contributors 🌬☀
