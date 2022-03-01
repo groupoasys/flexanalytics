@@ -17,7 +17,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	S. Pineda and J.M. Morales, ``Is learning for the unit commitment problem a low-hanging fruit?", doi.org/10.1016/j.epsr.2022.107851, 2022
+	S. Pineda and J.M. Morales, `Is learning for the unit commitment problem a low-hanging fruit?` doi.org/10.1016/j.epsr.2022.107851, 2022.
 
 Alternatively you could use this bibtex entry: 
 
