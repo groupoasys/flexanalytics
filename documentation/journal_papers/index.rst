@@ -4,7 +4,7 @@ Journal papers
 
 The project `FlexAnalytics` has produced several research papers, which have been published in high-impact journals:
 
-#. | S. Pineda and J. M. Morales, :ref:`Is Learning for the Unit Commitment Problem a Low-hanging Fruit<ILFTUCPLHF_EPSR>`, `Electric Power Systems Research`, (EA) vol. 207, pp. 107851, June, 2022.
+#. | S. Pineda and J. M. Morales, :ref:`Is Learning for the Unit Commitment Problem a Low-hanging Fruit?<ILFTUCPLHF_EPSR>` `Electric Power Systems Research`, (EA) vol. 207, pp. 107851, June, 2022.
 #. | M. A. Muñoz, S. Pineda and J. M. Morales, :ref:`A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information<ABFFDUUWCI_TPWRS>`, `Omega`, (EA) vol. 108, pp. 102575, April, 2022.
 #. | A. Esteban-Pérez and J. M. Morales, :ref:`Distributionally Robust Stochastic Programs with Side Information Based on Trimmings -- Extended Version<DRSPWSIBOT_TPWRS>`, `Mathematical Programming`, November, 2021.
 #. | R. Fernández-Blanco, J. M. Morales,  S. Pineda and Á. Porras, :ref:`Inverse Optimization with Kernel Regression: Application to The Power Forecasting and Bidding Of A Fleet Of Electric Vehicles<IOKRAPFBFEV_TPWRS>`, `Computer and Operations Research`, vol. 134, pp. 105405, October 2021.
