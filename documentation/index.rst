@@ -29,7 +29,7 @@ Preamble
  
  On a fundamental level, `FlexAnalytics` will produce a novel mathematical framework for data-driven decision making. On a practical level, `FlexAnalytics` will show that this framework can facilitate the best use of a large amount and a wide variety of data to efficiently operate the sustainable energy systems of the future. 
 
-If you would like to know more about this project, please have a look at this site. All work related to the project is summarized below.
+On this site you can find more details on `FlexAnalytics`. All work related to the project is summarised below.
 
 Contents
 --------
