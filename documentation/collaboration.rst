@@ -4,9 +4,6 @@ Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
-#. | **C. Domínguez**, M. Labbé and A. Marín `Mixed-integer Formulations for the Capacitated Rank Pricing Problem With Envy`_, `Computers & Operations Research` vol. 140, pp. 105664, April 2022.
-
-#. | **A. Elías**,  R. Jiménez and H. Shang, `On Projection Methods for Functional Time Series Forecasting`_, `Journal of Multivariate Analysis` pp. 104890, November, 2021.
 
 #. | V. Bucarey, M. Labbé **J. M. Morales** and **S. Pineda**, `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, vol. 105, pp. 102516, July 2021.
 
