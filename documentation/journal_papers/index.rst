@@ -4,6 +4,7 @@ Journal papers
 
 The project `FlexAnalytics` has produced several research papers, which have been published in high-impact journals:
 
+#. | A. Porras, S. Pineda, J. M. Morales and A. Jimenez-Cordero, :ref:`Cost-driven Screening of Network Constraints for the Unit Commitment Problem`<CDCNSFUCP_TPWRS>` `IEEE Transactions on Power Systems`, (EA) pp. 1--1 March, 2022.
 #. | S. Pineda and J. M. Morales, :ref:`Is Learning for the Unit Commitment Problem a Low-hanging Fruit?<ILFTUCPLHF_EPSR>` `Electric Power Systems Research`, (EA) vol. 207, pp. 107851, June, 2022.
 #. | M. A. Muñoz, S. Pineda and J. M. Morales, :ref:`A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information<ABFFDUUWCI_TPWRS>`, `Omega`, (EA) vol. 108, pp. 102575, April, 2022.
 #. | A. Esteban-Pérez and J. M. Morales, :ref:`Distributionally Robust Stochastic Programs with Side Information Based on Trimmings -- Extended Version<DRSPWSIBOT_TPWRS>`, `Mathematical Programming`, November, 2021.
@@ -19,7 +20,8 @@ The project `FlexAnalytics` has produced several research papers, which have bee
 
 .. toctree::
    :hidden:
-    
+   
+   CDCNSFUCP_TPWRS
    ILFTUCPLHF_EPSR
    ABFFDUUWCI_TPWRS
    DRSPWSIBOT_TPWRS
