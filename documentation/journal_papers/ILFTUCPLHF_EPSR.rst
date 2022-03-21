@@ -34,6 +34,6 @@ Alternatively you could use this bibtex entry:
   doi={doi.org/10.1016/j.epsr.2022.107851}}
 
 .. _[1]: https://www.sciencedirect.com/science/article/pii/S0378779622000815
-.. _[2]: https://drive.google.com/uc?export=download&id=1VhoYo0u3zz5_qJGUsbJ04GqVFWzqe26M
+.. _[2]: https://arxiv.org/abs/2106.11687
 
 
