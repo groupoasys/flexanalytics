@@ -35,6 +35,6 @@ Alternatively you could use this bibtex entry:
   ISSN={1558-0679},}
 
 .. _[1]: https://ieeexplore.ieee.org/document/9736690/authors#authors
-.. _[2]: https://arxiv.org/abs/2104.05746
+.. _[2]: https://drive.google.com/uc?export=download&id=1gJ7FG3l_Tsr6g-2xVerC4MD0bL93fmGw 
 
 
