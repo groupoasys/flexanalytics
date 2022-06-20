@@ -21,13 +21,13 @@ The work developed by `Flexanalytics` has been presented in renowned national an
 
 #. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `An offline-online strategy to improve MILP performance via machine learning tools`, New Bridges between Mathematics and Data Science. The Mathematical Strategic Network (Red Estratégica de Matemáticas (REM)), Valladolid, Spain, 8 - 11 November, 2021. `presentation <https://drive.google.com/uc?export=download&id=1QYW7SQwJPXJy67JFmXaNOkmlT9Klkz6T>`_ and `video <https://www.youtube.com/watch?v=2ijTrspLKZ0>`_ 
 
-#. | J.M. Morales, `Data-driven power systems (operations)`, Plenary Speaker Session, EURO 2021, Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1_JbGXX-p6eOaFmopc9sR5-xOmFUniyTJ>_
+#. | J.M. Morales, `Data-driven power systems (operations)`, Plenary Speaker Session, EURO 2021, Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1_JbGXX-p6eOaFmopc9sR5-xOmFUniyTJ>`_
 
-#. | A. Esteban-Pérez and J.M Morales, `Distributionally robust optimization with side information based on probability trimmings and optimal transport`, EURO 2021, Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1i_rJdJU9oSBDXJQ4-AOyN8k4BA9cLZ1T>_
+#. | A. Esteban-Pérez and J.M Morales, `Distributionally robust optimization with side information based on probability trimmings and optimal transport`, EURO 2021, Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1i_rJdJU9oSBDXJQ4-AOyN8k4BA9cLZ1T>`_
 
-#. | S. Pineda, J. M. Morales and Y. Dvorkin, `Learning-based coordination of transmission and distribution operations`, EURO 2021, Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1ssELEf_SuT0JT0BkHrobrx4uDVqnF4NS>_
+#. | S. Pineda, J. M. Morales and Y. Dvorkin, `Learning-based coordination of transmission and distribution operations`, EURO 2021, Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1ssELEf_SuT0JT0BkHrobrx4uDVqnF4NS>`_
 
-#. | M.Á. Muñoz, J.M.Morales and S.Pineda, `A bilevel framework for decision-making under uncertainty with contextual information`, EURO 2021, Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1Q1JI_qubc_yG36E3YheC8rZ9I2CFHO5X>_
+#. | M.Á. Muñoz, J.M.Morales and S.Pineda, `A bilevel framework for decision-making under uncertainty with contextual information`, EURO 2021, Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1Q1JI_qubc_yG36E3YheC8rZ9I2CFHO5X>`_
 
 #. | Á. Porras, J.M. Morales, S.Pineda and A. Jiménez-Cordero, `Cost-aware constraint screening for the unit commitment problem`, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
 
