@@ -5,21 +5,21 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
-#. | Á. Porras, C. Domínguez, J. M. Morales and S. Pineda, `Chance-Constrained Optimization applied to the Optimal Power Flow problem:  An MIP approach`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1iBkULxQlRDSEfoL1ygQgt_jLR1YHwdbB>`_.
+#. | Á. Porras, C. Domínguez, J. M. Morales and S. Pineda, `Chance-Constrained Optimization applied to the Optimal Power Flow problem:  An MIP approach`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1iBkULxQlRDSEfoL1ygQgt_jLR1YHwdbB>`_
 
-#. | S. Pineda, M. Á. Muñoz and J.M. Morales, `A bilevel framework for decision-making under uncertainty with contextual information`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1k28s-wD4Xri1Gy-ix2rpETMkvivqMNAn>`_.
+#. | S. Pineda, M. Á. Muñoz and J.M. Morales, `A bilevel framework for decision-making under uncertainty with contextual information`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1k28s-wD4Xri1Gy-ix2rpETMkvivqMNAn>`_
 
-#. | J.M. Morales and A. Esteban-Pérez, `Distributionally robust optimization with side information based on probability trimmings and optimal transport`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1l0sH0u5BHd5ik-SlsVDdaeyn7Jh-vau2>`_.
+#. | J.M. Morales and A. Esteban-Pérez, `Distributionally robust optimization with side information based on probability trimmings and optimal transport`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1l0sH0u5BHd5ik-SlsVDdaeyn7Jh-vau2>`_
 
-#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `On warm-starting constraint generation methods via machine learning tools for solving mixed-integer programs`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1Qu3Z_ws0JgiJVwfeTYXt2vkMSjwUo966>`_.
+#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `On warm-starting constraint generation methods via machine learning tools for solving mixed-integer programs`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1Qu3Z_ws0JgiJVwfeTYXt2vkMSjwUo966>`_
 
-#. | A. Elías, J.M. Morales and S. Pineda, ``Functional depths in the context of functional time series`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1WMbPwik6LDB_W2lX3xDJOz2ErOkWeDCG>`_.
+#. | A. Elías, J.M. Morales and S. Pineda, ``Functional depths in the context of functional time series`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1WMbPwik6LDB_W2lX3xDJOz2ErOkWeDCG>`_
 
-#. | J. Huete, A. Elías, J.M. Morales and S. Pineda, `Forecasting the energy consumption of multiple buildings`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1mSvWZ9O5tS0qJ7Z6NZfNmdMmDUhCoiW7>`_.
+#. | J. Huete, A. Elías, J.M. Morales and S. Pineda, `Forecasting the energy consumption of multiple buildings`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1mSvWZ9O5tS0qJ7Z6NZfNmdMmDUhCoiW7>`_
 
-#. | A. Elías, J.M. Morales and S. Pineda, `Depth-based outlier detection for grouped smart meters: a functional data analysis toolbox`, 14th International Conference of the ERCIM WG on Computational and Methodological Studies (CMStatistics 2021), London, UK 18 - 20 December, 2021. `presentation <https://drive.google.com/uc?export=download&id=1b1biIXhFFur8xd_E2QTwgDNnW5FWucyT>`_.
+#. | A. Elías, J.M. Morales and S. Pineda, `Depth-based outlier detection for grouped smart meters: a functional data analysis toolbox`, 14th International Conference of the ERCIM WG on Computational and Methodological Studies (CMStatistics 2021), London, UK 18 - 20 December, 2021. `presentation <https://drive.google.com/uc?export=download&id=1b1biIXhFFur8xd_E2QTwgDNnW5FWucyT>`_
 
-#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `An offline-online strategy to improve MILP performance via machine learning tolos`, New Bridges between Mathematics and Data Science. The Mathematical Strategic Network (Red Estratégica de Matemáticas (REM)), Valladolid, Spain, 8 - 11 November, 2021.
+#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `An offline-online strategy to improve MILP performance via machine learning tools`, New Bridges between Mathematics and Data Science. The Mathematical Strategic Network (Red Estratégica de Matemáticas (REM)), Valladolid, Spain, 8 - 11 November, 2021. `presentation <https://drive.google.com/uc?export=download&id=1QYW7SQwJPXJy67JFmXaNOkmlT9Klkz6T>`_ and `video <https://www.youtube.com/watch?v=2ijTrspLKZ0>`_ 
 
 #. | J.M. Morales, `Data-driven power systems (operations)`, Plenary Speaker Session, EURO 2021, Athens, Greece, 11 - 14 July, 2021.
 
