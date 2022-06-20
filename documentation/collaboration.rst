@@ -7,7 +7,7 @@ The project `Flexanalytics` has also produced the following research results in 
 
 #. | V. Bucarey, M. Labbé **J. M. Morales** and **S. Pineda**, `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, vol. 105, pp. 102516, July 2021.
 
-#. | **J. M. Morales**, **S. Pineda** and Yury Dvorkin, `Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination <https://arxiv.org/abs/2104.06100>`_, latest version, Sep. 2021.
+#. | **J. M. Morales**, **S. Pineda** and Yury Dvorkin, `Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination`_, `IEEE Transactions on Power Systems`, vol. 37, no. 4, pp. 2858-2868, July 2022.
 
 #. | M. Gržanić, **J. M. Morales**, **S. Pineda** and T. Capuder, `Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty`_, `IEEE Access`, vol. 9, pp. 30225--30241, February 2021.
 
@@ -32,6 +32,5 @@ The project `Flexanalytics` has also produced the following research results in 
 .. _A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users: https://www.researchgate.net/publication/337023193_A_Control-based_Method_to_Meet_TSO_and_DSO_Ancillary_Services_Needs_by_Flexible_End-Users
 .. _Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty: https://ieeexplore.ieee.org/document/9354638
 .. _An Exact Dynamic Programming Approach to Segmented Isotonic Regression: https://www.sciencedirect.com/science/article/pii/S0305048321001250
-.. _On Projection Methods for Functional Time Series Forecasting: https://www.sciencedirect.com/science/article/pii/S0047259X21001688
-.. _Mixed-integer Formulations for the Capacitated Rank Pricing Problem With Envy: https://www.sciencedirect.com/science/article/pii/S0305054821003658
+.. _Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination: https://ieeexplore.ieee.org/document/9615006?source=authoralert
 
