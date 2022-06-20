@@ -5,11 +5,11 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
-#. | Á. Porras,  C. Domínguez, J. M. Morales and S. Pineda, "Chance-Constrained Optimization applied to the Optimal Power Flow problem:  An MIP approach", SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1iBkULxQlRDSEfoL1ygQgt_jLR1YHwdbB>_.
+#. | Á. Porras, C. Domínguez, J. M. Morales and S. Pineda, `Chance-Constrained Optimization applied to the Optimal Power Flow problem:  An MIP approach`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1iBkULxQlRDSEfoL1ygQgt_jLR1YHwdbB>`_.
 
-#. | S. Pineda, M. Á. Muñoz and J.M. Morales,  `A bilevel framework for decision-making under uncertainty with contextual information", SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1k28s-wD4Xri1Gy-ix2rpETMkvivqMNAn>`_.
+#. | S. Pineda, M. Á. Muñoz and J.M. Morales, `A bilevel framework for decision-making under uncertainty with contextual information`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1k28s-wD4Xri1Gy-ix2rpETMkvivqMNAn>`_.
 
-#. | J.M. Morales and A. Esteban-Pérez `Distributionally robust optimization with side information based on probability trimmings and optimal transport", SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1l0sH0u5BHd5ik-SlsVDdaeyn7Jh-vau2>`_.
+#. | J.M. Morales and A. Esteban-Pérez, `Distributionally robust optimization with side information based on probability trimmings and optimal transport`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1l0sH0u5BHd5ik-SlsVDdaeyn7Jh-vau2>`_.
 
 #. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `On warm-starting constraint generation methods via machine learning tools for solving mixed-integer programs`, SEIO 2022, Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1Qu3Z_ws0JgiJVwfeTYXt2vkMSjwUo966>`_.
 
