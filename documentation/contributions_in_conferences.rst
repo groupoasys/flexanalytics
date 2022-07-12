@@ -5,6 +5,24 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
+#. | J.M. Morales invited speaker at Roundtable with Forums `Opportunities and challenges of conducting OR research`, XXXII European Conference on Operational Research (EURO 22) Espoo, Finland, 4-7th July, 2022.
+
+#. | A. Jiménez-Cordero `Feature selection in (functional) SVM via bilevel optimization` YW4OR session XXXII European Conference on Operational Research (EURO 22) Espoo, Finland, 4-7th July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1vKR9wxGpJg4P7Kj_d3GPt0V_RY-aYMQe>`_
+
+#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda `A novel machine-learning-aided approach for warm-starting constraint generation methods in MILPs`, XXXII European Conference on Operational Research (EURO 22) Espoo, Finland, 4-7th July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1772Wg5YkNZNxoPkljV5-n5lh36CQSZM2>`_
+
+#. | J.M. Morales, M.Á. Muñoz and S. Pineda `Value-oriented forecasting of net demand for electricity market clearing`, XXXII European Conference on Operational Research (EURO 22), Espoo, Finland, 4-7th July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1cepH7I4DWCpafGwrsGYmy2FP95xU23x1>`_
+
+#. | S. Pineda and J.M. Morales, `Is learning for the Unit Commitment problem a low-hanging fruit?`, XXXII European Conference on Operational Research (EURO 22), Espoo, Finland, 4-7th July, 2022. `presentation <https://drive.google.com/uc?export=download&id=15p0LXeHNJNRmvXo6_H1EfL_i9J0I18Ou>`_
+ 
+#. | M.Á Muñoz, J.M. Morales and S. Pineda, `A bilevel framework for decision-making under uncertainty with contextual information`, European Conference on Stochastic Optimization and Computational Management Science (ECSO-CMS 22), Venice, Italy, 29-30th June 1st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1mURLUOIw9qrJY7NQ9dEC3lbuBWucsQqS>`_
+
+#. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda, `An MIP approach to tackle the Optimal Power Flow problem with probabilistic constraints`, European Conference on Stochastic Optimization and Computational Management Science (ECSO-CMS 22), Venice, Italy, 29-30th June 1st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1PA0MQwrqTpXM4vk4tlA1-X2DgSw8FSnb>`_
+
+#. | J.M. Morales and A. Esteban-Pérez, `Distributionally robust chance-constrained optimal power flow with contextual information`, European Conference on Stochastic Optimization and Computational Management Science (ECSO-CMS 22), Venice, Italy, 29-30th June 1st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1m3mP7kKlrSrszdWDXodFO-1I8Uj30tBq>`_
+
+#. | A. Esteban-Pérez and J.M. Morales, `Distributionally robust stochastic programs with side information based on trimmings`, Finalist for Best Paper Award. European Conference on Stochastic Optimization and Computational Management Science (ECSO-CMS 22), Venice, Italy, 29-30th June 1st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1jdnA49tS3ixGOdb4fd9qUAKkKc0jAEvc>`_ 
+
 #. | Á. Porras, C. Domínguez, J. M. Morales and S. Pineda, `Chance-Constrained Optimization applied to the Optimal Power Flow problem:  An MIP approach`, XXXIX National Congress of Statistics and Operational Research and the XIII Conference on Public Statistics (SEIO 2022) Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1iBkULxQlRDSEfoL1ygQgt_jLR1YHwdbB>`_
 
 #. | S. Pineda, M. Á. Muñoz and J.M. Morales, `A bilevel framework for decision-making under uncertainty with contextual information`, XXXIX National Congress of Statistics and Operational Research and the XIII Conference on Public Statistics (SEIO 2022) Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1k28s-wD4Xri1Gy-ix2rpETMkvivqMNAn>`_
