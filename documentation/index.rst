@@ -38,10 +38,10 @@ Contents
    :maxdepth: 1
 
    journal_papers/index
-   conference_papers/index
    working_papers
    contributions_in_conferences
    seminars
+   OASYS_seminar_series
    collaboration
 
 Contact
