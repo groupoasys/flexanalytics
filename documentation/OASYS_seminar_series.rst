@@ -4,7 +4,7 @@ OASYS Seminar Series
 ====================
 
 As a vital forum for brainstorming, collaboration and sharing results, the *OASYS Seminar Series* was born.  A monthly seminar/research platform where, not only members of OASYS working on the *FlexAnalytics* project, but also international researchers in the field, present their ideas, and get a fresh take on the ongoing work of *FlexAnalytics*.
-A number of new working relationships across Europe have been forged, and even new members of teh team found, thanks to this initiative. 
+A number of new working relationships across Europe have been forged, and even new members of the team found, thanks to this initiative. 
 
 This recently culminated in a hugely successful symposium, with a number of experts, from distinct research groups and universities around Europe, invited to speak and share their knowledge. For more details on this symposium `visit <https://sites.google.com/view/groupoasys/conferences-and-seminars/oasys-seminar-series?authuser=0>`_
 
