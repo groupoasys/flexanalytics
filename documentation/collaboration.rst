@@ -4,7 +4,8 @@ Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
-#. | **J.M.Morales and **S.Pineda**, co-editors of special issue ´Essays on Operations Research in Energy`_, `TOP` vol. 30, no. 3 pp. 427--429 October, 2022.
+
+#. | **J.M. Morales and **S.Pineda**, co-editors for special edition `Essays on Operations Research in Energy`_, `TOP` vol. 30, no. 3 pp. 427--429 October, 2022.
 
 #. | V. Bucarey, M. Labbé **J. M. Morales** and **S. Pineda**, `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, vol. 105, pp. 102516, July 2021.
 

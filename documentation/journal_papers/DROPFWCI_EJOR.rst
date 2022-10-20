@@ -23,14 +23,14 @@ You can use this bibtex entry:
 .. code-block:: latex
 
   @article{ESTEBANPEREZ2022,
-title = {Distributionally Robust Optimal Power Flow with Contextual Information},
-journal = {European Journal of Operational Research},
-year = {2022},
-issn = {0377-2217},
-doi = {https://doi.org/10.1016/j.ejor.2022.10.024},
-url = {https://www.sciencedirect.com/science/article/pii/S0377221722008128},
-author = {Adrián Esteban-Pérez and Juan M. Morales},
-}
+  title = {Distributionally Robust Optimal Power Flow with Contextual Information},
+  journal = {European Journal of Operational Research},
+  year = {2022},
+  issn = {0377-2217},
+  doi = {https://doi.org/10.1016/j.ejor.2022.10.024},
+  url = {https://www.sciencedirect.com/science/article/pii/S0377221722008128},
+  author = {Adrián Esteban-Pérez and Juan M. Morales},}
+  
 
 .. _[1]: https://www.sciencedirect.com/science/article/pii/S0377221722008128
 .. _[2]: https://arxiv.org/abs/2109.07896
