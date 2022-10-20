@@ -18,23 +18,21 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	M. A. Muñoz, J. M. Morales, and S. Pineda, `Feature-driven Improvement of Renewable Energy Forecasting and Trading`, `IEEE Transactions on Power Systems`, vol. n/a, no. n/a, pp. n/a, n/a 2020.
+	M. A. Muñoz, J. M. Morales, and S. Pineda, `Feature-driven Improvement of Renewable Energy Forecasting and Trading`, `IEEE Transactions on Power Systems`, vol. 35, no. 5, pp. 3753-3763, 2020.
 
 You can use this bibtex entry: 
 
 .. code-block:: latex
 
-   @article{Munoz2019feat,
-     title={Feature-driven Improvement of Renewable Energy Forecasting and Trading},
-     author={Mu{\~n}oz, Miguel Angel and Morales, Juan Miguel and Pineda, Salvador},
-     journal={IEEE Transactions on Power Systems},
-     year={2020},
-     volume={}, 
-     number={}, 
-     pages={},
-     publisher={IEEE},
-     keywords={Electricity markets; Machine Learning; Optimization; Renewable energy forecasting and trading; Windpower},
-     doi={10.1109/TPWRS.2020.2975246}, 
+   @ARTICLE{9005244,
+  author={Muñoz, M. A. and Morales, J. M. and Pineda, S.},
+  journal={IEEE Transactions on Power Systems}, 
+  title={Feature-Driven Improvement of Renewable Energy Forecasting and Trading}, 
+  year={2020},
+  volume={35},
+  number={5},
+  pages={3753-3763},
+  doi={10.1109/TPWRS.2020.2975246}}
    }
 
 

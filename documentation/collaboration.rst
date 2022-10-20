@@ -5,6 +5,8 @@ Collaboration with Other Groups
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
 
+#. | **J.M. Morales and **S.Pineda**, co-editors for special edition `Essays on Operations Research in Energy`_, `TOP` vol. 30, no. 3 pp. 427--429 October, 2022.
+
 #. | V. Bucarey, M. Labbé **J. M. Morales** and **S. Pineda**, `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, vol. 105, pp. 102516, July 2021.
 
 #. | **J. M. Morales**, **S. Pineda** and Yury Dvorkin, `Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination`_, `IEEE Transactions on Power Systems`, vol. 37, no. 4, pp. 2858-2868, July 2022.
@@ -33,4 +35,4 @@ The project `Flexanalytics` has also produced the following research results in 
 .. _Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty: https://ieeexplore.ieee.org/document/9354638
 .. _An Exact Dynamic Programming Approach to Segmented Isotonic Regression: https://www.sciencedirect.com/science/article/pii/S0305048321001250
 .. _Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination: https://ieeexplore.ieee.org/document/9615006?source=authoralert
-
+.. _Essays on Operations Research in Energy: https://link.springer.com/journal/11750/volumes-and-issues/30-3?utm_source=toc&utm_medium=email&utm_campaign=toc_11750_30_3&utm_content=etoc_springer_20221018
