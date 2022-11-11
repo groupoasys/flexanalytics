@@ -1,6 +1,6 @@
 .. _DRSPWSIBOT_TPWRS:
 
-Distributionally Robust Stochastic Programs with Side Information Based on Trimmings -- Extended Version
+Distributionally Robust Stochastic Programs with Side Information Based on Trimmings 
 ========================================================================================================
 .. sectionauthor:: Lisa Huckfield <lisa@uma.es>
 
@@ -16,7 +16,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	Esteban-Pérez, A., Morales, J.M. Distributionally robust stochastic programs with side information based on trimmings. Math. Program. (2021). https://doi.org/10.1007/s10107-021-01724-0
+	Esteban-Pérez, A., Morales, J.M. Distributionally robust stochastic programs with side information based on trimmings. Mathematical Programming vol. 195, no. 1, pp 1069--1105 (2022). https://doi.org/10.1007/s10107-021-01724-0
 
 You can use this bibtex entry: 
 
@@ -26,10 +26,10 @@ You can use this bibtex entry:
      title={Distributionally robust stochastic programs with side information based on trimmings},
      author={Pineda, Salvador and Morales, Juan Miguel},
      journal={Mathematical Programming},
-     volume={--},
-     number={--},
-     pages={--},
-     year={2021},
+     volume={195},
+     number={1},
+     pages={1069--1105},
+     year={2022},
      publisher={Springer}
    }
 
