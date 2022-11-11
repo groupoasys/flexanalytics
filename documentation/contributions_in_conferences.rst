@@ -9,8 +9,7 @@ The work developed by `Flexanalytics` has been presented in renowned national an
 
 #. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda, `Tight and compact sample average approximation for joint chance constrained optimal power flow`, INFORMS 22, Indianapolis, USA, 16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
 
-#. |A. Jiménez-Cordero, `Solving mixed-integer programs with warm-starting constraint generation methods via machine learning tools`, 3rd Spanish Young Statisticians and Operational Researchers Meeting (SYSORM) Elche, Spain, 21st-23rd September, 2022. `presentation <https://drive.google.com/uc?export=download&id=1wnw-nhMpnTB8tHetYXSlwpQo4wjb62K4>`_
-
+#. | A. Jiménez-Cordero, `Solving mixed-integer programs with warm-starting constraint generation methods via machine learning tools`, 3rd Spanish Young Statisticians and Operational Researchers Meeting (SYSORM) Elche, Spain, 21st-23rd September, 2022. `presentation <https://drive.google.com/uc?export=download&id=1wnw-nhMpnTB8tHetYXSlwpQo4wjb62K4>`_
 
 #. | **J.M. Morales**, **S. Pineda** and Y. Dvorkin, `Learning the price response of active distribution networks for TSO-DSO coordination`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1PumlxmdyOWjI3w2wRbeFgSkcCUaqEfDG>`_
 
