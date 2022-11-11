@@ -87,6 +87,7 @@ Website Contributors
 * **Salvador Pineda Morente**
 * **Juan Miguel Morales**
 
+Website originally designed and created by Ricardo Fernández-Blanco Carramolino
 
 If you would like to suggest any changes to the webpage, please contact: 
 
