@@ -25,7 +25,7 @@ conference papers, and contributions to conferences.
  * [Lisa Huckfield](https://sites.google.com/view/groupoasys/members?authuser=0) - lisa@uma.es	
  * [Ricardo Fernández-Blanco](https://scholar.google.com/citations?user=lPz_uUkAAAAJ&hl=es) - ricardo.fcarramolino@gmail.com
  * [Asunción Jiménez Cordero](https://www.researchgate.net/profile/Asuncion_Jimenez-Cordero/research) - asuncionjc@uma.es
- * [Ricardo Fernández-Blanco] original designer & creator of website
+ * Ricardo Fernández-Blanco original designer & creator of website
  
  (Please add your name here if you have contributed to the repo)
  
