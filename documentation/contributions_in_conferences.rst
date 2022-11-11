@@ -5,6 +5,16 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
+#. | **A. Esteban-Pérez**,  Y. Rychener, **J.M. Morales** and D. Kuhn, `Data-driven distributionally robust optimization with multiple datasets:Applications to the OPF problem`, INFORMS 22, Indianapolis, USA,16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
+
+#. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda, `Tight and compact sample average approximation for joint chance constrained optimal power flow`, INFORMS 22, Indianapolis, USA, 16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
+
+#. | A. Jiménez-Cordero, `Solving mixed-integer programs with warm-starting constraint generation methods via machine learning tools`, 3rd Spanish Young Statisticians and Operational Researchers Meeting (SYSORM) Elche, Spain, 21st-23rd September, 2022. `presentation <https://drive.google.com/uc?export=download&id=1wnw-nhMpnTB8tHetYXSlwpQo4wjb62K4>`_
+
+#. | **J.M. Morales**, **S. Pineda** and Y. Dvorkin, `Learning the price response of active distribution networks for TSO-DSO coordination`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1PumlxmdyOWjI3w2wRbeFgSkcCUaqEfDG>`_
+
+#. | S. Pineda, J. M. Morales, A. Jiménez-Cordero, `Data-driven screening of network constraints for Unit Commitment`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1T-zSpOoUPPN1dE5of577AEu44sMDLp63>`_
+
 #. | J.M. Morales invited speaker at Roundtable with Forums `Opportunities and challenges of conducting OR research`, XXXII European Conference on Operational Research (EURO 22) Espoo, Finland, 4-7th July, 2022.
 
 #. | A. Jiménez-Cordero `Feature selection in (functional) SVM via bilevel optimization` YW4OR session XXXII European Conference on Operational Research (EURO 22) Espoo, Finland, 4-7th July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1vKR9wxGpJg4P7Kj_d3GPt0V_RY-aYMQe>`_
