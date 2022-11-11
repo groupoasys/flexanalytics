@@ -11,7 +11,8 @@ The work developed by `Flexanalytics` has been presented in renowned national an
 
 #. |A. Jiménez-Cordero, `Solving mixed-integer programs with warm-starting constraint generation methods via machine learning tools`, 3rd Spanish Young Statisticians and Operational Researchers Meeting (SYSORM) Elche, Spain, 21st-23rd September, 2022. `presentation <https://drive.google.com/uc?export=download&id=1wnw-nhMpnTB8tHetYXSlwpQo4wjb62K4>`_
 
-#. | **J.M. Morales**, **S. Pineda** and Y. Dvorkin, `Learning the price response of active distribution networks for TSO-DSO coordination", PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1PumlxmdyOWjI3w2wRbeFgSkcCUaqEfDG>`_
+
+#. | **J.M. Morales**, **S. Pineda** and Y. Dvorkin, `Learning the price response of active distribution networks for TSO-DSO coordination`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1PumlxmdyOWjI3w2wRbeFgSkcCUaqEfDG>`_
 
 #. | S. Pineda, J. M. Morales, A. Jiménez-Cordero, `Data-driven screening of network constraints for Unit Commitment`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1T-zSpOoUPPN1dE5of577AEu44sMDLp63>`_
 
