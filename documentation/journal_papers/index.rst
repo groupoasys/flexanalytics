@@ -4,15 +4,17 @@ Journal papers
 
 The project `FlexAnalytics` has produced several research papers, which have been published in high-impact journals:
 
-#. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Stochastic Programs with Side Information Based on Trimmings<DRSPWSIBOT_TPWRS>`, `Mathematical Programming`, vol. 195, no. 1, pp. 1069--1105, November, 2022.
-#. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Optimal Power Flow with Contextual Information<DROPFWCI_EJOR>`, European Journal of Operational Research` vol. 305, no. 1, pp.O.A, October, 2022. 
+#. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Optimal Power Flow with Contextual Information<DROPFWCI_EJOR>`, `European Journal of Operational Research`, vol. 305, no. 1, pp.1047-1058 May, 2023.
+#. | Á. Porras, S. Pineda, J.M. Morales and A. Jimenez-Cordero, :ref:`Cost-driven Screening of Network Constraints for the Unit Commitment Problem<CDCNSFUCP_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 38, no. 1, pp. 42-51, Jan. 2023.
+#. | J.M. Morales, M.A. Muñoz and S. Pineda, :ref:`Prescribing net demand for two-stage electricity generation scheduling<PNDTSEGS_ORP>`, `Operations Research Perspectives`, vol. 10, pp. 100268, 2023.
+#. | A. Elías, J. M. Morales and S. Pineda, :ref:`A High Dimensional Functional Time Series Approach to Evolution Outlier Mining for Grouped Smart Meters<HDFTAGSM_QE>`, `Quality Engineering`, (EA) pp. 1-17, 2022. `code <https://github.com/groupoasys/smartOASYS>`_ 
+#. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Stochastic Programs with Side Information Based on Trimmings<DRSPWSIBOT_TPWRS>`, `Mathematical Programming`, vol. 195, no. 1, pp. 1069--1105, November, 2022. 
 #. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, :ref:`Warm-starting Constraint Generation for Mixed-integer Optimization: A Machine Learning Approach<WSCGMIO_KBS>`, `Knowledge-Based Systems` vol. 253, pp.109570, October, 2022. 
-#. | A. Porras, S. Pineda, J.M. Morales and A. Jimenez-Cordero, :ref:`Cost-driven Screening of Network Constraints for the Unit Commitment Problem<CDCNSFUCP_TPWRS>` `IEEE Transactions on Power Systems`, (EA) pp. 1--1 March, 2022.
+#. | A. Esteban-Pérez and J.M. Morales, :ref:`Partition-based Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints<PBDROOTOCC_TPWRS>`, `4OR A Quarterly Journal of Operations Research`, vol. 20, no. 3, pp. 465--497, September, 2022.
 #. | S. Pineda and J.M. Morales, :ref:`Is Learning for the Unit Commitment Problem a Low-hanging Fruit?<ILFTUCPLHF_EPSR>` `Electric Power Systems Research`, (EA) vol. 207, pp. 107851, June, 2022.
-#. | M. A. Muñoz, S. Pineda and J.M. Morales, :ref:`A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information<ABFFDUUWCI_TPWRS>`, `Omega`, (EA) vol. 108, pp. 102575, April, 2022.
+#. | M. A. Muñoz, S. Pineda and J.M. Morales, :ref:`A Bilevel Framework for Decision-making Under Uncertainty with Contextual Information<ABFFDUUWCI_TPWRS>`, `Omega`, (EA) vol. 108, pp. 102575, April, 2022. **Best Paper Award Omega 2022**
 #. | R. Fernández-Blanco, J.M. Morales,  S. Pineda and Á. Porras, :ref:`Inverse Optimization with Kernel Regression: Application to The Power Forecasting and Bidding Of A Fleet Of Electric Vehicles<IOKRAPFBFEV_TPWRS>`, `Computer and Operations Research`, vol. 134, pp. 105405, October 2021.
 #. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, :ref:`A Novel Embedded Min-Max Approach for Feature Selection in Nonlinear Support Vector Machine Classification<MMAFSNVMC_TPWRS>`, `European Journal of Operations Research`, vol. 293, no. 1, pp. 24--35, August 2021.
-#. | A. Esteban-Pérez and J.M. Morales, :ref:`Partition-based Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints<PBDROOTOCC_TPWRS>`, `4OR A Quarterly Journal of Operations Research`, June 2021.
 #. | R. Fernández-Blanco, J.M. Morales and S. Pineda, :ref:`Forecasting the Price-response of a Pool of Buildings via Homothetic Inverse Optimization<FPRPOBVHIO_TPWRS>`, `Applied Energy` vol. 290, pp.116791, May 2021.
 #. | S. Pineda, J.M. Morales and A. Jiménez-Cordero, :ref:`Data-Driven Screening of Network Constraints for Unit Commitment<DDSNCUC_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 35, no. 5, pp. 3695--3705, September 2020.
 #. | M. A. Muñoz, J.M. Morales, and S. Pineda, :ref:`Feature-driven Improvement of Renewable Energy Forecasting and Trading<NVWIND_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 35, no. 5, pp. 3753--3763, September 2020.
@@ -22,16 +24,18 @@ The project `FlexAnalytics` has produced several research papers, which have bee
 
 .. toctree::
    :hidden:
-   
+
    DROPFWCI_EJOR
-   WSCGMIO_KBS
    CDCNSFUCP_TPWRS
+   PNDTSEGS_ORP
+   HDFTAGSM_QE
+   DRSPWSIBOT_TPWRS
+   WSCGMIO_KBS
+   PBDROOTOCC_TPWRS
    ILFTUCPLHF_EPSR
    ABFFDUUWCI_TPWRS
-   DRSPWSIBOT_TPWRS
    IOKRAPFBFEV_TPWRS
    MMAFSNVMC_TPWRS
-   PBDROOTOCC_TPWRS
    FPRPOBVHIO_TPWRS
    DDSNCUC_TPWRS
    NVWIND_TPWRS
