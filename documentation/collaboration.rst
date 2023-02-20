@@ -7,23 +7,23 @@ The project `Flexanalytics` has also produced the following research results in 
 
 #. | **J.M. Morales** and **S.Pineda**, co-editors for special edition `Essays on Operations Research in Energy`_, `TOP` vol. 30, no. 3 pp. 427--429 October, 2022.
 
-#. | V. Bucarey, M. Labbé **J. M. Morales** and **S. Pineda**, `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, vol. 105, pp. 102516, July 2021.
+#. | V. Bucarey, M. Labbé **J.M. Morales** and **S. Pineda**, `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, vol. 105, pp. 102516, July 2021.
 
-#. | **J. M. Morales**, **S. Pineda** and Yury Dvorkin, `Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination`_, `IEEE Transactions on Power Systems`, vol. 37, no. 4, pp. 2858-2868, July 2022.
+#. | **J.M. Morales**, **S. Pineda** and Y. Dvorkin, `Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination`_, `IEEE Transactions on Power Systems`, vol. 37, no. 4, pp. 2858-2868, July 2022.
 
 #. | M. Gržanić, **J. M. Morales**, **S. Pineda** and T. Capuder, `Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty`_, `IEEE Access`, vol. 9, pp. 30225--30241, February 2021.
 
-#. | D. Guericke, I. Blanco, **J. M. Morales** and H. Madsen , `A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants`_, `OR Spectrum`, vol. 42, no. 4, pp. 863--900, December 2020.
+#. | D. Guericke, I. Blanco, **J.M. Morales** and H. Madsen , `A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants`_, `OR Spectrum`, vol. 42, no. 4, pp. 863--900, December 2020.
 
-#. | G. De Zotti, S. A. Pourmousavi, **J. M. Morales**, H. Madsen and N. K. Poulsen,  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` vol. 35, no. 3, pp. 1868--1880, May 2020.
+#. | G. De Zotti, S. A. Pourmousavi, **J.M. Morales**, H. Madsen and N.K. Poulsen,  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` vol. 35, no. 3, pp. 1868--1880, May 2020.
 
-#. | N. Mazzi, A. Trivella, and **J. M. Morales**, `Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1980--1990, May 2019.
+#. | N. Mazzi, A. Trivella, and **J.M. Morales**, `Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1980--1990, May 2019.
 
-#. | G. De Zotti, S. A. Pourmousavi, **J. M. Morales**, H. Madsen, and N. K. Poulsen, `Consumers' Flexibility Estimation at the TSO Level for Balancing Services`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1918--1930, May 2019.
+#. | G. De Zotti, S. A. Pourmousavi, **J.M. Morales**, H. Madsen, and N.K. Poulsen, `Consumers' Flexibility Estimation at the TSO Level for Balancing Services`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1918--1930, May 2019.
 
-#. | V. Dvorkin, S. Delikaraoglou and **J. M. Morales**, `Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch`_, `IEEE Transactions on Power Systems`, vol. 34, no. 2, pp. 1524--1536, March 2019.
+#. | V. Dvorkin, S. Delikaraoglou and **J.M. Morales**, `Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch`_, `IEEE Transactions on Power Systems`, vol. 34, no. 2, pp. 1524--1536, March 2019.
 
-#. | C. Ordoudis, P. Pinson, and **J. M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, January 2019.
+#. | C. Ordoudis, P. Pinson, and **J.M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, January 2019.
 
 
 .. _A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants: https://rdcu.be/b482o
