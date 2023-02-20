@@ -6,9 +6,13 @@ OASYS Seminar Series
 As a vital forum for brainstorming, collaboration and sharing results, the *OASYS Seminar Series* was born.  A monthly seminar/research platform where, not only members of OASYS working on the *FlexAnalytics* project, but also international researchers in the field, present their ideas, and get a fresh take on the ongoing work of *FlexAnalytics*.
 A number of new working relationships across Europe have been forged, and even new members of the team found, thanks to this initiative. 
 
-This recently culminated in a hugely successful symposium, with a number of experts, from distinct research groups and universities around Europe, invited to speak and share their knowledge. For more details on this symposium `visit our group's website. <https://sites.google.com/view/groupoasys/conferences-and-seminars/oasys-seminar-series?authuser=0>`_
+In September 2022 this culminated in a hugely successful symposium, with a number of experts, from distinct research groups and universities around Europe, invited to speak and share their knowledge. For more details on this symposium `visit our group's website. <https://sites.google.com/view/groupoasys/conferences-and-seminars/oasys-seminar-series?authuser=0>`_
+
+#. | Hossein Nematzadeh (Postdoctoral researcher in the `KHAOS <https://www.google.com/url?q=https%3A%2F%2Fkhaos.uma.es%2F&sa=D>`_ research group, University of Málaga & Assistant Professor Islamic Azad University) `Automatic frequency-based feature selection using discrete weighted evolution strategy`, Ada Byron Research Centre, 20th of January, 2023.  `article <https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1568494622007487&sa=D>`_
 
 #. | Alfredo Marín (University of Murcia) `Soft-margin Support Vector Machine: Ordered weighted average and some criticism`, Ada Byron Research Centre 3rd of October, 2022.
+
+#. | FlexAnalytics Symposium on Data-driven Decision Making via Mathematical Optimization and Statistics 26th – 29th of September 2022. `programme <https://drive.google.com/uc?export=download&id=1hQOGHUPv4fDT_sygWX_MaWUjBt-AlL1A>`_
 
 #. | Akylas Stratigakos (Center PERSEE, Mines Paris, PSL University) `Towards the prescriptive analytics paradigm for energy forecasting and optimization in power systems.`, Ada Byron Research Centre 21st of September, 2022. `presentation <https://drive.google.com/uc?export=download&id=1qkQXbCAn-5Y7j-0aUWJefDLslO6-9UbA>`_
 

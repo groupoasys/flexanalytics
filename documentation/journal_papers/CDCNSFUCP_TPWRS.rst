@@ -17,7 +17,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	A. Porras, S. Pineda, J. M. Morales and A. Jimenez-Cordero, "Cost-driven Screening of Network Constraints for the Unit Commitment Problem," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2022.3160016. 2022
+	A. Porras, S. Pineda, J. M. Morales and A. Jimenez-Cordero, "Cost-driven Screening of Network Constraints for the Unit Commitment Problem," in IEEE Transactions on Power Systems, vol. 38, no. 1, pp. 42-51, Jan. 2023.
 
 Alternatively you could use this bibtex entry: 
 
@@ -27,10 +27,10 @@ Alternatively you could use this bibtex entry:
   author={{Porras, Alvaro and Pineda, Salvador and Morales, Juan Miguel and Jimenez-Cordero, Asuncion}},  
   journal={IEEE Transactions on Power Systems},   
   title={Cost-driven Screening of Network Constraints for the Unit Commitment Problem},  
-  year={2022},  
-  volume={},  
-  number={-},  
-  pages={1-1},  
+  year={2023},  
+  volume={38},  
+  number={1},  
+  pages={42-51},  
   doi={10.1109/TPWRS.2022.3160016}}
   ISSN={1558-0679},}
 

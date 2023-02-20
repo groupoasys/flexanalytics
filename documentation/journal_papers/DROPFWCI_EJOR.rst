@@ -16,7 +16,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	Adrián Esteban-Pérez, Juan M. Morales, ´Distributionally Robust Optimal Power Flow with Contextual Information` European Journal of Operational Research, 2022
+	Adrián Esteban-Pérez, Juan M. Morales, ´Distributionally Robust Optimal Power Flow with Contextual Information` European Journal of Operational Research, 2023
 
 You can use this bibtex entry: 
 
@@ -25,7 +25,10 @@ You can use this bibtex entry:
   @article{ESTEBANPEREZ2022,
   title = {Distributionally Robust Optimal Power Flow with Contextual Information},
   journal = {European Journal of Operational Research},
-  year = {2022},
+  volume = {306},
+  number = {3},
+  pages = {1047-1058},
+  year = {2023},
   issn = {0377-2217},
   doi = {https://doi.org/10.1016/j.ejor.2022.10.024},
   url = {https://www.sciencedirect.com/science/article/pii/S0377221722008128},
@@ -33,4 +36,4 @@ You can use this bibtex entry:
   
 
 .. _[1]: https://www.sciencedirect.com/science/article/pii/S0377221722008128
-.. _[2]: https://arxiv.org/abs/2109.07896
+.. _[2]: https://drive.google.com/uc?export=download&id=1DnS96AlXbMIgu1NVykAdKyQ9SrvDFfxc

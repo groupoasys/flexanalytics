@@ -5,6 +5,8 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
+#. | **R. Gázquez**, V. Blanco and F. Saldanha-da-Gama, `The α–CVaR and other alternatives to deal with uncertainty in the Hybridized Maximal Covering Location problem`, Operations Research special sessions in the VI Conference Spanish Royal Mathematical Society (RSME 2023) Leon, Spain, 6th-10th February, 2023. `presentation <https://drive.google.com/uc?export=download&id=1V7CH__VVTNAJZkM52rDVenIjxgsrH8iv>`_
+
 #. | **A. Esteban-Pérez**,  Y. Rychener, **J.M. Morales** and D. Kuhn, `Data-driven distributionally robust optimization with multiple datasets:Applications to the OPF problem`, INFORMS 22, Indianapolis, USA,16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
 
 #. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda, `Tight and compact sample average approximation for joint chance constrained optimal power flow`, INFORMS 22, Indianapolis, USA, 16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
