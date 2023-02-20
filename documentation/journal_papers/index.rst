@@ -6,7 +6,7 @@ The project `FlexAnalytics` has produced several research papers, which have bee
 
 #. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Optimal Power Flow with Contextual Information<DROPFWCI_EJOR>`, `European Journal of Operational Research`, vol. 305, no. 1, pp.1047-1058 May, 2023.
 #. | Á. Porras, S. Pineda, J.M. Morales and A. Jimenez-Cordero, :ref:`Cost-driven Screening of Network Constraints for the Unit Commitment Problem<CDCNSFUCP_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 38, no. 1, pp. 42-51, Jan. 2023.
-#. | J.M. Morales, M.A. Muñoz and S. Pineda, :ref:`Prescribing net demand for two-stage electricity generation scheduling<PNDTSEGS_ORP>`, `Operations Research Perspectives`, vol. 10, pp. 100268, 2023.
+#. | J.M. Morales, M.A. Muñoz and S. Pineda, :ref:`Prescribing Net Demand for Two-stage Electricity Generation Scheduling<PNDTSEGS_ORP>`, `Operations Research Perspectives`, vol. 10, pp. 100268, 2023.
 #. | A. Elías, J. M. Morales and S. Pineda, :ref:`A High Dimensional Functional Time Series Approach to Evolution Outlier Mining for Grouped Smart Meters<HDFTAGSM_QE>`, `Quality Engineering`, (EA) pp. 1-17, 2022. `code <https://github.com/groupoasys/smartOASYS>`_ 
 #. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Stochastic Programs with Side Information Based on Trimmings<DRSPWSIBOT_TPWRS>`, `Mathematical Programming`, vol. 195, no. 1, pp. 1069--1105, November, 2022. 
 #. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, :ref:`Warm-starting Constraint Generation for Mixed-integer Optimization: A Machine Learning Approach<WSCGMIO_KBS>`, `Knowledge-Based Systems` vol. 253, pp.109570, October, 2022. 
