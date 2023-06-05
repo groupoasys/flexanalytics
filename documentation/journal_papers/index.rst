@@ -4,7 +4,8 @@ Journal papers
 
 The project `FlexAnalytics` has produced several research papers, which have been published in high-impact journals:
 
-#. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Optimal Power Flow with Contextual Information<DROPFWCI_EJOR>`, `European Journal of Operational Research`, vol. 305, no. 1, pp.1047-1058 May, 2023.
+#. | C. Domínguez, Álvaro Porras, S. Pineda and J.M. Morales, :ref:`Optimal Power Flow Under Uncertainty<OPFUU_EEEPE>`, book chapter `Encyclopedia of Electrical and Electronic Power Engineering` ISBN: 978-0-12-823211-8, pp. 765-776, 2023. 
+#. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Optimal Power Flow with Contextual Information<DROPFWCI_EJOR>`, `European Journal of Operational Research`, vol. 305, no. 1, pp.1047-1058, May, 2023.
 #. | Á. Porras, S. Pineda, J.M. Morales and A. Jimenez-Cordero, :ref:`Cost-driven Screening of Network Constraints for the Unit Commitment Problem<CDCNSFUCP_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 38, no. 1, pp. 42-51, Jan. 2023.
 #. | J.M. Morales, M.A. Muñoz and S. Pineda, :ref:`Prescribing Net Demand for Two-stage Electricity Generation Scheduling<PNDTSEGS_ORP>`, `Operations Research Perspectives`, vol. 10, pp. 100268, 2023.
 #. | A. Elías, J. M. Morales and S. Pineda, :ref:`A High Dimensional Functional Time Series Approach to Evolution Outlier Mining for Grouped Smart Meters<HDFTAGSM_QE>`, `Quality Engineering`, (EA) pp. 1-17, 2022. `code <https://github.com/groupoasys/smartOASYS>`_ 
@@ -25,6 +26,7 @@ The project `FlexAnalytics` has produced several research papers, which have bee
 .. toctree::
    :hidden:
 
+   OPFUU_EEEPE
    DROPFWCI_EJOR
    CDCNSFUCP_TPWRS
    PNDTSEGS_ORP

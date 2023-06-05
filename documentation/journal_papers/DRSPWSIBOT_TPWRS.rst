@@ -2,7 +2,7 @@
 
 Distributionally Robust Stochastic Programs with Side Information Based on Trimmings 
 ========================================================================================================
-.. sectionauthor:: Lisa Huckfield <lisa@uma.es>
+.. sectionauthor:: Lisa Huckfield Morgan <lisa@uma.es>
 
 This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_.
 
