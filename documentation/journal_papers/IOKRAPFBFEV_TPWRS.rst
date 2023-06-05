@@ -2,7 +2,7 @@
 
 Inverse Optimization with Kernel Regression: Application to The Power Forecasting and Bidding Of A Fleet Of Electric Vehicles
 ====================================================================================================================================
-.. sectionauthor:: Lisa Huckfield <tradrev12@gmail.com>
+.. sectionauthor:: Lisa Huckfield Morgan <lisa@uma.es>
 
 This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_.
 

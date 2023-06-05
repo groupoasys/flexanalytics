@@ -2,7 +2,7 @@
 
 Is Learning for the Unit Commitment Problem a Low-hanging Fruit? 
 ================================================================
-.. sectionauthor:: Lisa Huckfield
+.. sectionauthor:: Lisa Huckfield Morgan <lisa@uma.es>
 
 This is a summary of the work that can be found in `[1]`_. Open Access pdf is available at `[2]`_.
 

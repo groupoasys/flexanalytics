@@ -4,6 +4,7 @@ Collaboration with Other Groups
 ===============================
 The project `Flexanalytics` has also produced the following research results in collaboration with other international research groups:  
 
+#. | **S. Pineda**, **J.M. Morales** and Sonja Wogrin, `Mathematical Programming for Power Systems`_, Book Chapter `Encyclopedia of Electrical and Electronic Power Engineering` ISBN: 978-0-12-823211-8 pp. 722-733, 2023.
 
 #. | **J.M. Morales** and **S.Pineda**, co-editors for special edition `Essays on Operations Research in Energy`_, `TOP` vol. 30, no. 3 pp. 427--429 October, 2022.
 
@@ -26,6 +27,7 @@ The project `Flexanalytics` has also produced the following research results in 
 #. | C. Ordoudis, P. Pinson, and **J.M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, January 2019.
 
 
+.. _Mathematical Programming for Power Systems: https://www.sciencedirect.com/science/article/abs/pii/B9780128212042000441?via%3Dihub
 .. _A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants: https://rdcu.be/b482o
 .. _Consumers' Flexibility Estimation at the TSO Level for Balancing Services: https://ieeexplore.ieee.org/document/8570785
 .. _Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch: https://ieeexplore.ieee.org/document/8515058
