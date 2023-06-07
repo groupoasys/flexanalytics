@@ -5,6 +5,7 @@ Working papers
 
 We never rest! `FlexAnalytics` continues its research with the following working papers and preprints:
 
+#. | S.Pineda, J.M. Morales, Á. Porras and C. Domínguez, `Tight big-Ms for optimal transmission switching <https://arxiv.org/abs/2306.02784>`_, submitted June, 2023.
 #. | C. Domínguez, R. Gázguez, J.M. Morales and S. Pineda, `The cooperative maximum capture facility location problem <https://arxiv.org/abs/2305.15169>`_, submitted May, 2023.
 #. | S.Pineda, J.M. Morales and A. Jiménez-Cordero, `Learning-assisted optimization for transmission switching <https://arxiv.org/abs/2304.07269>`_, submitted April, 2023. 
 #. | A. Stratigakos, S. Pineda, J. M. Morales, G. Kariniotakis, `Interpretable machine learning for DC optimal power flow with feasibility guarantees <https://www.researchgate.net/publication/369438008_Interpretable_Machine_Learning_for_DC_Optimal_Power_Flow_with_Feasibility_Guarantees>`_, submitted March 2023.
