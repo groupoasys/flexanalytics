@@ -17,7 +17,7 @@ Citation
 
 If you would like to cite this work, please use the following citation: 
 
-	Á. Porras, C. Domínguez, J.M. Morales and S. Pineda (2023). `Tight and compact sample average approximation for joint chance constrained optimal power flow`. `INFORMS Journal on Computing`, 35(6): 1454--1469.
+	Á. Porras, C. Domínguez, J.M. Morales and S. Pineda (2023). Tight and compact sample average approximation for joint chance constrained optimal power flow. INFORMS Journal on Computing, 35(6): 1454--1469.
 
 You can use this bibtex entry: 
 

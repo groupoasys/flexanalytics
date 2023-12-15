@@ -4,7 +4,7 @@ Journal papers
 
 The project `FlexAnalytics` has produced several research papers, which have been published in high-impact journals:
 
-#. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda (2023). :ref:`Tight and Compact Sample Average Approximation for Joint Chance Constrained Optimal Power Flow<TACSAA_IJOC>`, `INFORMS Journal On Computing`, 1-16 doi: 10.1287/ijoc.2022.0302.
+#. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda (2023). :ref:`Tight and Compact Sample Average Approximation for Joint Chance Constrained Optimal Power Flow<TACSAA_IJOC>`, `INFORMS Journal On Computing`, 35(6): 1454 - 1469.
 #. | C. Domínguez, Álvaro Porras, S. Pineda and J.M. Morales (2023). :ref:`Optimal Power Flow Under Uncertainty<OPFUU_EEEPE>`, book chapter `Encyclopedia of Electrical and Electronic Power Engineering` ISBN: 978-0-12-823211-8: 765-776. 
 #. | A. Esteban-Pérez and J.M. Morales (2023) :ref:`Distributionally Robust Optimal Power Flow with Contextual Information<DROPFWCI_EJOR>`, `European Journal of Operational Research`, 305(1): 1047-1058. 
 #. | Á. Porras, S. Pineda, J.M. Morales and A. Jimenez-Cordero (2023). :ref:`Cost-driven Screening of Network Constraints for the Unit Commitment Problem<CDCNSFUCP_TPWRS>`, `IEEE Transactions on Power Systems`, 38(1):42-51.

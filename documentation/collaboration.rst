@@ -10,7 +10,7 @@ The project `Flexanalytics` has also produced the following research results in 
 
 #. | **S. Pineda**, **J.M. Morales** and Sonja Wogrin (2023). `Mathematical programming for power systems`_, Book Chapter `Encyclopedia of Electrical and Electronic Power Engineering`, ISBN: 978-0-12-823211-8: 722--733.
 
-#. | **J.M. Morales** and **S.Pineda** (2022) co-editors for special edition `Essays on Operations Research in Energy`_, `TOP`, 30(3): 427--429.
+#. | **J.M. Morales** and **S.Pineda** (2022). co-editors for special edition `Essays on Operations Research in Energy`_, `TOP`, 30(3): 427--429.
 
 #. | V. Bucarey, M. Labbé **J.M. Morales** and **S. Pineda** (2021). `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, 105: 102516.
 
@@ -30,10 +30,8 @@ The project `Flexanalytics` has also produced the following research results in 
 
 #. | C. Ordoudis, P. Pinson, and **J.M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, January 2019.
 
-.._ Interpretable Machine Learning for DC Optimal Power Flow with Feasibility Guarantees:
-https://ieeexplore.ieee.org/document/10319106
-.. _Online Decision Making for Trading Wind Energy:
-https://link.springer.com/article/10.1007/s10287-023-00462-2
+.. _Interpretable Machine Learning for DC Optimal Power Flow with Feasibility Guarantees: https://ieeexplore.ieee.org/document/10319106
+.. _Online Decision Making for Trading Wind Energy: https://link.springer.com/article/10.1007/s10287-023-00462-2
 .. _Mathematical Programming for Power Systems: https://www.sciencedirect.com/science/article/abs/pii/B9780128212042000441?via%3Dihub
 .. _A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants: https://rdcu.be/b482o
 .. _Consumers' Flexibility Estimation at the TSO Level for Balancing Services: https://ieeexplore.ieee.org/document/8570785
@@ -44,4 +42,4 @@ https://link.springer.com/article/10.1007/s10287-023-00462-2
 .. _Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty: https://ieeexplore.ieee.org/document/9354638
 .. _An Exact Dynamic Programming Approach to Segmented Isotonic Regression: https://www.sciencedirect.com/science/article/pii/S0305048321001250
 .. _Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination: https://ieeexplore.ieee.org/document/9615006?source=authoralert
-.. _Essays on Operations Research in Energy: https://link.springer.com/journal/11750/volumes-and-issues/30-3?utm_source=toc&utm_medium=email&utm_campaign=toc_11750_30_3&utm_content=etoc_springer_20221018
+.. _Essays on Operations Research in Energy: https://link.springer.com/journal/11750/volumes-and-issues/30-3 utm_source=toc&utm_medium=email&utm_campaign=toc_11750_30_3&utm_content=etoc_springer_20221018
