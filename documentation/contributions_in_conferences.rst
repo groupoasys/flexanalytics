@@ -5,6 +5,28 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
+#. | **C. Domínguez**, R. Gázquez, J.M. Morales and S. Pineda, `A Bilevel formulation and Benders Decomposition for the Cooperative Maximum Capture Facility Location`, XL Congreso Nacional de Estadística e Investigación Operativa y las XIV Jornadas de Estadística Pública (SEIO 23) 7th - 10th November, 2023. `presentation <https://drive.google.com/uc?export=download&id=19LoIWAIuj1UAvM8yJWAR_doRjkiq70nC>`_
+
+#. | **A. Jiménez-Cordero**, J.M. Morales and S. Pineda, `Machine-Learning-aided Optimal Transmission Switching`, XL Congreso Nacional de Estadística e Investigación Operativa y las XIV Jornadas de Estadística Pública (SEIO 23) 7th - 10th November, 2023. `presentation <https://drive.google.com/uc?export=download&id=1j7WMfbhviH1k9GYS2sQiMMmmtET0I1OW>`_
+
+#. | **J.M. Morales** and R. Mieth, `Valuing data using multi-source distributionally robust optimization`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://drive.google.com/uc?export=download&id=1OKKCpFXf2aHFYU_mfaO9oiG1VSUZ83AR>`_
+
+#. | **C. Dominguez**, R. Gázquez, J.M. Morales and S. Pineda, `Bilevel formulation and the two exact resolution approaches for the maximum capture facility location with random OWA utilities`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EYnMpEc4NTJFlo73klzr54gB-9D4u8El4uhwIeV7im22lA?e=S0v2te>`_
+
+#. | **S. Pineda**, J.M. Morales, C. Dominguez and Á. Porras, `Tightening big-M for optimal transmission switching`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EQNva3TUoK9OtLEY_jb5YuQBf4ifDaHf2oIfXLEXGAacTg?e=0aIxCJ>`_
+
+#. | **Á. Porras**, L. Roald, J.M. Morales, S. Pineda, `Integrating automatic and manual reserves in optimal power flow via chance constraints`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://drive.google.com/uc?export=download&id=1gkaKmuKVe5TQ3rTSz1DKZ4kC3l_CGa3w>`_
+
+#. | **S. Pineda**, J.M. Morales and M.Á. Muñoz, `A bilevel framework for decision-making under uncertainty with contextual information`, PowerTech 23, Belgrade, Serbia, June 25-29, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EV6awChQnl1IpTCTdlMD-CcBr9txXaKCE6OwRuwzB32STQ?e=JRe5BL>`_
+
+#. | **J.M. Morales**, `Decision-making under uncertainty with contextual information`, Future Energy Systems: Advances in OR and AI DTU PES Summer School, Lyngby, Denmark, 19th - 23rd June, 2023. `presentation <https://drive.google.com/uc?export=download&id=1zOZaui3hb_Fl3UWmwdkTCVIQz9_DdUEq>`_
+
+#. | **A. Jiménez-Cordero, J.M. Morales and S. Pineda, `A novel machine learning approach for solving optimal transmission switching`, 3rd EUROYoung Workshop, Cergy, France, 6th of June, 2023. `presentation <https://drive.google.com/uc?export=download&id=1yzHjbKYbJoWeCnSjuAxlZ_w9nYBC6-hT>`_
+
+#. | **S.Pineda**, J.M. Morales, C. Domínguez and Á. Porras, `Tightening big-M for optimal transmission switching`, Flexibility of Converter-based Microgrids (FLEXIBASE) final event workshop - University of Zagreb Faculty of Electrical Engineering and Computing, Zagreb, Croatia, 4th & 5th May, 2023. `presentation <https://drive.google.com/uc?export=download&id=1aPTGjC5Kydt-SlC1y3WhWZ3YDvN8P5dw>`_
+
+#. | **J.M. Morales** and Robert Mieth, `Valuing data for power system operations via multi-source distributionally robust optimization`, Flexibility of Converter-based Microgrids (FLEXIBASE) final event workshop - University of Zagreb Faculty of Electrical Engineering and Computing, Zagreb, Croatia, 4th & 5th May, 2023. `presentation <https://drive.google.com/uc?export=download&id=1-axsS88HFcQk28uzIP--vpm9UTEkguVx>`_
+
 #. | **R. Gázquez**, V. Blanco and F. Saldanha-da-Gama, `The α–CVaR and other alternatives to deal with uncertainty in the Hybridized Maximal Covering Location problem`, Operations Research special sessions in the VI Conference Spanish Royal Mathematical Society (RSME 2023) Leon, Spain, 6th-10th February, 2023. `presentation <https://drive.google.com/uc?export=download&id=1V7CH__VVTNAJZkM52rDVenIjxgsrH8iv>`_
 
 #. | **A. Esteban-Pérez**,  Y. Rychener, **J.M. Morales** and D. Kuhn, `Data-driven distributionally robust optimization with multiple datasets:Applications to the OPF problem`, INFORMS 22, Indianapolis, USA,16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
