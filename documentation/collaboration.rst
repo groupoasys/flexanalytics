@@ -14,21 +14,21 @@ The project `Flexanalytics` has also produced the following research results in 
 
 #. | V. Bucarey, M. Labbé **J.M. Morales** and **S. Pineda** (2021). `An Exact Dynamic Programming Approach to Segmented Isotonic Regression`_, `Omega`, 105: 102516.
 
-#. | **J.M. Morales**, **S. Pineda** and Y. Dvorkin, `Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination`_, `IEEE Transactions on Power Systems`, vol. 37, no. 4, pp. 2858-2868, July 2022.
+#. | **J.M. Morales**, **S. Pineda** and Y. Dvorkin (2022). `Learning the Price Response of Active Distribution Networks for TSO-DSO Coordination`_, `IEEE Transactions on Power Systems`, 37(4):2858--2868.
 
-#. | M. Gržanić, **J. M. Morales**, **S. Pineda** and T. Capuder, `Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty`_, `IEEE Access`, vol. 9, pp. 30225--30241, February 2021.
+#. | M. Gržanić, **J. M. Morales**, **S. Pineda** and T. Capuder (2021). `Electricity Cost-sharing in Energy Communities Under Dynamic Pricing and Uncertainty`_, `IEEE Access`, 9: 30225--30241.
 
-#. | D. Guericke, I. Blanco, **J.M. Morales** and H. Madsen , `A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants`_, `OR Spectrum`, vol. 42, no. 4, pp. 863--900, December 2020.
+#. | D. Guericke, I. Blanco, **J.M. Morales** and H. Madsen (2020). `A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants`_, `OR Spectrum`, 42(4): 863--900.
 
-#. | G. De Zotti, S. A. Pourmousavi, **J.M. Morales**, H. Madsen and N.K. Poulsen,  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` vol. 35, no. 3, pp. 1868--1880, May 2020.
+#. | G. De Zotti, S. A. Pourmousavi, **J.M. Morales**, H. Madsen and N.K. Poulsen (2020).  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` 35(3): 1868--1880.
 
-#. | N. Mazzi, A. Trivella, and **J.M. Morales**, `Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1980--1990, May 2019.
+#. | N. Mazzi, A. Trivella, and **J.M. Morales** (2019). `Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets`_, `IEEE Transactions on Power Systems`, 34(3): 1980--1990.
 
-#. | G. De Zotti, S. A. Pourmousavi, **J.M. Morales**, H. Madsen, and N.K. Poulsen, `Consumers' Flexibility Estimation at the TSO Level for Balancing Services`_, `IEEE Transactions on Power Systems`, vol. 34, no. 3, pp. 1918--1930, May 2019.
+#. | G. De Zotti, S. A. Pourmousavi, **J.M. Morales**, H. Madsen, and N.K. Poulsen (2019). `Consumers' Flexibility Estimation at the TSO Level for Balancing Services`_, `IEEE Transactions on Power Systems`, 34(3): 1918--1930.
 
-#. | V. Dvorkin, S. Delikaraoglou and **J.M. Morales**, `Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch`_, `IEEE Transactions on Power Systems`, vol. 34, no. 2, pp. 1524--1536, March 2019.
+#. | V. Dvorkin, S. Delikaraoglou and **J.M. Morales** (2019). `Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch`_, `IEEE Transactions on Power Systems`, 34(2): 1524--1536.
 
-#. | C. Ordoudis, P. Pinson, and **J.M. Morales**, `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, vol. 272, no. 2, pp. 642--654, January 2019.
+#. | C. Ordoudis, P. Pinson, and **J.M. Morales** (2019). `An Integrated Market for Electricity and Natural Gas Systems with Stochastic Power Producers`_, `European Journal of Operational Research`, 272(2): 642--654.
 
 .. _Interpretable Machine Learning for DC Optimal Power Flow with Feasibility Guarantees: https://ieeexplore.ieee.org/document/10319106
 .. _Online Decision Making for Trading Wind Energy: https://link.springer.com/article/10.1007/s10287-023-00462-2
