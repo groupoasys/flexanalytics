@@ -4,11 +4,12 @@ Journal papers
 
 The project `FlexAnalytics` has produced several research papers, which have been published in high-impact journals:
 
-#. | C. Domínguez, Álvaro Porras, S. Pineda and J.M. Morales, :ref:`Optimal Power Flow Under Uncertainty<OPFUU_EEEPE>`, book chapter `Encyclopedia of Electrical and Electronic Power Engineering` ISBN: 978-0-12-823211-8, pp. 765-776, 2023. 
-#. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Optimal Power Flow with Contextual Information<DROPFWCI_EJOR>`, `European Journal of Operational Research`, vol. 305, no. 1, pp.1047-1058, May, 2023.
-#. | Á. Porras, S. Pineda, J.M. Morales and A. Jimenez-Cordero, :ref:`Cost-driven Screening of Network Constraints for the Unit Commitment Problem<CDCNSFUCP_TPWRS>`, `IEEE Transactions on Power Systems`, vol. 38, no. 1, pp. 42-51, Jan. 2023.
+#. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda (2023). :ref:`Tight and Compact Sample Average Approximation for Joint Chance Constrained Optimal Power Flow<TACSAA_IJOC>`, `INFORMS Journal On Computing`, 35(6): 1454 - 1469.
+#. | C. Domínguez, Álvaro Porras, S. Pineda and J.M. Morales (2023). :ref:`Optimal Power Flow Under Uncertainty<OPFUU_EEEPE>`, book chapter `Encyclopedia of Electrical and Electronic Power Engineering` ISBN: 978-0-12-823211-8: 765-776. 
+#. | A. Esteban-Pérez and J.M. Morales (2023) :ref:`Distributionally Robust Optimal Power Flow with Contextual Information<DROPFWCI_EJOR>`, `European Journal of Operational Research`, 305(1): 1047-1058. 
+#. | Á. Porras, S. Pineda, J.M. Morales and A. Jimenez-Cordero (2023). :ref:`Cost-driven Screening of Network Constraints for the Unit Commitment Problem<CDCNSFUCP_TPWRS>`, `IEEE Transactions on Power Systems`, 38(1):42-51.
+#. | A. Elías, J. M. Morales and S. Pineda (2022). :ref:`A High Dimensional Functional Time Series Approach to Evolution Outlier Mining for Grouped Smart Meters<HDFTAGSM_QE>`, `Quality Engineering`, (EA) 1-17, 2022. `code <https://github.com/groupoasys/smartOASYS>`_ 
 #. | J.M. Morales, M.A. Muñoz and S. Pineda, :ref:`Prescribing Net Demand for Two-stage Electricity Generation Scheduling<PNDTSEGS_ORP>`, `Operations Research Perspectives`, vol. 10, pp. 100268, 2023.
-#. | A. Elías, J. M. Morales and S. Pineda, :ref:`A High Dimensional Functional Time Series Approach to Evolution Outlier Mining for Grouped Smart Meters<HDFTAGSM_QE>`, `Quality Engineering`, (EA) pp. 1-17, 2022. `code <https://github.com/groupoasys/smartOASYS>`_ 
 #. | A. Esteban-Pérez and J.M. Morales, :ref:`Distributionally Robust Stochastic Programs with Side Information Based on Trimmings<DRSPWSIBOT_TPWRS>`, `Mathematical Programming`, vol. 195, no. 1, pp. 1069--1105, November, 2022. 
 #. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, :ref:`Warm-starting Constraint Generation for Mixed-integer Optimization: A Machine Learning Approach<WSCGMIO_KBS>`, `Knowledge-Based Systems` vol. 253, pp.109570, October, 2022. 
 #. | A. Esteban-Pérez and J.M. Morales, :ref:`Partition-based Distributionally Robust Optimization via Optimal Transport with Order Cone Constraints<PBDROOTOCC_TPWRS>`, `4OR A Quarterly Journal of Operations Research`, vol. 20, no. 3, pp. 465--497, September, 2022.
@@ -26,11 +27,12 @@ The project `FlexAnalytics` has produced several research papers, which have bee
 .. toctree::
    :hidden:
 
+   TACSAA_IJOC
    OPFUU_EEEPE
    DROPFWCI_EJOR
    CDCNSFUCP_TPWRS
-   PNDTSEGS_ORP
    HDFTAGSM_QE
+   PNDTSEGS_ORP
    DRSPWSIBOT_TPWRS
    WSCGMIO_KBS
    PBDROOTOCC_TPWRS
