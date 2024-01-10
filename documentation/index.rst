@@ -81,7 +81,7 @@ or visit our social networks and personal sites:
 
 Website Contributors
 --------------------
-* **Lisa Huckfield-Morgan**
+* **Lisa Huckfield Morgan**
 * **Ricardo Fernández-Blanco Carramolino**
 * **Mª Asunción Jimenez Cordero**
 * **Salvador Pineda Morente**
@@ -90,7 +90,7 @@ Website Contributors
 If you would like to suggest any changes to the webpage, please contact: 
 
 
-* `Lisa Huckfield-Morgan`_- lisa@uma.es
+* `Lisa Huckfield Morgan`_- lisa@uma.es
 * `Juan Miguel Morales`_- juan.morales@uma.es
 
 Website originally designed and created by Ricardo Fernández-Blanco Carramolino
@@ -101,4 +101,4 @@ Website originally designed and created by Ricardo Fernández-Blanco Carramolino
 .. _University of Malaga: https://www.uma.es/?set_language=en
 .. _Ada Byron Research Building: https://www.google.es/maps/place/Edificio+de+Investigaci%C3%B3n+Ada+Byron/@36.7134684,-4.4955763,15z/data=!4m5!3m4!1s0x0:0x1032cecb86235596!8m2!3d36.7167245!4d-4.4998428
 .. _Juan Miguel Morales: https://sites.google.com/site/jnmmgo/
-.. _Lisa Huckfield-Morgan: https://sites.google.com/view/groupoasys/members?authuser=0 
+.. _Lisa Huckfield Morgan: https://sites.google.com/view/groupoasys/members?authuser=0 

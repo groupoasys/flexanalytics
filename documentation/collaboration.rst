@@ -6,7 +6,7 @@ The project `Flexanalytics` has also produced the following research results in 
 
 #. | A. Stratigakos, **S. Pineda**, **J.M. Morales** and G. Kariniotakis (2023). `Interpretable Machine Learning for DC Optimal Power Flow with Feasibility Guarantees`_, `IEEE Power Transactions on Power Systems`, 1-12, doi: 10.1109/TPWRS.2023.3333165. 
 
-#. | **M. Á. Muñoz**, J. Kazempour and P. Pinson (2023). `Online Decision Making for Trading Wind Energy`_, `Computational Management Science`, 20(1)33.
+#. | **M.Á. Muñoz**, J. Kazempour and P. Pinson (2023). `Online Decision Making for Trading Wind Energy`_, `Computational Management Science`, 20(1)33.
 
 #. | **S. Pineda**, **J.M. Morales** and Sonja Wogrin (2023). `Mathematical programming for power systems`_, Book Chapter `Encyclopedia of Electrical and Electronic Power Engineering`, ISBN: 978-0-12-823211-8: 722--733.
 
@@ -20,11 +20,11 @@ The project `Flexanalytics` has also produced the following research results in 
 
 #. | D. Guericke, I. Blanco, **J.M. Morales** and H. Madsen (2020). `A Two-phase Stochastic Programming Approach to Biomass Supply Planning for Combined Heat and Power Plants`_, `OR Spectrum`, 42(4): 863--900.
 
-#. | G. De Zotti, S. A. Pourmousavi, **J.M. Morales**, H. Madsen and N.K. Poulsen (2020).  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` 35(3): 1868--1880.
+#. | G. De Zotti, S.A. Pourmousavi, **J.M. Morales**, H. Madsen and N.K. Poulsen (2020).  `A Control-based Method to Meet TSO and DSO Ancillary Services Needs by Flexible End-users`_, `IEEE Transactions on Power Systems` 35(3): 1868--1880.
 
 #. | N. Mazzi, A. Trivella, and **J.M. Morales** (2019). `Enabling Active/Passive Electricity Trading in Dual-Price Balancing Markets`_, `IEEE Transactions on Power Systems`, 34(3): 1980--1990.
 
-#. | G. De Zotti, S. A. Pourmousavi, **J.M. Morales**, H. Madsen, and N.K. Poulsen (2019). `Consumers' Flexibility Estimation at the TSO Level for Balancing Services`_, `IEEE Transactions on Power Systems`, 34(3): 1918--1930.
+#. | G. De Zotti, S.A. Pourmousavi, **J.M. Morales**, H. Madsen, and N.K. Poulsen (2019). `Consumers' Flexibility Estimation at the TSO Level for Balancing Services`_, `IEEE Transactions on Power Systems`, 34(3): 1918--1930.
 
 #. | V. Dvorkin, S. Delikaraoglou and **J.M. Morales** (2019). `Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch`_, `IEEE Transactions on Power Systems`, 34(2): 1524--1536.
 

@@ -5,39 +5,39 @@ Contributions to Conferences
 
 The work developed by `Flexanalytics` has been presented in renowned national and international conferences:
 
-#. | **C. Domínguez**, R. Gázquez, J.M. Morales and S. Pineda, `A Bilevel formulation and Benders Decomposition for the Cooperative Maximum Capture Facility Location`, XL Congreso Nacional de Estadística e Investigación Operativa y las XIV Jornadas de Estadística Pública (SEIO 23) 7th - 10th November, 2023. `presentation <https://drive.google.com/uc?export=download&id=19LoIWAIuj1UAvM8yJWAR_doRjkiq70nC>`_
+#. | C. Domínguez, R. Gázquez, J.M. Morales and S. Pineda, `A Bilevel formulation and Benders Decomposition for the Cooperative Maximum Capture Facility Location`, XL Congreso Nacional de Estadística e Investigación Operativa y las XIV Jornadas de Estadística Pública (SEIO 23) 7th - 10th November, 2023. `presentation <https://drive.google.com/uc?export=download&id=19LoIWAIuj1UAvM8yJWAR_doRjkiq70nC>`_
 
-#. | **A. Jiménez-Cordero**, J.M. Morales and S. Pineda, `Machine-Learning-aided Optimal Transmission Switching`, XL Congreso Nacional de Estadística e Investigación Operativa y las XIV Jornadas de Estadística Pública (SEIO 23) 7th - 10th November, 2023. `presentation <https://drive.google.com/uc?export=download&id=1j7WMfbhviH1k9GYS2sQiMMmmtET0I1OW>`_
+#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `Machine-Learning-aided Optimal Transmission Switching`, XL Congreso Nacional de Estadística e Investigación Operativa y las XIV Jornadas de Estadística Pública (SEIO 23) 7th - 10th November, 2023. `presentation <https://drive.google.com/uc?export=download&id=1j7WMfbhviH1k9GYS2sQiMMmmtET0I1OW>`_
 
-#. | **J.M. Morales** and R. Mieth, `Valuing data using multi-source distributionally robust optimization`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://drive.google.com/uc?export=download&id=1OKKCpFXf2aHFYU_mfaO9oiG1VSUZ83AR>`_
+#. | J.M. Morales and R. Mieth, `Valuing data using multi-source distributionally robust optimization`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://drive.google.com/uc?export=download&id=1OKKCpFXf2aHFYU_mfaO9oiG1VSUZ83AR>`_
 
-#. | **C. Dominguez**, R. Gázquez, J.M. Morales and S. Pineda, `Bilevel formulation and the two exact resolution approaches for the maximum capture facility location with random OWA utilities`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EYnMpEc4NTJFlo73klzr54gB-9D4u8El4uhwIeV7im22lA?e=S0v2te>`_
+#. | C. Dominguez, R. Gázquez, J.M. Morales and S. Pineda, `Bilevel formulation and the two exact resolution approaches for the maximum capture facility location with random OWA utilities`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EYnMpEc4NTJFlo73klzr54gB-9D4u8El4uhwIeV7im22lA?e=S0v2te>`_
 
-#. | **S. Pineda**, J.M. Morales, C. Dominguez and Á. Porras, `Tightening big-M for optimal transmission switching`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EQNva3TUoK9OtLEY_jb5YuQBf4ifDaHf2oIfXLEXGAacTg?e=0aIxCJ>`_
+#. | S. Pineda, J.M. Morales, C. Dominguez and Á. Porras, `Tightening big-M for optimal transmission switching`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EQNva3TUoK9OtLEY_jb5YuQBf4ifDaHf2oIfXLEXGAacTg?e=0aIxCJ>`_
 
-#. | **Á. Porras**, L. Roald, J.M. Morales, S. Pineda, `Integrating automatic and manual reserves in optimal power flow via chance constraints`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://drive.google.com/uc?export=download&id=1gkaKmuKVe5TQ3rTSz1DKZ4kC3l_CGa3w>`_
+#. | Á. Porras, L. Roald, J.M. Morales and S. Pineda, `Integrating automatic and manual reserves in optimal power flow via chance constraints`, IFORS 23, Santiago de Chile, Chile, 10th - 14th July, 2023. `presentation <https://drive.google.com/uc?export=download&id=1gkaKmuKVe5TQ3rTSz1DKZ4kC3l_CGa3w>`_
 
-#. | **S. Pineda**, J.M. Morales and M.Á. Muñoz, `A bilevel framework for decision-making under uncertainty with contextual information`, PowerTech 23, Belgrade, Serbia, June 25-29, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EV6awChQnl1IpTCTdlMD-CcBr9txXaKCE6OwRuwzB32STQ?e=JRe5BL>`_
+#. | S. Pineda, J.M. Morales and M.Á. Muñoz, `A bilevel framework for decision-making under uncertainty with contextual information`, PowerTech 23, Belgrade, Serbia, June 25-29, 2023. `presentation <https://uma365-my.sharepoint.com/:b:/g/personal/spineda_uma_es/EV6awChQnl1IpTCTdlMD-CcBr9txXaKCE6OwRuwzB32STQ?e=JRe5BL>`_
 
-#. | **J.M. Morales**, `Decision-making under uncertainty with contextual information`, Future Energy Systems: Advances in OR and AI DTU PES Summer School, Lyngby, Denmark, 19th - 23rd June, 2023. `presentation <https://drive.google.com/uc?export=download&id=1zOZaui3hb_Fl3UWmwdkTCVIQz9_DdUEq>`_
+#. | J.M. Morales, `Decision-making under uncertainty with contextual information`, Future Energy Systems: Advances in OR and AI DTU PES Summer School, Lyngby, Denmark, 19th - 23rd June, 2023. `presentation <https://drive.google.com/uc?export=download&id=1zOZaui3hb_Fl3UWmwdkTCVIQz9_DdUEq>`_
 
-#. | **A. Jiménez-Cordero, J.M. Morales and S. Pineda, `A novel machine learning approach for solving optimal transmission switching`, 3rd EUROYoung Workshop, Cergy, France, 6th of June, 2023. `presentation <https://drive.google.com/uc?export=download&id=1yzHjbKYbJoWeCnSjuAxlZ_w9nYBC6-hT>`_
+#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `A novel machine learning approach for solving optimal transmission switching`, 3rd EUROYoung Workshop, Cergy, France, 6th of June, 2023. `presentation <https://drive.google.com/uc?export=download&id=1yzHjbKYbJoWeCnSjuAxlZ_w9nYBC6-hT>`_
 
-#. | **S.Pineda**, J.M. Morales, C. Domínguez and Á. Porras, `Tightening big-M for optimal transmission switching`, Flexibility of Converter-based Microgrids (FLEXIBASE) final event workshop - University of Zagreb Faculty of Electrical Engineering and Computing, Zagreb, Croatia, 4th & 5th May, 2023. `presentation <https://drive.google.com/uc?export=download&id=1aPTGjC5Kydt-SlC1y3WhWZ3YDvN8P5dw>`_
+#. | S.Pineda, J.M. Morales, C. Domínguez and Á. Porras, `Tightening big-M for optimal transmission switching`, Flexibility of Converter-based Microgrids (FLEXIBASE) final event workshop - University of Zagreb Faculty of Electrical Engineering and Computing, Zagreb, Croatia, 4th & 5th May, 2023. `presentation <https://drive.google.com/uc?export=download&id=1aPTGjC5Kydt-SlC1y3WhWZ3YDvN8P5dw>`_
 
-#. | **J.M. Morales** and Robert Mieth, `Valuing data for power system operations via multi-source distributionally robust optimization`, Flexibility of Converter-based Microgrids (FLEXIBASE) final event workshop - University of Zagreb Faculty of Electrical Engineering and Computing, Zagreb, Croatia, 4th & 5th May, 2023. `presentation <https://drive.google.com/uc?export=download&id=1-axsS88HFcQk28uzIP--vpm9UTEkguVx>`_
+#. | J.M. Morales and Robert Mieth, `Valuing data for power system operations via multi-source distributionally robust optimization`, Flexibility of Converter-based Microgrids (FLEXIBASE) final event workshop - University of Zagreb Faculty of Electrical Engineering and Computing, Zagreb, Croatia, 4th & 5th May, 2023. `presentation <https://drive.google.com/uc?export=download&id=1-axsS88HFcQk28uzIP--vpm9UTEkguVx>`_
 
-#. | **R. Gázquez**, V. Blanco and F. Saldanha-da-Gama, `The α–CVaR and other alternatives to deal with uncertainty in the Hybridized Maximal Covering Location problem`, Operations Research special sessions in the VI Conference Spanish Royal Mathematical Society (RSME 2023) Leon, Spain, 6th-10th February, 2023. `presentation <https://drive.google.com/uc?export=download&id=1V7CH__VVTNAJZkM52rDVenIjxgsrH8iv>`_
+#. | R. Gázquez, V. Blanco and F. Saldanha-da-Gama, `The α–CVaR and other alternatives to deal with uncertainty in the Hybridized Maximal Covering Location problem`, Operations Research special sessions in the VI Conference Spanish Royal Mathematical Society (RSME 2023) Leon, Spain, 6th-10th February, 2023. `presentation <https://drive.google.com/uc?export=download&id=1V7CH__VVTNAJZkM52rDVenIjxgsrH8iv>`_
 
-#. | **A. Esteban-Pérez**,  Y. Rychener, **J.M. Morales** and D. Kuhn, `Data-driven distributionally robust optimization with multiple datasets:Applications to the OPF problem`, INFORMS 22, Indianapolis, USA,16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
+#. | A. Esteban-Pérez,  Y. Rychener, J.M. Morales and D. Kuhn, `Data-driven distributionally robust optimization with multiple datasets:Applications to the OPF problem`, INFORMS 22, Indianapolis, USA,16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
 
 #. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda, `Tight and compact sample average approximation for joint chance constrained optimal power flow`, INFORMS 22, Indianapolis, USA, 16-19th October, 2022. `presentation <https://drive.google.com/uc?export=download&id=1D-PwIDZ3MLuPQyS5Ct0hZoR5iHC9zjgh>`_
 
 #. | A. Jiménez-Cordero, `Solving mixed-integer programs with warm-starting constraint generation methods via machine learning tools`, 3rd Spanish Young Statisticians and Operational Researchers Meeting (SYSORM) Elche, Spain, 21st-23rd September, 2022. `presentation <https://drive.google.com/uc?export=download&id=1wnw-nhMpnTB8tHetYXSlwpQo4wjb62K4>`_
 
-#. | **J.M. Morales**, **S. Pineda** and Y. Dvorkin, `Learning the price response of active distribution networks for TSO-DSO coordination`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1PumlxmdyOWjI3w2wRbeFgSkcCUaqEfDG>`_
+#. | J.M. Morales, S. Pineda and Y. Dvorkin, `Learning the price response of active distribution networks for TSO-DSO coordination`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1PumlxmdyOWjI3w2wRbeFgSkcCUaqEfDG>`_
 
-#. | S. Pineda, J. M. Morales, A. Jiménez-Cordero, `Data-driven screening of network constraints for Unit Commitment`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1T-zSpOoUPPN1dE5of577AEu44sMDLp63>`_
+#. | S. Pineda, J.M. Morales, A. Jiménez-Cordero, `Data-driven screening of network constraints for Unit Commitment`, PESGM 22, Denver, USA, 17th-21st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1T-zSpOoUPPN1dE5of577AEu44sMDLp63>`_
 
 #. | J.M. Morales invited speaker at Roundtable with Forums `Opportunities and challenges of conducting OR research`, XXXII European Conference on Operational Research (EURO 22) Espoo, Finland, 4-7th July, 2022.
 
@@ -57,7 +57,7 @@ The work developed by `Flexanalytics` has been presented in renowned national an
 
 #. | A. Esteban-Pérez and J.M. Morales, `Distributionally robust stochastic programs with side information based on trimmings`, Finalist for Best Paper Award. European Conference on Stochastic Optimization and Computational Management Science (ECSO-CMS 22), Venice, Italy, 29-30th June 1st July, 2022. `presentation <https://drive.google.com/uc?export=download&id=1jdnA49tS3ixGOdb4fd9qUAKkKc0jAEvc>`_ 
 
-#. | Á. Porras, C. Domínguez, J. M. Morales and S. Pineda, `Chance-Constrained Optimization applied to the Optimal Power Flow problem:  An MIP approach`, XXXIX National Congress of Statistics and Operational Research and the XIII Conference on Public Statistics (SEIO 2022) Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1iBkULxQlRDSEfoL1ygQgt_jLR1YHwdbB>`_
+#. | Á. Porras, C. Domínguez, J.M. Morales and S. Pineda, `Chance-Constrained Optimization applied to the Optimal Power Flow problem:  An MIP approach`, XXXIX National Congress of Statistics and Operational Research and the XIII Conference on Public Statistics (SEIO 2022) Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1iBkULxQlRDSEfoL1ygQgt_jLR1YHwdbB>`_
 
 #. | S. Pineda, M. Á. Muñoz and J.M. Morales, `A bilevel framework for decision-making under uncertainty with contextual information`, XXXIX National Congress of Statistics and Operational Research and the XIII Conference on Public Statistics (SEIO 2022) Granada, Spain, 7 - 10 June, 2022. `presentation <https://drive.google.com/uc?export=download&id=1k28s-wD4Xri1Gy-ix2rpETMkvivqMNAn>`_
 
@@ -77,31 +77,31 @@ The work developed by `Flexanalytics` has been presented in renowned national an
 
 #. | S. Pineda, J.M. Morales and Y. Dvorkin `Learning-based coordination of transmission and distribution operations`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2021) Anaheim, USA, 24-27 October, 2021. `presentation <https://drive.google.com/uc?export=download&id=1xrB28KkVr3Ee_T-n7OI1dctGLUio4k-C>`_
 
-#. | A. Porras, J. M. Morales, S. Pineda, A. Jiménez-Cordero `Cost-driven screening of network constraints for the unit commitment problem`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2021) Anaheim, USA, 24-27 October, 2021. `presentation <https://drive.google.com/uc?export=download&id=1oBHcTZSZCOu2sFD66dFA9MmBiuWn3vqV>`_
+#. | A. Porras, J.M. Morales, S. Pineda, A. Jiménez-Cordero `Cost-driven screening of network constraints for the unit commitment problem`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2021) Anaheim, USA, 24-27 October, 2021. `presentation <https://drive.google.com/uc?export=download&id=1oBHcTZSZCOu2sFD66dFA9MmBiuWn3vqV>`_
 
-#. | A. Elias, J. M. Morales, S. Pineda `Depth-based outlier detection for grouped smart meters: A functional data analysis toolbox`, The Institute for Operations Research and the Management Sciences Annual Meeting  (INFORMS 2021) Anaheim, USA, 24-27 October, 2021. `presentation <https://drive.google.com/uc?export=download&id=1LxAnbWJ3P07CGYqxb1PhrGqkAcz1wIN_>`_
+#. | A. Elias, J.M. Morales, S. Pineda `Depth-based outlier detection for grouped smart meters: A functional data analysis toolbox`, The Institute for Operations Research and the Management Sciences Annual Meeting  (INFORMS 2021) Anaheim, USA, 24-27 October, 2021. `presentation <https://drive.google.com/uc?export=download&id=1LxAnbWJ3P07CGYqxb1PhrGqkAcz1wIN_>`_
 
 #. | J.M. Morales, `Data-driven power systems (operations)`, Plenary Speaker Session, 31st European Conference on Operational Research (EURO 2021) Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1_JbGXX-p6eOaFmopc9sR5-xOmFUniyTJ>`_
 
 #. | A. Esteban-Pérez and J.M Morales, `Distributionally robust optimization with side information based on probability trimmings and optimal transport`, 31st European Conference on Operational Research (EURO 2021) Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1i_rJdJU9oSBDXJQ4-AOyN8k4BA9cLZ1T>`_
 
-#. | S. Pineda, J. M. Morales and Y. Dvorkin, `Learning-based coordination of transmission and distribution operations`, 31st European Conference on Operational Research (EURO 2021) Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1ssELEf_SuT0JT0BkHrobrx4uDVqnF4NS>`_
+#. | S. Pineda, J.M. Morales and Y. Dvorkin, `Learning-based coordination of transmission and distribution operations`, 31st European Conference on Operational Research (EURO 2021) Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1ssELEf_SuT0JT0BkHrobrx4uDVqnF4NS>`_
 
 #. | M.Á. Muñoz, J.M.Morales and S.Pineda, `A bilevel framework for decision-making under uncertainty with contextual information`, 31st European Conference on Operational Research (EURO 2021) Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1Q1JI_qubc_yG36E3YheC8rZ9I2CFHO5X>`_
 
-#. | Á. Porras, J.M. Morales, S.Pineda and A. Jiménez-Cordero, `Cost-aware constraint screening for the unit commitment problem`, 31st European Conference on Operational Research (EURO 2021) Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1MtnPF7eLl0J3P00KRZfs32SCFVmk6NTI>`_
+#. | Á. Porras, J.M. Morales, S. Pineda and A. Jiménez-Cordero, `Cost-aware constraint screening for the unit commitment problem`, 31st European Conference on Operational Research (EURO 2021) Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/uc?export=download&id=1MtnPF7eLl0J3P00KRZfs32SCFVmk6NTI>`_
 
-#. | A. Jiménez-Cordero, J. M. Morales and S. Pineda, `On improving MILP performance via machine learning tools`, 31st European Conference on Operational Research (EURO 2021)Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/file/d/14ekw3GjsO06HuI5KJl2_S8mDG0Uhg6ne/view?usp=sharing>`_
+#. | A. Jiménez-Cordero, J.M. Morales and S. Pineda, `On improving MILP performance via machine learning tools`, 31st European Conference on Operational Research (EURO 2021)Athens, Greece, 11 - 14 July, 2021. `presentation <https://drive.google.com/file/d/14ekw3GjsO06HuI5KJl2_S8mDG0Uhg6ne/view?usp=sharing>`_
 
 #. | S. Pineda, J.M. Morales and A. Jiménez-Cordero, `Data-driven screening of network constraints for unit commitment`, IEEE Power & Energy Society PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021. `presentation <https://drive.google.com/uc?export=download&id=1IYo9AjeRpQq6d70_fef0ydeUO9SD25oK>`_
 
 #. | S. Pineda, R. Fernandez-Blanco and J.M. Morales, `Time-adaptive unit commitment`, IEEE Power & Energy Society PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021. `presentation <https://drive.google.com/uc?export=download&id=17BOn-vCkaNrGEJSezGymbETSyMvyNwxj>`_ 
 
-#. | Á.Porras, R.Fernández-Blanco, J.M.Morales and S.Pineda, `An efficient robust approach to the  day-ahead operation of an aggregator of electric vehicles`, IEEE Power & Energy Society PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021. `presentation <https://drive.google.com/uc?export=download&id=1xScpK1kuMrikI5rfp6niED2piBWHIj8p>`_
+#. | Á.Porras, R.Fernández-Blanco, J.M. Morales and S. Pineda, `An efficient robust approach to the  day-ahead operation of an aggregator of electric vehicles`, IEEE Power & Energy Society PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021. `presentation <https://drive.google.com/uc?export=download&id=1xScpK1kuMrikI5rfp6niED2piBWHIj8p>`_
 
-#. | M.A. Muñoz, J.M.Morales and S.Pineda, `Data-driven strategies for trading renewable energy production`, IEEE Power & Energy Society PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021. `presentation <https://drive.google.com/uc?export=download&id=1ezGmNKyNPiMkVO5ehUv-CFnFjkqiB2h0>`_
+#. | M.A. Muñoz, J.M.Morales and S. Pineda, `Data-driven strategies for trading renewable energy production`, IEEE Power & Energy Society PowerTech Conference, Madrid, Spain, June 28 - July 2, 2021. `presentation <https://drive.google.com/uc?export=download&id=1ezGmNKyNPiMkVO5ehUv-CFnFjkqiB2h0>`_
 
-#. | M.Á. Muñoz,  S. Pineda  and  J.  M. Morales, `Optimal strategy of a Cournot firm through profit-driven learning`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2020) (online), 7-11 November 2020. `presentation <https://drive.google.com/uc?export=download&id=1ClquXM9sexcBmkOAOOl7S0gJtQotthfQ>`_ and `video <https://www.youtube.com/watch?v=H76N0__74JY&list=PLhltnrKKllohUPoBxZ7T0_lH0YPrDwle6&index=4>`_
+#. | M.Á. Muñoz,  S. Pineda  and  J.M. Morales, `Optimal strategy of a Cournot firm through profit-driven learning`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2020) (online), 7-11 November 2020. `presentation <https://drive.google.com/uc?export=download&id=1ClquXM9sexcBmkOAOOl7S0gJtQotthfQ>`_ and `video <https://www.youtube.com/watch?v=H76N0__74JY&list=PLhltnrKKllohUPoBxZ7T0_lH0YPrDwle6&index=4>`_
 
 #. | A. Jiménez Cordero, S. Pineda and J.M. Morales, `Interpretable learning in power system operations`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2020) (online), 7-11 November 2020. `presentation <https://drive.google.com/uc?export=download&id=11fQ1zkKn15rjci1zuM0tCDy0xp1CHSyq>`_ and `video <https://www.youtube.com/watch?v=hnZwQR-i6Xg&list=PLhltnrKKllohUPoBxZ7T0_lH0YPrDwle6&index=6>`_
 
@@ -119,35 +119,35 @@ The work developed by `Flexanalytics` has been presented in renowned national an
 
 #. | M.Á. Muñoz , J.M. Morales and S. Pineda, `A bilevel framework for decision-making under uncertainty with contextual information`, elevator pitch -- Autumn School on Bilevel Optimization, Trier University, Germany - virtual conference, 12-14 October 2020. `presentation <https://drive.google.com/uc?export=download&id=1_x30qrm9o_YcggCaQFhttJ1JuP1aEH1h>`_
 
-#. | A. Jiménez-Cordero, J. M. Morales, and S. Pineda, `A min-max approach to feature selection for nonlinear SVM classification`, V Congreso de Jóvenes Investigadores La Real Sociedad Matemática Española (RSME) Castellón, Spain, 27th-31st January 2020. `presentation <https://drive.google.com/uc?export=download&id=1FIy7ctuawn3l1ALPTyzYQ83plSZF1gog>`_
+#. | A. Jiménez-Cordero, J.M. Morales, and S. Pineda, `A min-max approach to feature selection for nonlinear SVM classification`, V Congreso de Jóvenes Investigadores La Real Sociedad Matemática Española (RSME) Castellón, Spain, 27th-31st January 2020. `presentation <https://drive.google.com/uc?export=download&id=1FIy7ctuawn3l1ALPTyzYQ83plSZF1gog>`_
 
-#. | A. Esteban-Pérez and J. M. Morales,  `Data-driven distributionally robust optimization via optimal transport with order cone constraints`, Jornada científica IMUS-UMA, Sevilla, Spain, 29th November 2019. 
+#. | A. Esteban-Pérez and J.M. Morales,  `Data-driven distributionally robust optimization via optimal transport with order cone constraints`, Jornada científica IMUS-UMA, Sevilla, Spain, 29th November 2019. 
 
 #. | R. Fernández-Blanco, Á. Porras, S. Pineda, and J. M. Morales, `A data-driven forecasting model for an aggregator of electric vehicles via inverse optimization`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2019) Seattle, USA, 20th-23rd October 2019.
 
-#. | S. Pineda, R. Fernández-Blanco, and J. M. Morales, `Time-adaptive unit commitment`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2019) Seattle, USA, 20-23rd October 2019.
+#. | S. Pineda, R. Fernández-Blanco, and J.M. Morales, `Time-adaptive unit commitment`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2019) Seattle, USA, 20-23rd October 2019.
 
-#. | S. Wogrin, D. Tejada-Arango, S. Pineda, and J. M. Morales, `Analyzing time period aggregation methods for power system investment and operation models with renewables and storage`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2019) Seattle, USA, 20th-23rd October 2019.
+#. | S. Wogrin, D. Tejada-Arango, S. Pineda, and J.M. Morales, `Analyzing time period aggregation methods for power system investment and operation models with renewables and storage`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2019) Seattle, USA, 20th-23rd October 2019.
 
-#. | J. M. Morales, M. Á. Muñoz, and S. Pineda, `A mathematical optimization approach to enhanced renewable energy forecasting and trading`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2019) Seattle, USA, 20th-23rd October 2019.
+#. | J.M. Morales, M.Á. Muñoz, and S. Pineda, `A mathematical optimization approach to enhanced renewable energy forecasting and trading`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2019) Seattle, USA, 20th-23rd October 2019.
 
-#. | Á. Porras, R. Fernández-Blanco, J. M. Morales, and S. Pineda, `Day-ahead operation of an aggregator of electric vehicles via optimization under uncertainty`_, 2nd International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 9th-11th September 2019.
+#. | Á. Porras, R. Fernández-Blanco, J.M. Morales, and S. Pineda, `Day-ahead operation of an aggregator of electric vehicles via optimization under uncertainty`_, 2nd International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 9th-11th September 2019.
 
-#. | A. Esteban-Pérez and J. M. Morales, `Data-driven distributionally robust optimization via optimal transport with order cone constraints`, The XV International Conference on Stochastic Programming (ICSP XV), Trondheim, Norway, 29th July-2nd August 2019.
+#. | A. Esteban-Pérez and J.M. Morales, `Data-driven distributionally robust optimization via optimal transport with order cone constraints`, The XV International Conference on Stochastic Programming (ICSP XV), Trondheim, Norway, 29th July-2nd August 2019.
 
-#. | R. Fernández-Blanco, J. M. Morales, and S. Pineda, `How can smart buildings be price-responsive?`_, 13th IEEE PowerTech 2019, Milano, Italy, 23rd-27th June 2019. `Best paper award`.
+#. | R. Fernández-Blanco, J.M. Morales, and S. Pineda, `How can smart buildings be price-responsive?`_, 13th IEEE PowerTech 2019, Milano, Italy, 23rd-27th June 2019. `Best paper award`.
 
-#. | S. Pineda and J. M. Morales, `Efficiently solving linear bilevel programming problems using off-the-shelf optimization software`, 30th European Conference on Operational Research (EURO 2019) Dublin, Ireland, 23th-26th June 2019.
+#. | S. Pineda and J.M. Morales, `Efficiently solving linear bilevel programming problems using off-the-shelf optimization software`, 30th European Conference on Operational Research (EURO 2019) Dublin, Ireland, 23th-26th June 2019.
 
-#. | J. M. Morales, R. Fernández-Blanco, and S. Pineda, `A fast algorithm to estimate the cost and the right-hand side parameter vectors in inverse linear optimization`, 30th European Conference on Operational Research (EURO 2019) Dublin, Ireland, 23th-26th June 2019.
+#. | J.M. Morales, R. Fernández-Blanco, and S. Pineda, `A fast algorithm to estimate the cost and the right-hand side parameter vectors in inverse linear optimization`, 30th European Conference on Operational Research (EURO 2019) Dublin, Ireland, 23th-26th June 2019.
 
-#. | Á. Porras, R. Fernández-Blanco, S. Pineda, and J. M. Morales, `Day-ahead operation of an aggregator of electric vehicles via optimization under uncertainty`, 30th European Conference on Operational Research (EURO 2019) Dublin, Ireland, 23th-26th June 2019.
+#. | Á. Porras, R. Fernández-Blanco, S. Pineda, and J.M. Morales, `Day-ahead operation of an aggregator of electric vehicles via optimization under uncertainty`, 30th European Conference on Operational Research (EURO 2019) Dublin, Ireland, 23th-26th June 2019.
 
-#. | G. De Zotti, S. A. P. Kani, J. M. Morales and Henrik Madsen, `Control-based provision of ancillary services by flexible end-users`, 30th European Conference on Operational Research (EURO 2019) Dublin, Ireland, 23th-26th June 2019.
+#. | G. De Zotti, S.A.P. Kani, J. M. Morales and Henrik Madsen, `Control-based provision of ancillary services by flexible end-users`, 30th European Conference on Operational Research (EURO 2019) Dublin, Ireland, 23th-26th June 2019.
 
-#. | M. Á. Muñoz, J. M. Morales, and S. Pineda, `Data-driven strategies for trading renewable energy production`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2018) Phoenix, USA, 4th-7th November 2018.
+#. | M. Á. Muñoz, J.M. Morales, and S. Pineda, `Data-driven strategies for trading renewable energy production`, The Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS 2018) Phoenix, USA, 4th-7th November 2018.
 
-#. | A. Esteban-Pérez and J. M. Morales, `Data-driven distributionally robust optimization with Wasserstein metric, moment conditions and robust constraints`, 29th European Conference on Operational Research (EURO 2018) Valencia, Spain, 8th-11th July 2018.
+#. | A. Esteban-Pérez and J.M. Morales, `Data-driven distributionally robust optimization with Wasserstein metric, moment conditions and robust constraints`, 29th European Conference on Operational Research (EURO 2018) Valencia, Spain, 8th-11th July 2018.
 
 
 .. _Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty: https://ieeexplore.ieee.org/document/8848991
